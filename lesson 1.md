@@ -56,6 +56,7 @@ public class MyFirstApp {
 ![var](https://user-images.githubusercontent.com/29703461/39217299-0f919ce0-4828-11e8-81a4-f15bfa34ef68.jpg)
 
 ### Цикл (while, for)
+![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/java-1.html)
 - [Операторы for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
