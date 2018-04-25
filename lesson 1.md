@@ -60,7 +60,7 @@ public class MyFirstApp {
 ### <a name ="7">7. Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/java-1.html)
-- [Операторы for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
+- [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
 ### <a name ="8">8. Домашнее задание</a>
 - Прочитать первую главу книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
