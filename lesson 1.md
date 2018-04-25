@@ -23,6 +23,8 @@ public class MyFirstApp {
 }
 ```
 **Ресурсы:**
+- [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
+- [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE)
 - ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
