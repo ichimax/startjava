@@ -71,7 +71,7 @@ public class MyFirstApp {
 
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
-![var](https://user-images.githubusercontent.com/29703461/39267217-debdd66c-48d4-11e8-9c88-58b2f3631840.png)
+![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
 
 ### <a name ="8">8. Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
