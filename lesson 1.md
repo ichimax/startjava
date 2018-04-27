@@ -45,7 +45,7 @@ public class MyFirstApp {
 >java MyFirstApp — запуск программы (байт-кода)
 
 **Ресурсы:**
-
+- [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 
 ### <a name="4">4. Этапы компиляции и запуска</a>
