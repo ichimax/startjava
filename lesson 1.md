@@ -49,7 +49,7 @@ public class MyFirstApp {
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 
 ### <a name="4">4. Этапы компиляции и запуска</a>
-![levels]((https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
+![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
 
 ### <a name="5">5. Байт-код</a>
 Чтобы отобразить байт-код класса, необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.class`):
