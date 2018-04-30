@@ -12,6 +12,7 @@
 - [Настройка проекта](#10)
 - [Домашнее задание](#11)
 
+[Shia LaBeouf Motivation for Coding](https://www.youtube.com/watch?time_continue=7&v=J1usv2Hn-pU)
 
 ### <a name="1">1. Подготовка рабочего окружения</a>
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
