@@ -12,8 +12,6 @@
 - [Настройка проекта](#10)
 - [Домашнее задание](#11)
 
-[Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
-
 ### <a name="1">1. Подготовка рабочего окружения</a>
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
@@ -129,3 +127,10 @@ public class MyFirstApp {
 6. `git add Файл_с_кодом.java` (файлы с расширением class не заносить) — добавьте файлы в git
 7. `git commit -m "описание изменений, которые вы внесли в программу"` — зафиксируйте изменения кода в git
 8. `git push -u origin master` — это действие делайте каждый раз, когда хотите отправить свой код на github
+
+### Немного мотивации
+- [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
+- [Мотивация для программистов](https://www.youtube.com/watch?v=NOVaNe3jx6c)
+- [Речь Стива Джобса Перед выпускниками Стенфорда](https://www.youtube.com/watch?v=WVz9E7o1mmk)
+- [Мотивационный совет от Стива Джобса](https://www.youtube.com/watch?v=Z2qSUZ1o47U)
+- [12 минут сильнейшей мотивации. Перелом сознания](https://www.youtube.com/watch?v=69MkvKrraC0)
