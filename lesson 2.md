@@ -14,6 +14,7 @@
 - [Зачем нам ООП и что это такое](https://habr.com/post/148015/)
 - [Объектно-ориентированное программирование](http://info.javarush.ru/translation/2016/01/28/Объектно-ориентированное-программирование-перевод-статьи-.html)
 - [Алан Кэй, создатель ООП, про разработку, Лисп и ООП](https://habr.com/company/hexlet/blog/303754/)
+- [Simula — 50 лет ООП](https://habr.com/post/345944/)
 
 ![oop](https://user-images.githubusercontent.com/29703461/39483340-b3a50496-4d7a-11e8-8e02-42a8d63de02d.jpg)
 
