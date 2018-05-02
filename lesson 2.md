@@ -28,7 +28,7 @@
 - [Класс](https://ru.wikipedia.org/wiki/Класс_(программирование)) (wiki)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-![class](https://user-images.githubusercontent.com/29703461/39483572-87df77aa-4d7b-11e8-9f6f-d1365a294db0.png)
+![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
 ### 3. <a name="3">Что такое объект</a>
 
