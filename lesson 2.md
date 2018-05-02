@@ -38,6 +38,8 @@
 - [What Is an Object?](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
 - [Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
 
+![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
+
 ### 4. <a name="4">Ответы на вопросы</a>
 > в чем разница между Классом и Объектом? Или это одно и тоже?
 
@@ -47,7 +49,8 @@
 - Модифицировать класс MyFirstGame:
   - создать класс GuessNumber, Player и GuessNumberTest
   - MyFirstGame удалить
-  - создать двух игроков, которые по очереди будут пытаться угадать число, загаданное компьютером
+  - для генерации компьютером псевдослучайного числа используйте класс [Random](https://www.journaldev.com/17111/java-random)
+  - создать двух игроков, которые по очереди будут пытаться угадать число, загаданное компьютером  
   - программа завершается, если один из пользователей угадал число
 - Модифицировать класс Calculator:
   - создать класс CalculatorTest
