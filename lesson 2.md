@@ -55,6 +55,7 @@
 ### 6. <a name="6">Инкапсуляция</a>
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
+- [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 
 ### 7. <a name="7">Ответы на вопросы</a>
 > в чем разница между Классом и Объектом? Или это одно и тоже?
