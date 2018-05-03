@@ -4,8 +4,10 @@
 - [Что такое класс](#2)
 - [Что такое объект](#3)
 - [Модификаторы доступа](#4)
-- [Ответы на вопросы](#5)
-- [Домашнее задание](#6)
+- [Геттеры/Сеттеры](#5)
+- [Инкапсуляция](#6)
+- [Ответы на вопросы](#7)
+- [Домашнее задание](#8)
 
 ### 1. <a name="1">Что такое ООП</a>
 
@@ -29,6 +31,7 @@
 - [Класс](https://ru.wikipedia.org/wiki/Класс_(программирование)) (wiki)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
+- [Тип данных String(строка) в Java](https://habr.com/post/260767/)
 ![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
 ### 3. <a name="3">Что такое объект</a>
@@ -44,12 +47,21 @@
 ### 4. <a name="4">Модификаторы доступа</a>
 В этом уроке мы пройдем два модификатора доступа: public и private
 
-### 5. <a name="5">Ответы на вопросы</a>
+### 5. <a name="5">Геттеры/Сеттеры</a>
+- [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
+- [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
+- [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
+
+### 6. <a name="6">Инкапсуляция</a>
+- [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
+- [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
+
+### 7. <a name="7">Ответы на вопросы</a>
 > в чем разница между Классом и Объектом? Или это одно и тоже?
 
 Класс и Объект — это разные понятия. Класс — это "чертеж" на основе которого создаются Объекты. Благодаря этому "чертежу" JVM знает, какой объект ей надо создать
 
-### 6. <a name="6">Домашнее задание</a>
+### 8. <a name="8">Домашнее задание</a>
 - Модифицировать класс MyFirstGame:
   - создать класс GuessNumber, Player и GuessNumberTest
   - MyFirstGame удалить
