@@ -64,6 +64,7 @@
 
 ### 8. <a name="8">Домашнее задание</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
+- Начните потихоньку читать — [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
 - Модифицируйте класс MyFirstGame:
   - создайте класс GuessNumber, Player и GuessNumberTest
   - удалите MyFirstGame
