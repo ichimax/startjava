@@ -1,9 +1,9 @@
 # Занятие второе
 
 ### Разбор домашнего задания
-- [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
-- [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
 ### Темы второго занятия
 - [Что такое ООП](#1)
