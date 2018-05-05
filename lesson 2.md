@@ -2,7 +2,7 @@
 
 ### Разбор домашнего задания
 - [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- "Угадайка"
+- ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 - Символы Unicode
 
 ### Темы второго занятия
