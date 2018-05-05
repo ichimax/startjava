@@ -3,7 +3,7 @@
 ### Разбор домашнего задания
 - [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
 - ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
-- Символы Unicode
+- [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
 ### Темы второго занятия
 - [Что такое ООП](#1)
@@ -51,7 +51,7 @@
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
 
 ### 4. <a name="4">Модификаторы доступа</a>
-В этом уроке мы пройдем два модификатора доступа: public и private
+В этом уроке мы пройдем два модификатора доступа: `public` и `private`
 
 ### 5. <a name="5">Геттеры/Сеттеры</a>
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
@@ -64,32 +64,32 @@
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 
 ### 7. <a name="7">Ответы на вопросы</a>
-> в чем разница между Классом и Объектом? Или это одно и тоже?
+> в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
 
 Класс и Объект — это разные понятия. Класс — это "чертеж" на основе которого создаются Объекты. Благодаря этому "чертежу" JVM знает, какой объект ей надо создать
 
 ### 8. <a name="8">Домашнее задание</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните потихоньку читать — [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
-- Модифицируйте класс MyFirstGame:
-  - создайте класс GuessNumber, Player и GuessNumberTest
-  - удалите MyFirstGame
-  - для генерации компьютером псевдослучайного числа используйте класс [Random](https://www.journaldev.com/17111/java-random) или [Math.random()](https://vertex-academy.com/tutorials/ru/generaciya-sluchajnyx-chisel-v-java/)
+- Модифицируйте класс `MyFirstGame`:
+  - создайте класс `GuessNumber`, `Player` и `GuessNumberTest`
+  - удалите `MyFirstGame`
+  - для генерации компьютером псевдослучайного числа используйте класс [`Random`](https://www.journaldev.com/17111/java-random) или [`Math.random()`](https://vertex-academy.com/tutorials/ru/generaciya-sluchajnyx-chisel-v-java/)
   - создайте двух игроков, которые по очереди будут пытаться угадать число, загаданное компьютером  
   - программа завершается, если один из пользователей угадал число
-- Модифицируйте класс Calculator:
-  - создайте класс CalculatorTest
-  - после каждого вычисления выводите сообщение: System.out.println("Хотите продолжить? [да/нет]");
+- Модифицируйте класс `Calculator`:
+  - создайте класс `CalculatorTest`
+  - после каждого вычисления выводите сообщение: `System.out.println("Хотите продолжить? [да/нет]")`;
   - программа завершается, если пользователь ввел "нет"
 - Создайте класс, описывающий одного из [роботов](http://pacificrim.wikia.com/wiki/Category:Jaegers)
   - создайте поля и методы
   - создайте 10 экземпляров (объектов) этого класса и протестируйте их
   
  ### Заметки на полях
- 1. Для ввода чисел (в Калькуляторе и "Угадайке") и знака мат.операции используйте клавиатуру (класс [Scanner](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
+ 1. Для ввода чисел (в Калькуляторе и "Угадайке") и знака мат.операции используйте клавиатуру (класс [`Scanner`](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
  2. Формат ввода мат.выражения в консоли для программы "Калькулятор" (пример):
     
     `10`   
     `+`  
     `10`
- 3. Метод main необходимо размещать в классах, в имени которых присутствует слово Test
+ 3. Метод `main` необходимо размещать в классах, в имени которых присутствует слово `Test`
