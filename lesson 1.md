@@ -12,7 +12,7 @@
 - [Настройка проекта](#10)
 - [Домашнее задание](#11)
 
-### <a name="1">1. Подготовка рабочего окружения</a>
+## <a name="1">1. Подготовка рабочего окружения</a>
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
@@ -20,7 +20,7 @@
 - Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/). Именно в нем мы и будем писать наши программы
 - **Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!**
 
-### <a name="2">2. Первая программа</a>
+## <a name="2">2. Первая программа</a>
 
 Напишите данный код:
 
@@ -38,7 +38,7 @@ public class MyFirstApp {
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
-### <a name="3">3. Ручная компиляция и запуск программы</a>
+## <a name="3">3. Ручная компиляция и запуск программы</a>
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
 >javac MyFirstApp.java — компиляция java-файла
 
@@ -48,10 +48,10 @@ public class MyFirstApp {
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 
-### <a name="4">4. Этапы компиляции и запуска</a>
+## <a name="4">4. Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
 
-### <a name="5">5. Байт-код</a>
+## <a name="5">5. Байт-код</a>
 Чтобы отобразить байт-код класса, необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.class`):
 >javap -c -s -verbose MyFirstApp
 
@@ -59,14 +59,14 @@ public class MyFirstApp {
 
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 
-### <a name="6">6. Ветвление (if, if else)</a>
+## <a name="6">6. Ветвление (if, if else)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 **Ресурсы:**
 
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 - [Оператор if/else](http://pr0java.blogspot.ru/2015/04/ifelse.html)
 
-### <a name="7">7. Переменные: примитивные типы данных</a>
+## <a name="7">7. Переменные: примитивные типы данных</a>
 **Ресурсы:**
 
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
@@ -74,7 +74,7 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
 
-### <a name ="8">8. Цикл (while, for)</a>
+## <a name ="8">8. Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Ресурсы:**
@@ -82,7 +82,7 @@ public class MyFirstApp {
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/java-1.html)
 - [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
-### <a name ="9">9. Система управления версиями Git</a>
+## <a name ="9">9. Система управления версиями Git</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
 **Ресурсы:**
@@ -94,7 +94,7 @@ public class MyFirstApp {
   - [Git обучалка](https://githowto.com/ru)
   - [Интерактивная Git обучалка (в настройках выберите русский язык)](http://learngitbranching.js.org)
   
-### <a name="10">10. Настройка проекта</a>
+## <a name="10">10. Настройка проекта</a>
 - Создайте в удобном для вас месте папку под названием `startjava`. В ней будет храниться ваш код
 - Откройте консоль и введите в ней `java -version`
 - Если при этом возникнет ошибка
@@ -107,7 +107,7 @@ public class MyFirstApp {
   - `git remote add origin url_на_твой_startjava-репозиторий.git` — добавьте, созданный вами репозиторий в git
   - `git remote -v` — посмотрите, добавился он или нет
 
-### <a name="11">11. Домашнее задание</a>
+## <a name="11">11. Домашнее задание</a>
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
 - Реализуйте калькулятор, который должен уметь выполнять следующие математические операции над целыми положительными числами: `+, -, *, /, ^, %`
@@ -118,7 +118,7 @@ public class MyFirstApp {
   - игра продолжается до тех пор, пока число не будет угадано
 - Выведите в цикле символы кодировки [Unicode](https://ru.wikipedia.org/wiki/Юникод) в диапазоне [9398, 10178]
 
-### Заметки на полях
+## Заметки на полях
 1. Учитесь грамотно формулировать свой вопрос: «у меня не работает» может иметь тысячи причин
 2. Все задания делать в разных классах
 3. Код пишем только **ВНУТРИ** метода `main` (для каждого класса метод `main` будет своим)
@@ -129,7 +129,7 @@ public class MyFirstApp {
 7. `git commit -m "описание изменений, которые вы внесли в программу"` — зафиксируйте изменения кода в git
 8. `git push -u origin master` — это действие делайте каждый раз, когда хотите отправить свой код на github
 
-### Немного мотивации
+## Немного мотивации
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
 - [Мотивация для программистов](https://www.youtube.com/watch?v=NOVaNe3jx6c)
 - [Речь Стива Джобса Перед выпускниками Стенфорда](https://www.youtube.com/watch?v=WVz9E7o1mmk)
