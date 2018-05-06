@@ -1,9 +1,9 @@
 # Занятие второе
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
 ## Темы второго занятия
 - [Что такое ООП](#1)
@@ -15,7 +15,7 @@
 - [Ответы на вопросы](#7)
 - [Домашнее задание](#8)
 
-## ![video](https://user-images.githubusercontent.com/29703461/39678052-34b04232-518e-11e8-82fb-c647b93d5540.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
 
 >ООП — это одна из парадигм (методологий, способов оформления кода) программирования, основанная на принципах, предполагающих написание программного кода в виде классов и их объектов, взаимодействующих друг с другом
 
@@ -29,7 +29,7 @@
 
 ![oop](https://user-images.githubusercontent.com/29703461/39483340-b3a50496-4d7a-11e8-8e02-42a8d63de02d.jpg)
 
-## ![video](https://user-images.githubusercontent.com/29703461/39678052-34b04232-518e-11e8-82fb-c647b93d5540.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
 
 >Класс — это составной (ссылочный) тип данных, являющийся прототипом (blueprint, шаблоном, моделью) объекта из какой-либо предметной области (сферы деятельности человека, но не обязательно), описывающий его состояние и реализующий его поведение.
 
