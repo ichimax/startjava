@@ -1,11 +1,11 @@
 # Занятие второе
 
-### Разбор домашнего задания
+## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/39667919-6c243cc0-50c9-11e8-8d4f-5c1f131ddc39.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
-### Темы второго занятия
+## Темы второго занятия
 - [Что такое ООП](#1)
 - [Что такое класс](#2)
 - [Что такое объект](#3)
@@ -15,7 +15,7 @@
 - [Ответы на вопросы](#7)
 - [Домашнее задание](#8)
 
-### ![video](https://user-images.githubusercontent.com/29703461/39674269-f2929d3c-5151-11e8-857f-988787c00613.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/39674269-f2929d3c-5151-11e8-857f-988787c00613.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
 
 >ООП — это одна из парадигм (методологий, способов оформления кода) программирования, основанная на принципах, предполагающих написание программного кода в виде классов и их объектов, взаимодействующих друг с другом
 
@@ -29,7 +29,7 @@
 
 ![oop](https://user-images.githubusercontent.com/29703461/39483340-b3a50496-4d7a-11e8-8e02-42a8d63de02d.jpg)
 
-### 2. <a name="2">Что такое класс</a>
+## 2. <a name="2">Что такое класс</a>
 
 >Класс — это составной (ссылочный) тип данных, являющийся прототипом (blueprint, шаблоном, моделью) объекта из какой-либо предметной области (сферы деятельности человека, но не обязательно), описывающий его состояние и реализующий его поведение.
 
@@ -40,7 +40,7 @@
 - [Тип данных String(строка) в Java](https://habr.com/post/260767/)
 ![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
-### 3. <a name="3">Что такое объект</a>
+## 3. <a name="3">Что такое объект</a>
 
 >Объект — это экземпляр какого-либо класса (расположенного в памяти), отражающий конкретную сущность программируемой предметной области (не всегда!), и обладающий внутренним состоянием в виде полей / атрибутов (fields) и поведением (функционалом) в виде методов (methods)
 
@@ -50,15 +50,15 @@
 
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
 
-### 4. <a name="4">Модификаторы доступа</a>
+## 4. <a name="4">Модификаторы доступа</a>
 В этом уроке мы пройдем два модификатора доступа: `public` и `private`
 
-### 5. <a name="5">Геттеры/Сеттеры</a>
+## 5. <a name="5">Геттеры/Сеттеры</a>
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
 - [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
 - [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
 
-### 6. <a name="6">Инкапсуляция</a>
+## 6. <a name="6">Инкапсуляция</a>
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
@@ -68,7 +68,7 @@
 
 Класс и Объект — это разные понятия. Класс — это "чертеж" на основе которого создаются Объекты. Благодаря этому "чертежу" JVM знает, какой объект ей надо создать
 
-### 8. <a name="8">Домашнее задание</a>
+## 8. <a name="8">Домашнее задание</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните потихоньку читать — [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
 - Модифицируйте класс `MyFirstGame`:
@@ -85,7 +85,7 @@
   - создайте поля и методы
   - создайте 10 экземпляров (объектов) этого класса и протестируйте их
   
- ### Заметки на полях
+ ## Заметки на полях
  1. Для ввода чисел (в Калькуляторе и "Угадайке") и знака мат.операции используйте клавиатуру (класс [`Scanner`](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
  2. Формат ввода мат.выражения в консоли для программы "Калькулятор" (пример):
     
