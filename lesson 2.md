@@ -9,11 +9,9 @@
 - [Что такое ООП](#1)
 - [Что такое класс](#2)
 - [Что такое объект](#3)
-- [Модификаторы доступа](#4)
-- [Геттеры/Сеттеры](#5)
-- [Инкапсуляция](#6)
-- [Ответы на вопросы](#7)
-- [Домашнее задание](#8)
+- [Инкапсуляция: геттеры/сеттеры](#4)
+- [Ответы на вопросы](#5)
+- [Домашнее задание](#6)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
 
@@ -50,25 +48,20 @@
 
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
 
-## 4. <a name="4">Модификаторы доступа</a>
-В этом уроке мы пройдем два модификатора доступа: `public` и `private`
-
-## 5. <a name="5">Геттеры/Сеттеры</a>
+## 4. ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
+- [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
+- [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
+- [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
 - [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
 - [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
 
-## 6. <a name="6">Инкапсуляция</a>
-- [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
-- [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
-- [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
-
-## 7. <a name="7">Ответы на вопросы</a>
+## 5. <a name="5">Ответы на вопросы</a>
 > в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
 
 Класс и Объект — это разные понятия. Класс — это "чертеж" на основе которого создаются Объекты. Благодаря этому "чертежу" JVM знает, какой объект ей надо создать
 
-## 8. <a name="8">Домашнее задание</a>
+## 6. <a name="6">Домашнее задание</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните потихоньку читать — [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
 - Модифицируйте класс `MyFirstGame`:
