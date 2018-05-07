@@ -40,7 +40,7 @@
 - [Тип данных String(строка) в Java](https://habr.com/post/260767/)
 ![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
-## 3. <a name="3">Что такое объект</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
 
 >Объект — это экземпляр какого-либо класса (расположенного в памяти), отражающий конкретную сущность программируемой предметной области (не всегда!), и обладающий внутренним состоянием в виде полей / атрибутов (fields) и поведением (функционалом) в виде методов (methods)
 
