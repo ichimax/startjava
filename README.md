@@ -13,33 +13,33 @@
 
 Множество вопросов ежедневно крутятся в твоей голове, которые всячески тормозят тебя на пути к своей цели — стать профессиональным разработчиком. Отбрось их и просто делай. Прямо сейчас! Ни в понедельник, ни с 1-го числа нового года, ни тогда, когда будет подходящее для этого время.
 
-...И да, если ты ждешь подходящего момента, то у меня для тебя плохие новости - подходящего момента никогда не будет!
+...И да, если ты ждешь подходящего момента, то у меня для тебя плохие новости — подходящего момента никогда не будет!
 
 Либо делай, либо не делай. Все просто! Потом не существует! Есть только сейчас!
 
 ## Программа интенсива (будет дополняться)
 - **Занятие первое**
-  - [Подготовка рабочего окружения](https://github.com/ichimax/startjava/blob/master/lesson%201.md#1-Подготовка-рабочего-окружения/)
-  - [Первая программа](https://github.com/ichimax/startjava/blob/master/lesson%201.md#2-Первая-программа/)
-  - [Ручная компиляция и запуск программы](https://github.com/ichimax/startjava/blob/master/lesson%201.md#3-Ручная-компиляция-и-запуск-программы/)
-  - [Этапы компиляции и запуска](https://github.com/ichimax/startjava/blob/master/lesson%201.md#4-Этапы-компиляции-и-запуска/)
-  - [Байт-код](https://github.com/ichimax/startjava/blob/master/lesson%201.md#5-Байт-код/)
-  - [Ветвление (if, if else)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#6-Ветвление-if-if-else/)
-  - [Переменные: примитивные типы данных](https://github.com/ichimax/startjava/blob/master/lesson%201.md#7-Переменные-примитивные-типы-данных/)
-  - [Цикл (while, for)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#8-Цикл-while-for/)
-  - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9-Система-управления-версиями-git/)
-  - [Настройка проекта](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-проекта/)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-Домашнее-задание/)
+  - [Подготовка рабочего окружения](https://github.com/ichimax/startjava/blob/master/lesson%201.md#1-Подготовка-рабочего-окружения)
+  - [Первая программа](https://github.com/ichimax/startjava/blob/master/lesson%201.md#2-Первая-программа)
+  - [Ручная компиляция и запуск программы](https://github.com/ichimax/startjava/blob/master/lesson%201.md#3-Ручная-компиляция-и-запуск-программы)
+  - [Этапы компиляции и запуска](https://github.com/ichimax/startjava/blob/master/lesson%201.md#4-Этапы-компиляции-и-запуска)
+  - [Байт-код](https://github.com/ichimax/startjava/blob/master/lesson%201.md#5-Байт-код)
+  - [Ветвление (if, if else)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#6-Ветвление-if-if-else)
+  - [Переменные: примитивные типы данных](https://github.com/ichimax/startjava/blob/master/lesson%201.md#7-Переменные-примитивные-типы-данных)
+  - [Цикл (while, for)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#8-Цикл-while-for)
+  - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9-Система-управления-версиями-git)
+  - [Настройка проекта](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-проекта)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-Домашнее-задание)
   
 - **Занятие второе**
-  - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания/)
-  - [Что такое ООП](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-1-Что-такое-ООП/)
-  - [Что такое класс](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-2-Что-такое-класс/)
-  - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#3-Что-такое-объект/)
-  - [Модификаторы доступа](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4-Модификаторы-доступа/)
-  - [Геттеры/Сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#5-ГеттерыСеттеры/)
-  - [Инкапсуляция](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Инкапсуляция/)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание/)
+  - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
+  - [Что такое ООП](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-1-Что-такое-ООП)
+  - [Что такое класс](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-2-Что-такое-класс)
+  - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#3-Что-такое-объект)
+  - [Модификаторы доступа](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4-Модификаторы-доступа)
+  - [Геттеры/Сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#5-ГеттерыСеттеры)
+  - [Инкапсуляция](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Инкапсуляция)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание)
   
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
