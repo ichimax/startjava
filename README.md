@@ -20,9 +20,7 @@
   - [Что такое ООП](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-1-Что-такое-ООП)
   - [Что такое класс](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-2-Что-такое-класс)
   - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#3-Что-такое-объект)
-  - [Модификаторы доступа](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4-Модификаторы-доступа)
-  - [Геттеры/Сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#5-ГеттерыСеттеры)
-  - [Инкапсуляция](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Инкапсуляция)
+  - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4--Инкапсуляция-геттерысеттеры)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание)
   
 ## Рекомендуемые книги
