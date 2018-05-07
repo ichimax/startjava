@@ -33,7 +33,7 @@
  ## Контакты
  - [topjava.ru](https://topjava.ru/)
  - [javaops.ru](http://javaops.ru/)
- - мой skype: *canbezam*
- - скайп Григория Кислина: *grigory.kislin*
- - мое имя в группе Slack: *@chimax*
+ - skype Максима: *canbezam*
+ - skype Григория Кислина: *grigory.kislin*
+ - Максим в Slack: [*@chimax*](https://startjava.slack.com/messages/@chimax)
  - для общения по данному проекту подключайтесь в группу в мессенджере [Slack](https://join.slack.com/t/startjava/shared_invite/enQtMjk1ODAxNjgzMjY1LWNlNmY5MzFlMGNjMGYzMDI4MTk3YWM1Zjc3ZDhmZjAwNmE3NzUzYWNiY2ViMjg2NTk3NjBkMGI5NWZmYjhjMjk)
