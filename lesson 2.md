@@ -70,6 +70,7 @@
   - для генерации компьютером псевдослучайного числа используйте класс [`Random`](https://www.journaldev.com/17111/java-random) или [`Math.random()`](https://vertex-academy.com/tutorials/ru/generaciya-sluchajnyx-chisel-v-java)
 - Модифицируйте программу `Калькулятор`:
   - создайте дополнительный класс `CalculatorTest`
+  - для проверки знака мат.операции воспользуйтесь оператором [`switch`](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
 - Создайте программу, создающую любого из представленных типов [роботов](http://pacificrim.wikia.com/wiki/Category:Jaegers)
   - создайте класс `Jaeger` и `JaegerTest`
   - создайте 2 экземпляра (объекта) этого класса и протестируйте их
