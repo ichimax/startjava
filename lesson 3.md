@@ -28,7 +28,7 @@
 ## 2. <a name="2">Компиляция Java-программ по-взрослому</a>
 **Материалы:**
 - [Исполнение классов в пакетах и CLASSPATH](http://pr0java.blogspot.ru/2015/06/java.html)
-- []()
+- [Работа с Java в командной строке](https://habr.com/post/125210/)
 - []()
 
 ## 3. <a name="3">.gitignore</a>
