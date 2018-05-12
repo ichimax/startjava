@@ -49,4 +49,4 @@
 ## Заметки на полях
 - Примерно так должна выглядеть структура ваших файлов
 
-![tree2](https://user-images.githubusercontent.com/29703461/39961096-ade5540a-5637-11e8-9300-0336b88da8fd.png)
+  ![tree2](https://user-images.githubusercontent.com/29703461/39961096-ade5540a-5637-11e8-9300-0336b88da8fd.png)
