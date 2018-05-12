@@ -36,6 +36,11 @@
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
  - [Pro Git](https://git-scm.com/book/ru/v2)
  - [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
+ - [Java Programming for Kids](http://yfain.github.io/Java4Kids/)
+ 
+## Полезные курсы
+ - [Яков Файн: "Введение в программирование на языке Java"](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)
+ - [Мирончик И.Я.: "Основы программирования на языке Java"](https://www.youtube.com/playlist?list=PL4535B9D2F8203AC7)
  
  ## Контакты
  - [topjava.ru](https://topjava.ru/)
