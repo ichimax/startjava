@@ -1,10 +1,5 @@
 # Занятие третье
 
-## Разбор домашнего задания
-- 
-- 
-- 
-
 ## Темы третьего занятия
 - [Механизм пакетов (package) в Java](#1)
 - [Компиляция Java-программ по-взрослому](#2)
@@ -25,21 +20,25 @@
 - [Стандартные пакеты и классы Java: официальная документация](https://docs.oracle.com/javase/8/docs/api/) (eng)
 
 
-## 2. <a name="2">Компиляция Java-программ по-взрослому</a>
+## 2. <a name="2">Компиляция Java-программ. Часть II</a>
 **Материалы:**
 - [Исполнение классов в пакетах и CLASSPATH](http://pr0java.blogspot.ru/2015/06/java.html)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
-- []()
 
 ## 3. <a name="3">.gitignore</a>
 **Материалы:**
 - [Игнорирование файлов в git](https://youtu.be/fzmCx6FLLu0)
-- [Git - игнорирование файлов](https://www.youtube.com/watch?v=EjRQ8qccLCQ) (youtube)
-- [gitignore](https://git-scm.com/docs/gitignore)
+- [Git — игнорирование файлов](https://www.youtube.com/watch?v=EjRQ8qccLCQ) (youtube)
+- [Официальная документация — gitignore](https://git-scm.com/docs/gitignore)
 - [Как создать файл .gitignore в Windows](https://ru.stackoverflow.com/questions/438367/Как-создать-файл-gitignore-в-windows/438370)
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
 ## 3. <a name="4">Ответы на вопросы</a>
+> Как, используя класс Scanner получить тип данных char?
+
+Например, так: `char mathOperation = reader.next().charAt(0);`
+
+[How can I enter “char” using Scanner in java?](https://stackoverflow.com/questions/23098790/how-can-i-enter-char-using-scanner-in-java)
 
 ## 4. <a name="5">Домашнее задание</a>
 - Наведите порядок в папках с файлами (относится ко всем выполненным ранее урокам)
@@ -48,6 +47,5 @@
 - Научитесь правильно компилировать и запускать свои программы
 
 ## Заметки на полях
-- 
-- 
--
+- Примерно так должна выглядеть структура ваших файлов
+![tree2](https://user-images.githubusercontent.com/29703461/39961096-ade5540a-5637-11e8-9300-0336b88da8fd.png)
