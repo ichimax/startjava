@@ -47,8 +47,8 @@ public class MyFirstApp {
 **Ресурсы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
-- [javac — Java programming language compiler](https://docs.oracle.com/javase/7/docs/technotes/tools/windows/javac.html)
-- [java — Launches a Java application](https://docs.oracle.com/javase/7/docs/technotes/tools/windows/java.html)
+- [javac — Java programming language compiler](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javac.html)
+- [java — Launches a Java application](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
 
 ## <a name="4">4. Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
@@ -60,6 +60,7 @@ public class MyFirstApp {
 **Ресурсы:**
 
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
+- [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
 ## <a name="6">6. Ветвление (if, if else)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
