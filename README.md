@@ -32,6 +32,13 @@
   - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4--Инкапсуляция-геттерысеттеры)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание)
   
+- **Занятие третье**
+  - [Разбор домашнего задания]()
+  - [Механизм пакетов (package) в Java](https://github.com/ichimax/startjava/blob/master/lesson%203.md#1-Механизм-пакетов-package-в-java)
+  - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#2-Компиляция-java-программ-Часть-ii)
+  - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#3-gitignore)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#4-Домашнее-задание)
+  
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
  - [Pro Git](https://git-scm.com/book/ru/v2)
