@@ -24,6 +24,8 @@
 **Материалы:**
 - [Исполнение классов в пакетах и CLASSPATH](http://pr0java.blogspot.ru/2015/06/java.html)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
+- [javac — Java programming language compiler](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javac.html)
+- [java — Launches a Java application](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
 
 ## 3. <a name="3">.gitignore</a>
 **Материалы:**
