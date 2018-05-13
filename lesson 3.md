@@ -42,6 +42,10 @@
 
 [How can I enter “char” using Scanner in java?](https://stackoverflow.com/questions/23098790/how-can-i-enter-char-using-scanner-in-java)
 
+> Когда я компилирую, то почему-то в папке out не создается такая же структура папок, как и в папке src. При этом class-файлы появляются в корне папки out.
+[Компилятор не создает папки для *.class](https://ru.stackoverflow.com/questions/451524/java-не-создает-папки-для-class)
+
+
 ## 4. <a name="5">Домашнее задание</a>
 - Наведите порядок в папках с файлами (относится ко всем выполненным ранее урокам)
 - Создайте в корне проекта (на одном уровне с папкой `src` и `out`) файл с именем `.gitignore`
