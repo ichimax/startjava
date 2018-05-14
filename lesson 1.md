@@ -39,6 +39,11 @@ public class MyFirstApp {
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
 ## <a name="3">3. Ручная компиляция и запуск программы</a>
+- Откройте консоль и введите в ней `java -version`
+- Если при этом возникнет ошибка
+![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
+- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java`, `javac`, `javap` и перезапустите консоль
+
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
 >javac MyFirstApp.java — компиляция java-файла
 
@@ -97,10 +102,6 @@ public class MyFirstApp {
   
 ## <a name="10">10. Настройка проекта</a>
 - Создайте в удобном для вас месте папку под названием `startjava`. В ней будет храниться ваш код
-- Откройте консоль и введите в ней `java -version`
-- Если при этом возникнет ошибка
-![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
-- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java`, `javac`, `javap` и перезапустите консоль
 - Напишите в консоли (при этом консоль должна быть открыта в папке `startjava`): 
   - `git init`
   - `git status` (внимательно читаем, что вывела команда. Если ни каких ошибок не возникло, переходите к следующему пункту)
