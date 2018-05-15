@@ -42,7 +42,7 @@ public class MyFirstApp {
 - Откройте консоль и введите в ней `java -version`
 - Если при этом возникнет ошибка
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
-- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java`, `javac`, `javap` и перезапустите консоль
+- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
 
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
 >javac MyFirstApp.java — компиляция java-файла
