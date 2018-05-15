@@ -2,7 +2,7 @@
 
 ## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) ["Угадайка"](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
 ## Темы второго занятия
@@ -29,7 +29,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
 
->Класс — это составной (ссылочный) тип данных, являющийся прототипом (blueprint, шаблоном, моделью) объекта из какой-либо предметной области (сферы деятельности человека, но не обязательно), описывающий его состояние и реализующий его поведение.
+>Класс — это ссылочный тип данных, являющийся прототипом (blueprint, шаблоном) объекта, описывающий его характеристики и реализующий его поведение
 
 **Материалы:**
 - [Класс](https://ru.wikipedia.org/wiki/Класс_(программирование)) (wiki)
@@ -40,7 +40,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
 
->Объект — это экземпляр какого-либо класса (расположенного в памяти), отражающий конкретную сущность программируемой предметной области (не всегда!), и обладающий внутренним состоянием в виде полей / атрибутов (fields) и поведением (функционалом) в виде методов (methods)
+>Объект — это экземпляр какого-либо класса, обладающий характеристиками в виде полей (fields) и поведением (функционалом) в виде методов (methods)
 
 - [Объект](https://ru.wikipedia.org/wiki/Объект_(программирование)) (wiki)
 - [What Is an Object?](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
@@ -59,37 +59,37 @@
 ## 5. <a name="5">Ответы на вопросы</a>
 > в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
 
-Класс и Объект — это разные понятия. Класс — это "чертеж" на основе которого создаются Объекты. Благодаря этому "чертежу" JVM знает, какой объект ей надо создать
+Класс и Объект — это разные понятия. Класс — это «чертеж» на основе которого создаются Объекты. Благодаря этому «чертежу» JVM знает, какой объект ей надо создать
 
 ## 6. <a name="6">Домашнее задание</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните потихоньку читать — [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
 - Модифицируйте программу `Угадай число`:
-  - создайте класс `GuessNumber`, `Player` и `GuessNumberTest`
+  - реализуйте класс `GuessNumber`, `Player` и `GuessNumberTest`
   - создайте двух игроков, которые по очереди будут пытаться угадать число, загаданное компьютером
   - для генерации компьютером псевдослучайного числа используйте класс [`Random`](https://www.journaldev.com/17111/java-random) или [`Math.random()`](https://vertex-academy.com/tutorials/ru/generaciya-sluchajnyx-chisel-v-java)
 - Модифицируйте программу `Калькулятор`:
-  - создайте дополнительный класс `CalculatorTest`
+  - реализуйте дополнительный класс `CalculatorTest`
   - для проверки знака мат.операции воспользуйтесь оператором [`switch`](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
-- Создайте программу, создающую любого из представленных типов [роботов](http://pacificrim.wikia.com/wiki/Category:Jaegers)
-  - создайте класс `Jaeger` и `JaegerTest`
+- Создайте программу, описывающую любого из представленных типов [роботов](http://pacificrim.wikia.com/wiki/Category:Jaegers)
+  - реализуйте класс `Jaeger` и `JaegerTest`
   - создайте 2 экземпляра (объекта) этого класса и протестируйте их
   
  ## Советы для тех, кто выполняет домашнее задание
  1. Для ввода чисел (в `Калькуляторе` и `Угадай число`) и знака мат.операции используйте клавиатуру (класс [`Scanner`](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
  2. Формат ввода мат.выражения в консоли для программы `Калькулятор` (пример):  
-    `10`   
-    `+`  
-    `10`
+    `Введите первое число: 10`   
+    `Введите знак мат. операции: +`  
+    `Введите второе число: 10`
  3. Метод `main` необходимо размещать в классах, в имени которых присутствует слово `Test`
  4. Назначение классов в игре `Угадай число`:
     - `GuessNumber` — отвечает за сам процесс игры и логику ее работы
     - `Player` — описывает игроков
     - `GuessNumberTest` — предназначен для запуска и тестирования игры
- 5. Для завершения или продолжения работы программ выводите сообщение: `System.out.println("Хотите продолжить? [да/нет]")`
+ 5. Для завершения или продолжения работы программ выводите сообщение: `System.out.print("Хотите продолжить? [да/нет]: ")`
  6. Примерно так должна выглядеть структура ваших файлов ![tree](https://user-images.githubusercontent.com/29703461/39827609-1d46026e-53c1-11e8-906d-8fb189bf03c9.png)
  7. Класс `Player` должен иметь следующие поля и методы:
-    - `String name`
-    - `int number`
+    - `String name` — имя игрока
+    - `int number` — введенное пользователем число
     - геттеры/сеттеры
     - метод для ввода пользователем числа
