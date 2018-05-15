@@ -2,7 +2,7 @@
 
 ## Темы третьего занятия
 - [Механизм пакетов (package) в Java](#1)
-- [Компиляция Java-программ по-взрослому](#2)
+- [Компиляция Java-программ. Часть II](#2)
 - [.gitignore](#3)
 - [Ответы на вопросы](#4)
 - [Домашнее задание](#5)
@@ -43,6 +43,8 @@
 [How can I enter “char” using Scanner in java?](https://stackoverflow.com/questions/23098790/how-can-i-enter-char-using-scanner-in-java)
 
 > Когда я компилирую, то почему-то в папке out не создается такая же структура папок, как и в папке src. При этом class-файлы появляются в корне папки out
+
+Забыли добавить `package` в ваши классы
 
 [Компилятор не создает папки для *.class](https://ru.stackoverflow.com/questions/451524/java-не-создает-папки-для-class)
 
