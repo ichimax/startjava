@@ -43,6 +43,7 @@ public class MyFirstApp {
 - Если при этом возникнет ошибка
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
 - [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
+- `echo %PATH%` (на win) или `$PATH` (на Linux) — выведите в консоли значение переменной `PATH`
 
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо в консоли написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
 >javac MyFirstApp.java — компиляция java-файла
@@ -128,10 +129,9 @@ public class MyFirstApp {
 5. Ввод с клавиатуры и методы класса `Math` пока не используйте
 6. Примерно так должна выглядеть структура ваших файлов
 ![tree](https://user-images.githubusercontent.com/29703461/39294598-d3a1c94e-4944-11e8-97f4-84f3bc5d2d6c.png)
-7. `echo %PATH%` (на win) или `$PATH` (на Linux) — отображение значения переменной PATH
-8. [`git add Файл_с_кодом.java`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Отслеживание-новых-файлов) (файлы с расширением class не заносите)
-9. [`git commit -m "описание изменений, которые вы внесли в программу"`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Фиксация-изменений)
-10. [`git push -u origin master`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями#Push)
+7. [`git add Файл_с_кодом.java`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Отслеживание-новых-файлов) (файлы с расширением class не заносите)
+8. [`git commit -m "описание изменений, которые вы внесли в программу"`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Фиксация-изменений)
+9. [`git push -u origin master`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями#Push)
 
 ## Немного мотивации
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
