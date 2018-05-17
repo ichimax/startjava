@@ -21,7 +21,7 @@
   - [Переменные: примитивные типы данных](https://github.com/ichimax/startjava/blob/master/lesson%201.md#7-Переменные-примитивные-типы-данных)
   - [Цикл (while, for)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#8-Цикл-while-for)
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9-Система-управления-версиями-git)
-  - [Настройка проекта](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-проекта)
+  - [Настройка локального репозитория](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-локального-репозитория)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-Домашнее-задание)
   
 - **Занятие второе**
