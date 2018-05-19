@@ -33,7 +33,7 @@
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание)
   
 - **Занятие третье**
-  - [Разбор домашнего задания]()
+  - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
   - [Механизм пакетов (package) в Java](https://github.com/ichimax/startjava/blob/master/lesson%203.md#1-Механизм-пакетов-package-в-java)
   - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#2-Компиляция-java-программ-Часть-ii)
   - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#3-gitignore)
