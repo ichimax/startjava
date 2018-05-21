@@ -10,7 +10,7 @@
 - [Ответы на вопросы](#4)
 - [Домашнее задание](#5)
 
-## 1. <a name="1">Механизм пакетов (package) в Java</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
 ![package](https://user-images.githubusercontent.com/29703461/39955567-bd602a26-55d9-11e8-9577-f137376c4679.png)
 
 **Материалы:**
