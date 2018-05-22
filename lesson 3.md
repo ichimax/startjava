@@ -29,7 +29,7 @@
 - [javac — Java programming language compiler](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javac.html)
 - [java — Launches a Java application](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
 
-## 3. <a name="3">.gitignore</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[.gitignore](https://drive.google.com/file/d/1cJVmgrIfLo4iNDhfNkrdkkSZUKszzApN/view?usp=sharing)</a>
 **Материалы:**
 - [Игнорирование файлов в git](https://youtu.be/fzmCx6FLLu0)
 - [Git — игнорирование файлов](https://www.youtube.com/watch?v=EjRQ8qccLCQ) (youtube)
@@ -55,7 +55,6 @@
 Написать в консоли `git -rm -r --cached out`, а после занести папку `out` в файл `.gitignore`
 
 [Удаление файлов из индекса git'а](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Удаление-файлов)
-
 
 
 ## 5. <a name="5">Домашнее задание</a>
