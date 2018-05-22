@@ -44,6 +44,7 @@
  - [Pro Git](https://git-scm.com/book/ru/v2)
  - [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
  - [Java Programming for Kids](http://yfain.github.io/Java4Kids/)
+ - [Книга для детей: Яша учится программировать](https://drive.google.com/file/d/0B4aqdlQNObcpRU4xbElnQnBsR0E/edit)
  
 ## Полезные курсы
  - [Яков Файн: "Введение в программирование на языке Java"](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)
