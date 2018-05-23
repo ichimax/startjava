@@ -43,7 +43,7 @@ public class MyFirstApp {
 - Если при этом возникнет ошибка
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
 - [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Выведите в консоли значение переменной `PATH` — `echo %PATH%` (на win) или `$PATH` (на Linux)
+- Выведите в консоли значение переменной `PATH`: `echo %PATH%` (в win) или `$PATH` (в Linux)
 
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
 >javac MyFirstApp.java — компиляция java-файла
