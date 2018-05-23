@@ -86,7 +86,7 @@ public class MyFirstApp {
 
 **Ресурсы:**
 
-- [Оператор while](http://pr0java.blogspot.ru/2015/04/java-1.html)
+- [Оператор while](http://pr0java.blogspot.ru/2015/04/while.html)
 - [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
 ## <a name ="9">9. Система управления версиями Git</a>
