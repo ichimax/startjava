@@ -46,9 +46,9 @@ public class MyFirstApp {
 - Выведите в консоли значение переменной `PATH`: `echo %PATH%` (в win) или `$PATH` (в Linux)
 
 Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
->javac MyFirstApp.java — компиляция java-файла
+- `javac MyFirstApp.java` — компиляция java-файла
 
->java MyFirstApp — запуск программы (байт-кода)
+- `java MyFirstApp` — запуск программы (байт-кода)
 
 **Ресурсы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
@@ -59,7 +59,7 @@ public class MyFirstApp {
 
 ## <a name="5">5. Байт-код</a>
 Чтобы отобразить байт-код класса, необходимо написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.class`):
->javap -c -s -verbose MyFirstApp
+- `javap -c -s -verbose MyFirstApp`
 
 **Ресурсы:**
 
