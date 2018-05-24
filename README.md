@@ -50,6 +50,9 @@
  - [Яков Файн: "Введение в программирование на языке Java"](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)
  - [Мирончик И.Я.: "Основы программирования на языке Java"](https://www.youtube.com/playlist?list=PL4535B9D2F8203AC7)
  
+## Благодарности
+ - Спасибо Ирине за картинки, которые она создала специально для данного курса. Их исходники она любезно выложила в [своем репозитории](https://github.com/gagarina6794/startjava)
+ 
  ## Контакты
  - [topjava.ru](https://topjava.ru/)
  - [javaops.ru](http://javaops.ru/)
