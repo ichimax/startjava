@@ -67,4 +67,4 @@
 - Не забудьте файл `.gitignore` добавить в git (с помощью `add`)
 - Примерно так должна выглядеть структура ваших файлов и папок
 
-  ![tree2](https://user-images.githubusercontent.com/29703461/40516944-aa49773a-5fbb-11e8-8e81-f577b31ac5d0.png)
+  ![tree2](https://user-images.githubusercontent.com/29703461/40552913-cc74358c-6049-11e8-98df-f3dc8ac86a22.png)
