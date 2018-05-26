@@ -12,6 +12,7 @@
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
 ## <a name="2">2. Массивы</a>
+![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
 - [Java массивы](http://info.javarush.ru/javarush_articles/2015/12/10/Java-массивы.html)
