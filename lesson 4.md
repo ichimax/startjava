@@ -1,9 +1,10 @@
 # Занятие четвертое
 
 - [Среда разработки — IntelliJ IDEA](#1)
-- [Массивы](#2)
+- [Массивы. Цикл for each](#2)
 - [Класс java.util.Arrays](#3)
-- [Домашнее задание](#4)
+- [Сортировка массива](#4)
+- [Домашнее задание](#5)
 
 ## <a name="1">1. Среда разработки — IntelliJ IDEA</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
@@ -13,7 +14,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
-## <a name="2">2. Массивы</a>
+## <a name="2">2. Массивы. Цикл for each</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
@@ -23,7 +24,8 @@
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
-- [Цикл for each, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw)
+- [Цикл for each, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
+- [Цикл for each в Java](https://vertex-academy.com/tutorials/ru/cikl-for-each)
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
@@ -32,8 +34,17 @@
 - [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
 - [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
 
-## <a name="4">4. Домашнее задание</a>
-- Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми вашими домашними заданиями:
+## <a name="4">4. Сортировка массива</a>
+- [Сортировка_пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
+- [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
+- [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
+- [Сортировка пузырьком в Java](https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/)
+- [Сортировки в гифках: 8 самых популярных алгоритмов](https://proglib.io/p/sort-gif)
+
+![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
+
+## <a name="5">5. Домашнее задание</a>
+- Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми домашними заданиями из прошлых уроков:
 
 ![newproject](https://user-images.githubusercontent.com/29703461/38273513-d1f7ce52-3794-11e8-829c-305212c25be7.png)
 
@@ -43,7 +54,7 @@
 
 ![finish](https://user-images.githubusercontent.com/29703461/40539525-af9210c8-601d-11e8-8779-3da4e87e8d99.png)
 
-- 
+- Прочитайте про массивы в книге Изучаем Java: стр 89, 113
 - 
 -
 
