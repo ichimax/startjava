@@ -6,19 +6,24 @@
 - [Домашнее задание](#4)
 
 ## <a name="1">1. Среда разработки — IntelliJ IDEA</a>
-- Установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
-- [IntelliJ_IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
+> Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
+- [IntelliJ IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
+- [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
+- [Горячие клавиши Intellij IDEA](https://devcolibri.com/горячие-клавиши-intellij-idea)
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
 ## <a name="2">2. Массивы</a>
+> Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
 - [Java массивы](http://info.javarush.ru/javarush_articles/2015/12/10/Java-массивы.html)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
-- [Массивы (Array) в Java](https://o7planning.org/ru/11567/arrays-in-java)
+- [Массивы (Arrays) в Java](https://o7planning.org/ru/11567/arrays-in-java)
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+- [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
+- [Цикл for each, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw)
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
@@ -43,6 +48,7 @@
 -
 
 ## Полезные сочетания клавиш в IntelliJ IDEA
+- `Ctrl + Space` — автодополнение кода
 - `Alt + Shift + F10`	— выбрать файл запуска и выполнить программу
 - `Ctrl + k` — выполнить коммит
 - `Ctrl + Shift + k` — выполнить пуш
