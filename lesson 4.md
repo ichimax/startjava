@@ -35,7 +35,7 @@
 - [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
 
 ## <a name="4">4. Сортировка массива</a>
-- [Сортировка_пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
+- [Сортировка пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
 - [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
 - [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
 - [Сортировка пузырьком в Java](https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/)
@@ -54,7 +54,7 @@
 
 ![finish](https://user-images.githubusercontent.com/29703461/40539525-af9210c8-601d-11e8-8779-3da4e87e8d99.png)
 
-- Прочитайте про массивы в книге Изучаем Java: стр 89, 113
+- Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
 - 
 -
 
