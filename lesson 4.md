@@ -19,6 +19,7 @@
 - [Массивы (Array) в Java](https://o7planning.org/ru/11567/arrays-in-java)
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
 ## <a name="3">3. Класс java.util.Arrays</a>
