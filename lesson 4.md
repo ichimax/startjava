@@ -2,8 +2,8 @@
 
 - [Среда разработки — IntelliJ IDEA](#1)
 - [Массивы. Цикл for each](#2)
-- [Класс java.util.Arrays](#3)
-- [Сортировка массива](#4)
+- [Сортировка массива методом пузырька](#3)
+- [Класс java.util.Arrays](#4)
 - [Домашнее задание](#5)
 
 ## <a name="1">1. Среда разработки — IntelliJ IDEA</a>
@@ -29,17 +29,20 @@
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
-## <a name="3">3. Класс java.util.Arrays</a>
-- [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
-- [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
-- [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
-
-## <a name="4">4. Сортировка массива</a>
+## <a name="3">3. Сортировка массива методом пузырька</a>
 - [Сортировка пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
 - [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
 - [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
 - [Сортировка пузырьком в Java](https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/)
 - [Сортировки в гифках: 8 самых популярных алгоритмов](https://proglib.io/p/sort-gif)
+
+## <a name="4">4. Класс java.util.Arrays</a>
+- [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
+- [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
+- [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
+- [Двоичный поиск](https://ru.wikipedia.org/wiki/Двоичный_поиск) (wiki)
+- [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
+- [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
 
 ![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
 
