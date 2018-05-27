@@ -16,8 +16,8 @@
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- Для удобной навигации по файлам на GitHub установите расширение для браузера - [Octotree](https://habrahabr.ru/post/223527/)
-- Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/). Именно в нем мы и будем писать наши программы
+- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habrahabr.ru/post/223527/)
+- Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/). Именно в нем мы будем писать наши программы
 - **Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!**
 
 ## <a name="2">2. Первая программа</a>
@@ -45,37 +45,40 @@ public class MyFirstApp {
 - [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
 - Выведите в консоли значение переменной `PATH`: `echo %PATH%` (в win) или `$PATH` (в Linux)
 
-Для компиляции и запуска программы из предыдущего пункта (да и для всех остальных) необходимо написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.java`):
+Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
 
-- `java MyFirstApp` — запуск программы (байт-кода)
+- `java MyFirstApp` — запуск программы
 
 **Ресурсы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
+- [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 
 ## <a name="4">4. Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
 
 ## <a name="5">5. Байт-код</a>
-Чтобы отобразить байт-код класса, необходимо написать (при этом консоль должна быть открыта в папке с файлом `MyFirstApp.class`):
+Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
 - `javap -c -s -verbose MyFirstApp`
 
 **Ресурсы:**
-
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 - [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
 ## <a name="6">6. Ветвление (if, if else)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
-**Ресурсы:**
 
-- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
+**Ресурсы:**
+- [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
 - [Оператор if/else](http://pr0java.blogspot.ru/2015/04/ifelse.html)
+- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 ## <a name="7">7. Переменные: примитивные типы данных</a>
-**Ресурсы:**
 
+**Ресурсы:**
+- [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
+- [Примитивные типы данных](http://developer.alexanderklimov.ru/android/java/types.php)
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
@@ -85,7 +88,7 @@ public class MyFirstApp {
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Ресурсы:**
-
+- [Циклы в Java](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/while.html)
 - [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
@@ -93,7 +96,6 @@ public class MyFirstApp {
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
 **Ресурсы:**
-
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
   - [Базовый курс по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (youtube)
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
@@ -103,27 +105,28 @@ public class MyFirstApp {
   
 ## <a name="10">10. Настройка локального репозитория</a>
 - Создайте в удобном для вас месте папку под названием `startjava`. В ней будет храниться ваш код
+- Создайте на GitHub репозиторий с названием `startjava`
 - Напишите в консоли (при этом консоль должна быть открыта в папке `startjava`): 
   - [`git init`](https://git-scm.com/book/ru/v1/Основы-Git-Создание-Git-репозитория#Создание-репозитория-в-существующем-каталоге)
   - [`git status`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Определение-состояния-файлов)
-  - создайте на GitHub репозиторий с названием `startjava`
-  - Добавьте адрес созданного репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
-  - Проверьте, добавился он или нет — `git remote -v`
+  - добавьте адрес созданного репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
+  - проверьте, добавился он или нет — `git remote -v`
 
 ## <a name="11">11. Домашнее задание</a>
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
-- Реализуйте калькулятор, который должен уметь выполнять следующие математические операции над целыми положительными числами: `+, -, *, /, ^, %`
+- Реализуйте калькулятор, который должен уметь выполнять математические операции (`+, -, *, /, ^, %`) над целыми положительными числами:
   - выведите на экран результат работы калькулятора с помощью `System.out.println()`
-  - для проверки знака мат.операции воспользуйтесь оператором `if else`
-- Напишите игру — «угадай число»: компьютер «загадывает» целое число от 0 до 100, которое вам необходимо угадать
+  - для проверки знака математической операции воспользуйтесь оператором `if else`
+- Напишите игру — "угадай число"
+  - компьютер "загадывает" целое число от 0 до 100, которое вам необходимо угадать
   - после каждой неудачной попытки выводите подсказки: `System.out.println("Введенное вами число больше (меньше) того, что загадал компьютер")`
   - если число угадано — `System.out.println("Вы угадали!")`
   - игра продолжается до тех пор, пока число не будет угадано
 - Выведите в цикле символы кодировки [Unicode](https://ru.wikipedia.org/wiki/Юникод) в диапазоне [9398, 10178] (если выводятся кракозябры, то [33, 126])
 
 ## Советы для тех, кто выполняет домашнее задание
-1. Учитесь грамотно формулировать свой вопрос: «у меня не работает» может иметь тысячи причин
+1. Учитесь грамотно формулировать свой вопрос: "у меня не работает" может иметь тысячи причин
 2. Выполните ДЗ, используя только те темы, которые изучаются в данном уроке
 3. Все задания выполняйте в разных классах
 4. Код пишите только **ВНУТРИ** метода `main` (для каждого класса метод `main` будет своим)
