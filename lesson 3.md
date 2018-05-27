@@ -73,4 +73,4 @@
   - сделать пуш, который перезатрет текущую структуру файлов и папок на GitHub новой — `git push -f`
 - Примерно так должна выглядеть структура файлов и папок как на вашем компьютере, так и на GitHub
 
-  ![tree2](https://user-images.githubusercontent.com/29703461/40575917-8e98de54-60f6-11e8-8b5f-667be8fec8e1.png)
+  ![tree2](https://user-images.githubusercontent.com/29703461/40583337-508b6740-6195-11e8-8f4f-a3821bda2540.png)
