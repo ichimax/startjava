@@ -36,6 +36,8 @@
 - [Сортировка пузырьком в Java](https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/)
 - [Сортировки в гифках: 8 самых популярных алгоритмов](https://proglib.io/p/sort-gif)
 
+![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
+
 ## <a name="4">4. Класс java.util.Arrays</a>
 - [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
 - [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
@@ -43,8 +45,6 @@
 - [Двоичный поиск](https://ru.wikipedia.org/wiki/Двоичный_поиск) (wiki)
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
 - [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
-
-![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
 
 ## <a name="5">5. Домашнее задание</a>
 - Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми домашними заданиями из прошлых уроков:
