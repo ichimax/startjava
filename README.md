@@ -43,9 +43,9 @@
   - [Среда разработки — IntelliJ IDEA](https://github.com/ichimax/startjava/blob/master/lesson%204.md#1)
   - [Массивы. Цикл for each](https://github.com/ichimax/startjava/blob/master/lesson%204.md#2)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#3)
-  - [Сортировка массива](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5)
-  
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4)
+  - [Сортировка массива](https://github.com/ichimax/startjava/blob/master/lesson%205.md#5)
+
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
  - [Pro Git](https://git-scm.com/book/ru/v2)
