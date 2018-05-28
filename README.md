@@ -46,6 +46,7 @@
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#3-Сортировка-массива-методом-пузырька)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4-Класс-javautilarrays)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5-Домашнее-задание)
+  - [Бонусное видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6-Бонусное-видео)
 
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
