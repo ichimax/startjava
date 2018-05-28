@@ -40,6 +40,7 @@
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#4-Домашнее-задание)
   
 - **Занятие четвертое**
+  - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#Разбор-домашнего-задания)
   - [Среда разработки — IntelliJ IDEA](https://github.com/ichimax/startjava/blob/master/lesson%204.md#1)
   - [Массивы. Цикл for each](https://github.com/ichimax/startjava/blob/master/lesson%204.md#2)
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#3-Сортировка-массива-методом-пузырька)
