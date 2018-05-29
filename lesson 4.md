@@ -11,7 +11,7 @@
 - [Домашнее задание](#5)
 - [Бонусное видео](#6)
 
-## <a name="1">1. Среда разработки — IntelliJ IDEA</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
 - [IntelliJ IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
