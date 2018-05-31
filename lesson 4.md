@@ -11,7 +11,7 @@
 - [Домашнее задание](#5)
 - [Бонусное видео](#6)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
 - [IntelliJ IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
@@ -19,7 +19,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
-## <a name="2">2. Массивы. Цикл for each</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Массивы. Цикл for each](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing)</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
