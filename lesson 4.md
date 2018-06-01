@@ -19,7 +19,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Массивы. Цикл for each](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). [Цикл for each](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
