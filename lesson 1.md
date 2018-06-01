@@ -33,7 +33,8 @@ public class MyFirstApp {
 ```
 **Ресурсы:**
 - [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
-- [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE)
+- [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE) (youtube)
+- [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
 - ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
@@ -44,6 +45,7 @@ public class MyFirstApp {
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
 - [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
 - Выведите в консоли значение переменной `PATH`: `echo %PATH%` (в win) или `$PATH` (в Linux)
+- Убедитесь, что там присутствует путь до указанных выше файлов
 
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
