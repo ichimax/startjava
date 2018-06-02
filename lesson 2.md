@@ -42,6 +42,7 @@
 
 >Объект — это экземпляр какого-либо класса, обладающий характеристиками в виде полей (fields) и поведением (функционалом) в виде методов (methods)
 
+**Материалы:**
 - [Объект](https://ru.wikipedia.org/wiki/Объект_(программирование)) (wiki)
 - [What Is an Object?](https://docs.oracle.com/javase/tutorial/java/concepts/object.html)
 - [Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
@@ -49,6 +50,8 @@
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
 
 ## 4. ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
+
+**Материалы:**
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
