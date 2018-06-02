@@ -14,6 +14,8 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
+
+**Материалы:**
 - [IntelliJ IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
 - [Горячие клавиши Intellij IDEA](https://devcolibri.com/горячие-клавиши-intellij-idea)
@@ -22,6 +24,8 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [for each](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
+
+**Материалы:**
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
@@ -34,12 +38,16 @@
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
+
+**Материалы:**
  - [Задачки на русском языке](http://taskcode.ru/array)
  - [Задачи на массивы в Java](https://vertex-academy.com/tutorials/ru/zadachi-na-massivy-v-java)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
  - Array [1](http://codingbat.com/java/Array-1), [2](http://codingbat.com/java/Array-2), [3](http://codingbat.com/java/Array-3)
 
 ## <a name="4">4. Сортировка массива методом пузырька</a>
+
+**Материалы:**
 - [Сортировка пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
 - [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
 - [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
@@ -49,6 +57,8 @@
 ![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
 
 ## <a name="5">5. Класс java.util.Arrays</a>
+
+**Материалы:**
 - [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
 - [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
 - [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
