@@ -24,9 +24,7 @@
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
-- [Java массивы](http://info.javarush.ru/javarush_articles/2015/12/10/Java-массивы.html)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
-- [Массивы (Arrays) в Java](https://o7planning.org/ru/11567/arrays-in-java)
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
