@@ -31,7 +31,7 @@ public class MyFirstApp {
 	}
 }
 ```
-**Ресурсы:**
+**Материалы:**
 - [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
 - [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE) (youtube)
 - [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
@@ -52,7 +52,7 @@ public class MyFirstApp {
 
 - `java MyFirstApp` — запуск программы
 
-**Ресурсы:**
+**Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
@@ -64,21 +64,21 @@ public class MyFirstApp {
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
 - `javap -c -s -verbose MyFirstApp`
 
-**Ресурсы:**
+**Материалы:**
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 - [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
 ## <a name="6">6. Ветвление (if, if else)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
-**Ресурсы:**
+**Материалы:**
 - [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
 - [Оператор if/else](http://pr0java.blogspot.ru/2015/04/ifelse.html)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 ## <a name="7">7. Переменные: примитивные типы данных</a>
 
-**Ресурсы:**
+**Материалы:**
 - [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
 - [Примитивные типы данных](http://developer.alexanderklimov.ru/android/java/types.php)
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
@@ -89,7 +89,7 @@ public class MyFirstApp {
 ## <a name ="8">8. Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
-**Ресурсы:**
+**Материалы:**
 - [Циклы в Java](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/while.html)
 - [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
@@ -97,7 +97,7 @@ public class MyFirstApp {
 ## <a name ="9">9. Система управления версиями Git</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
-**Ресурсы:**
+**Материалы:**
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
   - [Базовый курс по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (youtube)
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
