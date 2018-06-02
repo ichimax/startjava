@@ -6,10 +6,11 @@
 ## Темы четвертого занятия
 - [Среда разработки — IntelliJ IDEA](#1)
 - [Массивы. Цикл for each](#2)
-- [Сортировка массива методом пузырька](#3)
-- [Класс java.util.Arrays](#4)
-- [Домашнее задание](#5)
-- [Бонусное видео](#6)
+- [Задачки на массивы](#3)
+- [Сортировка массива методом пузырька](#4)
+- [Класс java.util.Arrays](#5)
+- [Домашнее задание](#6)
+- [Бонусное видео](#7)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
@@ -34,7 +35,13 @@
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
-## <a name="3">3. Сортировка массива методом пузырька</a>
+## <a name="3">3. Задачки на массивы</a>
+ - [Задачки на русском языке](http://taskcode.ru/array)
+ - [Задачи на массивы в Java](https://vertex-academy.com/tutorials/ru/zadachi-na-massivy-v-java)
+ - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
+ - Array [1](http://codingbat.com/java/Array-1), [2](http://codingbat.com/java/Array-2), [3](http://codingbat.com/java/Array-3)
+
+## <a name="4">4. Сортировка массива методом пузырька</a>
 - [Сортировка пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
 - [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
 - [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
@@ -43,7 +50,7 @@
 
 ![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
 
-## <a name="4">4. Класс java.util.Arrays</a>
+## <a name="5">5. Класс java.util.Arrays</a>
 - [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
 - [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
 - [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
@@ -51,7 +58,7 @@
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
 - [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
 
-## <a name="5">5. Домашнее задание</a>
+## <a name="6">6. Домашнее задание</a>
 - Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми домашними заданиями из прошлых уроков:
 
 ![newproject](https://user-images.githubusercontent.com/29703461/38273513-d1f7ce52-3794-11e8-829c-305212c25be7.png)
@@ -73,7 +80,7 @@
   - в конце игры выведите сообщение `"Игрок " + имя + " угадал число " + число + "с " + номер + " попытки"`
   - если игроки не угадали число за 10 попыток, то отобразите сообщение: `"У " + имя + " закончились попытки"`
   
-## <a name="6">6. Бонусное видео</a>
+## <a name="7">7. Бонусное видео</a>
 - [Видео](https://drive.google.com/file/d/1W9AtOE3yvDCOOZxmHSw4lGpFiFVYJB8_/view?usp=sharing) с разбором того, как необходимо решить вступительное задание к курсу basejava
 
 ## Советы для тех, кто выполняет домашнее задание
