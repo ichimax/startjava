@@ -35,7 +35,7 @@
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
-## <a name="3">3. Задачки на массивы</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
  - [Задачки на русском языке](http://taskcode.ru/array)
  - [Задачи на массивы в Java](https://vertex-academy.com/tutorials/ru/zadachi-na-massivy-v-java)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
