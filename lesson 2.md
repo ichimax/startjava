@@ -49,7 +49,7 @@
 
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
 
-## 4. ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
 
 **Материалы:**
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
@@ -59,7 +59,7 @@
 - [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
 - [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
 
-## 5. <a name="5">Ответы на вопросы</a>
+## 5. <a name="5"> Ответы на вопросы</a>
 > в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
 
 Класс и Объект — это разные понятия. Класс — это «чертеж» на основе которого создаются Объекты. Благодаря этому «чертежу» JVM знает, какой объект ей надо создать
