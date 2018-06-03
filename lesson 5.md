@@ -21,14 +21,20 @@
 > Скачайте и установите [СУБД PostgreSQL](https://www.postgresql.org/download)
 
 **Материалы:**
-- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/10/index)
 - [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL) (wiki)
+- [DB-Engines Ranking](https://db-engines.com/en/ranking)
+- [Установка и использование PostgreSQL в Ubuntu](https://www.8host.com/blog/ustanovka-i-ispolzovanie-postgresql-v-ubuntu-18-04/)
+- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/10/index)
 - [Книги по PostgreSQL](https://postgrespro.ru/education/books)
+- [Интерактивный терминал PostgreSQL](https://postgrespro.ru/docs/postgresql/10/app-psql)
+- [Интерактивная обучалка по PostgreSQL](https://www.pgexercises.com/) [eng]
 
 ![postgresql-10](https://user-images.githubusercontent.com/29703461/40881654-c0325af6-66d4-11e8-9a40-b7de3fb24f7b.png)
 
 ## <a name="3">3. Введение в SQL</a>
 
 **Материалы:**
+- [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
+- [Обучалка SQL](http://www.sql-ex.ru/)
 
 ## <a name="5">5. Домашнее задание</a>
