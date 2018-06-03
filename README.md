@@ -28,9 +28,9 @@
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
   - [Что такое ООП](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-1-Что-такое-ООП)
   - [Что такое класс](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-2-Что-такое-класс)
-  - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#3-Что-такое-объект)
-  - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#4--Инкапсуляция-геттерысеттеры)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8-Домашнее-задание)
+  - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-3-Что-такое-объект)
+  - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-4-Инкапсуляция-геттерысеттеры)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Домашнее-задание)
   
 - **Занятие третье**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
