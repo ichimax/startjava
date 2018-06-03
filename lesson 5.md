@@ -36,5 +36,6 @@
 **Материалы:**
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
 - [Обучалка SQL](http://www.sql-ex.ru/)
+- [Книга для начинающих - Изучаем SQL](https://www.ozon.ru/context/detail/id/7246798/)
 
 ## <a name="5">5. Домашнее задание</a>
