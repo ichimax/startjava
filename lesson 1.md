@@ -12,7 +12,7 @@
 - [Настройка локального репозитория](#10)
 - [Домашнее задание](#11)
 
-## <a name="1">1. Подготовка рабочего окружения</a>
+## 1. <a name="1">Подготовка рабочего окружения</a>
 - Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
@@ -20,7 +20,7 @@
 - Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/). Именно в нем мы будем писать наши программы
 - **Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!**
 
-## <a name="2">2. Первая программа</a>
+## 2. <a name="2">Первая программа</a>
 
 Введите данный код в Sublime Text:
 
@@ -39,7 +39,7 @@ public class MyFirstApp {
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
-## <a name="3">3. Ручная компиляция и запуск программы</a>
+## 3. <a name="3">Ручная компиляция и запуск программы</a>
 - Откройте консоль и введите в ней `java -version`
 - Если при этом возникнет ошибка
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
@@ -57,10 +57,10 @@ public class MyFirstApp {
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 
-## <a name="4">4. Этапы компиляции и запуска</a>
+## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
 
-## <a name="5">5. Байт-код</a>
+## 5. <a name="5">Байт-код</a>
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
 - `javap -c -s -verbose MyFirstApp`
 
@@ -68,7 +68,7 @@ public class MyFirstApp {
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 - [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
-## <a name="6">6. Ветвление (if, if else)</a>
+## 6. <a name="6">Ветвление (if, if else)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
 **Материалы:**
@@ -76,7 +76,7 @@ public class MyFirstApp {
 - [Оператор if else](http://pr0java.blogspot.ru/2015/04/ifelse.html)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
-## <a name="7">7. Переменные: примитивные типы данных</a>
+## 7. <a name="7">Переменные: примитивные типы данных</a>
 
 **Материалы:**
 - [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
@@ -86,7 +86,7 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
 
-## <a name ="8">8. Цикл (while, for)</a>
+## 8. <a name ="8">Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Материалы:**
@@ -94,7 +94,7 @@ public class MyFirstApp {
 - [Оператор while](http://pr0java.blogspot.ru/2015/04/while.html)
 - [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
 
-## <a name ="9">9. Система управления версиями Git</a>
+## 9. <a name ="9">Система управления версиями Git</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
 **Материалы:**
@@ -105,7 +105,7 @@ public class MyFirstApp {
   - [Git обучалка](https://githowto.com/ru)
   - [Интерактивная Git обучалка (в настройках выберите русский язык)](http://learngitbranching.js.org)
   
-## <a name="10">10. Настройка локального репозитория</a>
+## 10. <a name="10">Настройка локального репозитория</a>
 - Создайте в удобном для вас месте папку под названием `startjava`. В ней будет храниться ваш код
 - Создайте на GitHub репозиторий с названием `startjava`
 - Напишите в консоли (при этом консоль должна быть открыта в папке `startjava`): 
@@ -114,7 +114,7 @@ public class MyFirstApp {
   - добавьте адрес созданного репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
   - проверьте, добавился он или нет — `git remote -v`
 
-## <a name="11">11. Домашнее задание</a>
+## 11. <a name="11">Домашнее задание</a>
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
 - Реализуйте `Калькулятор`, который должен уметь выполнять математические операции (`+, -, *, /, ^, %`) над целыми положительными числами:
