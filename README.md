@@ -53,7 +53,7 @@
    - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#1-Введение-в-реляционные-базы-данных)
    - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#2-Реляционная-СУБД-postgresql-Терминал-psql)
    - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#3-Введение-в-sql)
-   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#5-Домашнее-задание)
+   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
 
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
