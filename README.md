@@ -48,6 +48,12 @@
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5-Класс-javautilarrays)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6-Домашнее-задание)
   - [Бонусное видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7-Бонусное-видео)
+  
+- **Занятие пятое (бонусное)**
+   - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#1-Введение-в-реляционные-базы-данных)
+   - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#2-Реляционная-СУБД-postgresql-Терминал-psql)
+   - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#3-Введение-в-sql)
+   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#5-Домашнее-задание)
 
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
