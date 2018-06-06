@@ -4,7 +4,7 @@
 - [Введение в реляционные базы данных](#1)
 - [Реляционная СУБД PostgreSQL. Терминал psql](#2)
 - [Введение в SQL](#3)
-- [Домашнее задание](#5)
+- [Домашнее задание](#4)
 
 ## <a name="1">1. Введение в реляционные базы данных</a>
 
@@ -44,7 +44,7 @@
 - [Обучалка SQL](http://www.sql-ex.ru/)
 - [Книга для начинающих - Изучаем SQL](https://www.ozon.ru/context/detail/id/7246798/)
 
-## <a name="5">5. Домашнее задание</a>
+## <a name="4">4. Домашнее задание</a>
 - Создайте базу данных под название `Jaegers`:
   - названия столбцов: `id, modelName, mark, height, weight, status, origin, launche, kaijuKill`
   - данные о роботах брать [тут](http://pacificrim.wikia.com/wiki/Category:Jaegers)
