@@ -46,7 +46,7 @@
 
 ## <a name="4">4. Домашнее задание</a>
 - Создайте базу данных под название `Jaegers`:
-  - названия столбцов: `id, modelName, mark, height, weight, status, origin, launche, kaijuKill`
+  - названия столбцов: `id, modelName, mark, height, weight, status, origin, launch, kaijuKill`
   - данные о роботах брать [тут](http://pacificrim.wikia.com/wiki/Category:Jaegers)
   - занести в базу информацию о 10 роботах
 - Научитесь делать следующие запросы:
