@@ -6,7 +6,7 @@
 - [Введение в SQL](#3)
 - [Домашнее задание](#4)
 
-## <a name="1">1. Введение в реляционные базы данных</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="1">1. [Введение в реляционные базы данных](https://drive.google.com/file/d/16JpQcAwKyhFQkh0D6et2RMVXx2fUFBkc/view?usp=sharing)</a>
 
 **Материалы:**
 - [База данных](https://ru.wikipedia.org/wiki/База_данных) (wiki)
@@ -17,7 +17,7 @@
 
 ![database2](https://user-images.githubusercontent.com/29703461/40881632-64b2d3a4-66d4-11e8-842e-366d29c783f2.png)
 
-## <a name="2">2. Реляционная СУБД PostgreSQL. Терминал psql</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Реляционная СУБД PostgreSQL. Терминал psql](https://drive.google.com/file/d/1GQulzZEjzfvbOVcK7rXagprbpkMm0rg5/view?usp=sharing)</a>
 > Скачайте и установите [СУБД PostgreSQL](https://www.postgresql.org/download)
 
 `sudo -u postgres psql` — запуск psql в Linux
