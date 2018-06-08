@@ -34,24 +34,24 @@
   
 - **Занятие третье**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
-  - [Механизм пакетов (package) в Java](https://github.com/ichimax/startjava/blob/master/lesson%203.md#1-Механизм-пакетов-package-в-java)
-  - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#2-Компиляция-java-программ-Часть-ii)
-  - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#3-gitignore)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#4-Домашнее-задание)
+  - [Механизм пакетов (package) в Java](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-1-Механизм-пакетов-package-в-java)
+  - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-2-Компиляция-java-программ-Часть-ii)
+  - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-3-gitignore)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#5-Домашнее-задание)
   
 - **Занятие четвертое**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#Разбор-домашнего-задания)
   - [Среда разработки — IntelliJ IDEA](https://github.com/ichimax/startjava/blob/master/lesson%204.md#-1-Среда-разработки--intellij-idea)
   - [Массивы. Цикл for each](https://github.com/ichimax/startjava/blob/master/lesson%204.md#-2-Массивы-Цикл-for-each)
-  - [Задачки на массивы](https://github.com/ichimax/startjava/blob/master/lesson%204.md#3-Задачки-на-массивы)
+  - [Задачки на массивы](https://github.com/ichimax/startjava/blob/master/lesson%204.md#-3-Задачки-на-массивы)
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4-Сортировка-массива-методом-пузырька)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5-Класс-javautilarrays)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6-Домашнее-задание)
   - [Бонусное видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7-Бонусное-видео)
   
 - **Занятие пятое (бонусное)**
-   - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#1-Введение-в-реляционные-базы-данных)
-   - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#2-Реляционная-СУБД-postgresql-Терминал-psql)
+   - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-1-Введение-в-реляционные-базы-данных)
+   - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-2-Реляционная-СУБД-postgresql-Терминал-psql)
    - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#3-Введение-в-sql)
    - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
 
