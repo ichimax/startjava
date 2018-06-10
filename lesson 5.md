@@ -37,7 +37,7 @@
 
 ![postgresql-10](https://user-images.githubusercontent.com/29703461/40881654-c0325af6-66d4-11e8-9a40-b7de3fb24f7b.png)
 
-## <a name="3">3. Введение в SQL</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="3">3. [Введение в SQL](https://drive.google.com/file/d/1NTxcqFXVFgEHcQGNhX8GkchXgdvFs-g3/view?usp=sharing)</a>
 
 **Материалы:**
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
@@ -47,11 +47,15 @@
 ## <a name="4">4. Домашнее задание</a>
 - Создайте базу данных под название `Jaegers`:
   - названия столбцов: `id, modelName, mark, height, weight, status, origin, launch, kaijuKill`
-  - данные о роботах брать [тут](http://pacificrim.wikia.com/wiki/Category:Jaegers)
   - занести в базу информацию о 10 роботах
+  - данные о роботах брать [тут](http://pacificrim.wikia.com/wiki/Category:Jaegers)
 - Научитесь делать следующие запросы:
-  - выведите все столбцы
+  - выведите всю таблицу
   - отобразите только не уничтоженных роботов
-  - отобразите роботов серии Mark-5 и Mark-6
+  - отобразите роботов нескольких серий, например Mark-1 и Mark-6
   - отсортируйте таблицу по убыванию по столбцу `mark`
   - отобразите самого старого робота
+  - отобразите роботов, которые уничтожили больше/меньше всех kaiju
+  - отобразите средний вес роботов
+  - увеличьте на единицу количество уничтоженных kaiju у роботов, которые до сих пор не разрушены
+  - удалите уничтоженных роботов
