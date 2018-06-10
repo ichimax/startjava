@@ -52,7 +52,7 @@
 - **Занятие пятое (бонусное)**
    - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-1-Введение-в-реляционные-базы-данных)
    - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-2-Реляционная-СУБД-postgresql-Терминал-psql)
-   - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#3-Введение-в-sql)
+   - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-3-Введение-в-sql)
    - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
 
 ## Рекомендуемые книги
