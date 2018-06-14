@@ -14,11 +14,11 @@
 - [Домашнее задание](#11)
 
 ## 1. <a name="1">Подготовка рабочего окружения</a>
-- Установите [JDK8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) (выбрать Accept License Agreement)
+- Установите [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habrahabr.ru/post/223527/)
-- Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/). Именно в нем мы будем писать наши программы
+- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
+- Установите текстовый редактор с подсветкой кода, например [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы
 - **Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!**
 
 ## 2. <a name="2">Первая программа</a>
@@ -32,6 +32,8 @@ public class MyFirstApp {
 	}
 }
 ```
+и сохраните его в файле под названием `MyFirstApp.java`
+
 **Материалы:**
 - [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
 - [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE) (youtube)
@@ -45,7 +47,9 @@ public class MyFirstApp {
 - Если при этом возникнет ошибка
 ![error](https://user-images.githubusercontent.com/29703461/39296698-4796325e-494a-11e8-8ac5-53cf4b3c3e6d.jpg),то
 - [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Выведите в консоли значение переменной `PATH`: `echo %PATH%` (в win) или `$PATH` (в Linux)
+- Выведите в консоли значение переменной `PATH`: 
+  - `echo %PATH%` (в win)
+  - `$PATH` (в Linux)
 - Убедитесь, что там присутствует путь до указанных выше файлов
 
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
@@ -138,7 +142,7 @@ public class MyFirstApp {
    - [`git add Файл_с_кодом.java`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Отслеживание-новых-файлов) (файлы с расширением class не заносите)
    - [`git commit -m "описание изменений, которые вы внесли в программу"`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Фиксация-изменений)
    - [`git push -u origin master`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями#Push)
-7. На GitHub отправляйте не только файлы с расширением java, но и папки, например, `Lesson 1`
+7. На GitHub отправляйте не только файлы с расширением Java, но и папки, например, `Lesson 1`
 8. Символ `^` используется для обозначения операции возведения в степень
 9. Примерно так должна выглядеть структура ваших файлов и папок
 
