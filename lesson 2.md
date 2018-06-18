@@ -33,9 +33,10 @@
 
 **Материалы:**
 - [Класс](https://ru.wikipedia.org/wiki/Класс_(программирование)) (wiki)
+- [Классы в Java](https://vertex-academy.com/tutorials/ru/klassy-v-java)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-- [Тип данных String(строка) в Java](https://habr.com/post/260767/)
+- [Тип данных String(строка) в Java](https://habr.com/post/260767)
 ![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
@@ -54,6 +55,7 @@
 **Материалы:**
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
+- [Инкапсуляция в Java](https://vertex-academy.com/tutorials/ru/inkapsulyaciya-java/)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
 - [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
@@ -76,7 +78,7 @@
   - для проверки знака математической операции воспользуйтесь оператором [`switch`](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/switch.html)
 - Создайте программу, описывающую любого из представленных типов [роботов](http://pacificrim.wikia.com/wiki/Category:Jaegers)
   - реализуйте класс `Jaeger` и `JaegerTest`
-  - создайте 2 экземпляра класса `Jaeger` и протестируйте их (вызывайте методы, перезаписывайте и выводите значения полей)
+  - создайте 2 экземпляра класса `Jaeger` и поэксперементируйте с ними (вызывайте методы, перезаписывайте и выводите значения полей)
   
  ## Советы для тех, кто выполняет домашнее задание
  1. Для ввода чисел (в `Калькуляторе` и `Угадай число`) и знака математической операции используйте клавиатуру (класс [`Scanner`](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
@@ -87,9 +89,9 @@
  3. Метод `main` необходимо размещать в классах, в имени которых присутствует слово `Test`
  4. Назначение классов в игре `Угадай число`:
     - `GuessNumber` — отвечает за сам процесс игры и логику ее работы
-    - `Player` — описывает игроков
-    - `GuessNumberTest` — предназначен для запуска и тестирования игры
- 5. Для завершения или продолжения работы программ выводите сообщение: `"Хотите продолжить? [да/нет]:"`
+    - `Player` — описывает игроков (один экземпляр класса соответствует одому игроку)
+    - `GuessNumberTest` — предназначен для запуска игры
+ 5. Для завершения или продолжения работы программ выводите сообщение: `"Хотите продолжить? [да/нет]: "`
  6. Если пользователь ввел ни "да" ни "нет", а что-то другое — снова выведите сообщение из п.5
  7. Не забывайте указывать для полей и методов модификаторы доступа
  8. Класс `Player` должен иметь следующие поля и методы:
