@@ -14,7 +14,9 @@
 - [Домашнее задание](#11)
 
 ## 1. <a name="1">Подготовка рабочего окружения</a>
-- Установите [Java SE Development Kit 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+- Установите Java SE Development Kit 8:
+  - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+  - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
