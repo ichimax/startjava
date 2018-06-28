@@ -79,7 +79,7 @@ public class MyFirstApp {
 
 **Материалы:**
 - [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
-- [Оператор if else](http://pr0java.blogspot.ru/2015/04/ifelse.html)
+- [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 ## 7. <a name="7">Переменные: примитивные типы данных</a>
@@ -97,8 +97,8 @@ public class MyFirstApp {
 
 **Материалы:**
 - [Циклы в Java](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
-- [Оператор while](http://pr0java.blogspot.ru/2015/04/while.html)
-- [Оператор for](http://pr0java.blogspot.ru/2015/04/for-foreach.html)
+- [Оператор while](https://youtu.be/15PjODTSTaw) (youtube)
+- [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
 ## 9. <a name ="9">Система управления версиями Git</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
