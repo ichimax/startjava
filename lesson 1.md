@@ -17,6 +17,14 @@
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
+- Откройте консоль и введите в ней `java -version`
+- Если при этом возникнет ошибка
+> "java" не является внутренней или внешней командой, исполняемой программой или пакетным файлом, то
+- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
+- Выведите в консоли значение переменной `PATH`: 
+  - `echo %PATH%` (в win)
+  - `$PATH` (в Linux)
+- Убедитесь, что там присутствует путь до указанных выше файлов
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
@@ -45,15 +53,6 @@ public class MyFirstApp {
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
 ## 3. <a name="3">Ручная компиляция и запуск программы</a>
-- Откройте консоль и введите в ней `java -version`
-- Если при этом возникнет ошибка
-> "java" не является внутренней или внешней командой, исполняемой программой или пакетным файлом, то
-- [Занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Выведите в консоли значение переменной `PATH`: 
-  - `echo %PATH%` (в win)
-  - `$PATH` (в Linux)
-- Убедитесь, что там присутствует путь до указанных выше файлов
-
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
