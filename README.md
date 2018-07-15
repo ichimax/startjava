@@ -73,6 +73,7 @@
  - Спасибо всем, кто дает обратную связь по урокам — она помогает нам делать этот курс еще лучше
  
  ## Контакты
+ - наша группа в [vk](https://vk.com/topjavaru)
  - [topjava.ru](https://topjava.ru/)
  - [javaops.ru](http://javaops.ru/)
  - skype Максима: *canbezam*
