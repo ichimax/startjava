@@ -73,10 +73,8 @@
  - Спасибо всем, кто дает обратную связь по урокам — она помогает нам делать этот курс еще лучше
  
  ## Контакты
+ - информация о курсах, процессе обучения, трудоустройстве: [topjava.ru](https://topjava.ru/)
  - наша группа в [vk](https://vk.com/topjavaru)
- - [topjava.ru](https://topjava.ru/)
- - [javaops.ru](http://javaops.ru/)
- - skype Максима: *canbezam*
- - skype Григория Кислина: *grigory.kislin*
- - Максим в Slack: [*@chimax*](https://startjava.slack.com/messages/@chimax)
+ - skype автора курса (Максим): *canbezam*
  - для общения по данному проекту подключайтесь в группу в мессенджере [Slack](https://join.slack.com/t/startjava/shared_invite/enQtMjk1ODAxNjgzMjY1LWNlNmY5MzFlMGNjMGYzMDI4MTk3YWM1Zjc3ZDhmZjAwNmE3NzUzYWNiY2ViMjg2NTk3NjBkMGI5NWZmYjhjMjk)
+ - Максим в Slack: [*@chimax*](https://startjava.slack.com/messages/@chimax)
