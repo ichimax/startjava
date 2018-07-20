@@ -49,7 +49,7 @@
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4-Сортировка-массива-методом-пузырька)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5-Класс-javautilarrays)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6-Домашнее-задание)
-  - [Бонусное видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7-Бонусное-видео)
+  - [Бонусные видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7-Бонусные-видео)
   
 - **Занятие пятое (бонусное)**
    - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-1-Введение-в-реляционные-базы-данных)
