@@ -55,6 +55,7 @@
 **Материалы:**
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
+- [Описание инкапсуляции](https://github.com/ichimax/Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#Что-такое-инкапсуляция)
 - [Инкапсуляция в Java](https://vertex-academy.com/tutorials/ru/inkapsulyaciya-java/)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
