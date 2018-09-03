@@ -1,7 +1,8 @@
 # StartJava
     Программирование на языке Java для начинающих "с нуля"
 
-![eaa49735fc4e44c09dff85abcff3cbb61](https://user-images.githubusercontent.com/29703461/41687911-6998bd4e-74f2-11e8-8f36-841919089170.jpg)
+![41687911-6998bd4e-74f2-11e8-8f36-841919089170](https://user-images.githubusercontent.com/29703461/44985570-739f4c00-af89-11e8-9c9f-bfd22ffeecb5.jpg)
+
 Вы решили начать изучать язык программирования Java и, возможно, в будущем хотели бы пройти обучение на наших [курсах](https://topjava.ru/) и получить достойную профессию разработчика!
 Но знаний еще не хватает и [выполнить](https://drive.google.com/file/d/1W9AtOE3yvDCOOZxmHSw4lGpFiFVYJB8_/view?usp=sharing) первое открытое домашнее задание (его вы получите сразу после регистрации на проекте) на курсе [BaseJava](https://topjava.ru/basejava) не получается...
 
