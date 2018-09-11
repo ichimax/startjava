@@ -13,7 +13,7 @@
 1. [Настройка локального репозитория](#10)
 1. [Домашнее задание](#11)
 
-## 1. <a name="1">Подготовка рабочего окружения</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
