@@ -120,7 +120,7 @@ public class MyFirstApp {
   - добавьте адрес созданного репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
   - проверьте, добавился он или нет — `git remote -v`
 
-## 11. <a name="11">Домашнее задание</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 11. <a name="11">[Домашнее задание](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
 - Реализуйте `Калькулятор`, который должен уметь выполнять математические операции (`+, -, *, /, ^, %`) над целыми положительными числами:
