@@ -17,8 +17,8 @@
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
-- Откройте консоль и введите в ней `java -version`
-- Если при этом возникнет ошибка `"java" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
+- Откройте консоль и введите в ней `java -version`, а затем `javac -version`
+- Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
   - [занесите](https://www.java.com/ru/download/help/path.xml) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль  
 - Выведите в консоли значение переменной `PATH`: 
   - `echo %PATH%` (в win)
