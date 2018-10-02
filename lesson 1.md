@@ -22,7 +22,7 @@
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
 - Откройте консоль и введите в ней `java -version`, а затем `javac -version`
 - Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
-  - занесите ([способ 1](https://www.java.com/ru/download/help/path.xml), [способ 2](https://docs.oracle.com/javase/tutorial/essential/environment/paths.html)) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль  
+  - [занесите](https://youtu.be/EEqScHr_bec) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль  
 - Выведите в консоли значение переменной `PATH`: 
   - `echo %PATH%` (в win)
   - `$PATH` (в Linux)
