@@ -77,15 +77,7 @@ public class MyFirstApp {
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 - [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
-## 6. <a name="6">Ветвление (if, if else)</a>
-![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
-
-**Материалы:**
-- [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
-- [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
-- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
-
-## 7. <a name="7">Переменные: примитивные типы данных</a>
+## 6. <a name="6">Переменные: примитивные типы данных</a>
 
 **Материалы:**
 - [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
@@ -94,6 +86,14 @@ public class MyFirstApp {
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
 ![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
+
+## 7. <a name="7">Ветвление (if, if else)</a>
+![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
+
+**Материалы:**
+- [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
+- [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
+- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
 ## 8. <a name ="8">Цикл (while, for)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
