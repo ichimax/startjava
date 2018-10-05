@@ -95,7 +95,7 @@ public class MyFirstApp {
 - [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
-## 8. <a name ="8">Цикл (while, for)</a>
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), while, do while</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Материалы:**
