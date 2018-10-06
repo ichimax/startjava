@@ -32,7 +32,10 @@
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
 - Установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы
 
-**Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!**
+Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!
+
+**Материалы**
+- [Что такое JDK](https://topjava.ru/blog/what-is-the-jdk)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
 
