@@ -107,7 +107,8 @@ public class MyFirstApp {
 - [Оператор while](https://youtu.be/15PjODTSTaw) (youtube)
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
-## 9. <a name ="9">Система управления версиями Git</a>
+
+## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
 **Материалы:**
