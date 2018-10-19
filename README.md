@@ -22,7 +22,7 @@
   - [Байт-код](https://github.com/ichimax/startjava/blob/master/lesson%201.md#5-Байт-код)
   - [Переменные: примитивные типы данных](https://github.com/ichimax/startjava/blob/master/lesson%201.md#6-Переменные-примитивные-типы-данных/)
   - [Ветвление (if, if else)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#7-Ветвление-if-if-else)
-  - [Цикл (while, for)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#8-Цикл-while-for)
+  - [Цикл (for, while, do while)](https://github.com/ichimax/startjava/blob/master/lesson%201.md#8-Цикл-while-for)
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9-Система-управления-версиями-git)
   - [Настройка локального репозитория](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-локального-репозитория)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-Домашнее-задание)
