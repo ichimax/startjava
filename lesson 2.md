@@ -5,7 +5,7 @@
 - ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
-## Темы второго занятия
+## Темы занятия
 1. [Что такое ООП](#1)
 1. [Что такое класс](#2)
 1. [Что такое объект](#3)
