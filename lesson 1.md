@@ -15,6 +15,7 @@
 1. [Система управления версиями Git](#9)
 1. [Настройка локального репозитория](#10)
 1. [Домашнее задание](#11)
+1. [Советы для тех, кто выполняет домашнее задание](#12)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 - Установите Java SE Development Kit 8:
@@ -32,7 +33,7 @@
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
 - Установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы
 
-Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" git — ваши лучшие друзья!
+Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
 
 **Материалы:**
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
@@ -42,7 +43,7 @@
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
 
-Введите данный код в Sublime Text:
+Перепишите данный код в Sublime Text:
 
 ``` java
 public class MyFirstApp {	
@@ -93,6 +94,14 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
 
+**Домашнее задание:**
+- Создайте класс **Variable** с методом **main**
+- Объявите в методе переменные всех существующих в Java примитивных типов данных. Каждой переменной присвойте значение 
+- В качестве значений используйте информацию о себе: возраст, рост, пол, и тд.
+- Выведите все значения переменных на консоль
+- Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9), почитайте [рекомендации](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12) о том, как с ними работать
+- Покажите Д/З наставнику
+
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
@@ -100,6 +109,41 @@ public class MyFirstApp {
 - [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
 - [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
+
+**Домашнее задание:**
+- Создайте класс **ConditionalStatement** с методом **main**
+- Запишите следующие условия с помощью языка Java
+- Используйте переменные и условные операторы
+- Выведите все сообщения на консоль
+
+``` java
+ЕСЛИ(вашВозраст > 20) {
+    выведите какое-то сообщение
+}
+
+ЕСЛИ(выМужскогоПола) {
+    выведите какое-то сообщение
+}
+
+ЕСЛИ(выЖенскогоПола) {
+    выведите какое-то сообщение
+}
+
+ЕСЛИ(вашРос < 1.80) {
+    выведите какое-то сообщение
+} ИНАЧЕ {
+    выведите какое-то сообщение
+}
+
+ЕСЛИ(ВашеИмяНачинаетсяСБуквыМ == ‘М’) {
+    выведите какое-то сообщение
+} ИНАЧЕ ЕСЛИ(ВашеИмяНачинаетсяСБуквыИ == ‘И’) {
+    выведите какое-то сообщение
+} ИНАЧЕ {
+    выведите какое-то сообщение
+} 
+```
+- Покажите Д/З наставнику
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
@@ -109,6 +153,12 @@ public class MyFirstApp {
 - [Оператор while](https://youtu.be/15PjODTSTaw) (youtube)
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
+**Домашнее задание:**
+- Создайте класс **Cycle** с методом **main**
+- Выведите на консоль с помощью цикла for все числа от [0, 20]
+- Выведите на консоль с помощью цикла while все числа от [6, -6] (шаг итерации равен 2)
+- Выведите на консоль с помощью цикла do-while сумму всех нечетных чисел от [10, 20]
+- Покажите Д/З наставнику
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
@@ -147,14 +197,14 @@ public class MyFirstApp {
 - [Программирование на Java для детей, родителей, бабушек и дедушек (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
 - [Яша учится программировать](https://drive.google.com/file/d/1ukTlzMrFX3Zj8X9TXp6U-mJUH1fOKUED/view?usp=sharing)
 
-## Советы для тех, кто выполняет домашнее задание
-### Рекомендации по git
-1. Последовательность стандартных шагов при работе с git:
+## 12. <a name="12">Советы для тех, кто выполняет домашнее задание</a>
+### Рекомендации по Git
+1. Последовательность стандартных шагов при работе с Git:
    - [`git add Файл_с_кодом.java`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Отслеживание-новых-файлов) (файлы с расширением class не заносите)
    - [`git commit -m "описание изменений, которые вы внесли в программу"`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Фиксация-изменений)
    - [`git push -u origin master`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями#Push)
 2. На GitHub отправляйте не только файлы с расширением `*.java`, но и папки, например, `Lesson 1`
-3. Если вы хотите в git добавить папку с файлами, но при этом какие-то файлы требуется проигнорировать (например `*.class`):
+3. Если вы хотите в Git добавить папку с файлами, но при этом какие-то файлы требуется проигнорировать (например `*.class`):
    - `git add "Lesson 1"`
    - `git reset "Lesson 1/имя файла, который необходимо проигнорировать"`
 4. Если на GitHub форматирование вашего кода отличается от того, как вы его оформили в Sublime, то решить это можно [так](https://superuser.com/questions/1048772/default-sublime-text-3-to-use-spaces-instead-of-tabs)
@@ -169,7 +219,7 @@ public class MyFirstApp {
 7. Символ`%`, похожий на проценты, называется [оператором деления по модулю](https://vertex-academy.com/tutorials/ru/delenie-po-modulyu-v-java/)
 8. Примерно так должна выглядеть структура ваших файлов и папок
 
-![tree](https://user-images.githubusercontent.com/29703461/40510917-c8e835ce-5fa6-11e8-9450-36ec4b878410.png)
+![tree](https://user-images.githubusercontent.com/29703461/47957392-d92daa00-dfc5-11e8-8a5c-c767d0f2fa99.png)
 
 ## Немного мотивации
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
