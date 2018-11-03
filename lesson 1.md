@@ -46,9 +46,9 @@
 
 ``` java
 public class MyFirstApp {	
-	public static void main(String[] args) {
-		System.out.println("Hello, world");
-	}
+    public static void main(String[] args) {
+        System.out.println("Hello, world");
+    }
 }
 ```
 и сохраните его в файле под названием `MyFirstApp.java`
