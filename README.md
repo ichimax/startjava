@@ -15,17 +15,17 @@
 
 ## Программа интенсива
 - **Занятие первое**
-  - [Подготовка рабочего окружения](https://github.com/ichimax/startjava/blob/master/lesson%201.md#1-Подготовка-рабочего-окружения)
-  - [Первая программа](https://github.com/ichimax/startjava/blob/master/lesson%201.md#2-Первая-программа)
-  - [Ручная компиляция и запуск программы](https://github.com/ichimax/startjava/blob/master/lesson%201.md#3-Ручная-компиляция-и-запуск-программы)
-  - [Этапы компиляции и запуска](https://github.com/ichimax/startjava/blob/master/lesson%201.md#4-Этапы-компиляции-и-запуска)
-  - [Байт-код](https://github.com/ichimax/startjava/blob/master/lesson%201.md#5-Байт-код)
+  - [Подготовка рабочего окружения](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-1-подготовка-рабочего-окружения)
+  - [Первая программа](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-2-первая-программа)
+  - [Ручная компиляция и запуск программы](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-3-Ручная-компиляция-и-запуск-программы)
+  - [Этапы компиляции и запуска](https://github.com/ichimax/startjava/blob/master/lesson%201.md#4-этапы-компиляции-и-запуска)
+  - [Байт-код](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-5-байт-код)
   - [Переменные: примитивные типы данных](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-6-Переменные-примитивные-типы-данных)
   - [Ветвление: if, if else](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-7-Ветвление-if-if-else)
   - [Циклы: for, while, do while](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-8-Циклы-for-while-do-while)
-  - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9-Система-управления-версиями-git)
-  - [Настройка локального репозитория](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-Настройка-локального-репозитория)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-Домашнее-задание)
+  - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
+  - [Настройка локального репозитория](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-настройка-локального-репозитория)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-11-Домашнее-задание)
   
 - **Занятие второе**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
