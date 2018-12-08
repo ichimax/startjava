@@ -39,6 +39,13 @@
 - [Тип данных String(строка) в Java](https://habr.com/post/260767)
 ![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
 
+**Домашнее задание:**
+- Создайте класс **Person**
+- Напишите в нем поля (атрибуты), описывающие характеристики человека: пол, имя, рост, вес, возраст
+- Проинициализируйте их какими-то значениями
+- Создайте в классе методы, описывающие поведение (что он может делать) человека: идти, сидеть, бежать, говорить, учить Java
+- Покажите Д/З наставнику
+
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
 
 >Объект — это экземпляр какого-либо класса, обладающий характеристиками в виде полей (fields) и поведением (функционалом) в виде методов (methods)
@@ -49,6 +56,16 @@
 - [Objects](https://docs.oracle.com/javase/tutorial/java/javaOO/objects.html)
 
 ![object](https://user-images.githubusercontent.com/29703461/39529416-4e58a1e6-4e2f-11e8-9a37-029871ea096a.png)
+
+**Домашнее задание:**
+- Создайте класс **Wolf**
+   - напишите в нем поля: пол, кличка, вес, возраст, окрас
+   - напишите в нем методы: идти, сидеть, бежать, выть, охотиться
+- Создайте класс **WolfTest** с методом **main**
+  - создайте в классе **WolfTest** объект типа **Wolf**
+  - присвойте полям экземпляра класса **Wolf** какие-то значения
+  - считайте эти значения из полей и отобразите в консоли
+- Покажите Д/З наставнику
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
 
