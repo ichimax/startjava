@@ -65,6 +65,7 @@
   - создайте объект типа **Wolf**
   - присвойте в нем полям экземпляра класса **Wolf** какие-то значения
   - считайте эти значения из полей и отобразите в консоли
+  - вызовите методы объекта
 - Покажите Д/З наставнику
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
