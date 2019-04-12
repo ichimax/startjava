@@ -26,7 +26,7 @@
 
 **Материалы:**
 - [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL) (wiki)
-- [Installation PostgreSQL || PgAdmin 4 for Windows](https://www.youtube.com/watch?v=K7pgooc2JaQ)
+- [Installation PostgreSQL || PgAdmin 4 for Windows](https://www.youtube.com/watch?v=e1MwsT5FJRQ)
 - [Установка и использование PostgreSQL в Ubuntu](https://www.8host.com/blog/ustanovka-i-ispolzovanie-postgresql-v-ubuntu-18-04/)
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
