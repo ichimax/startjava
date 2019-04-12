@@ -101,7 +101,7 @@ public class MyFirstApp {
 - В качестве значений используйте информацию о своем компьютере: количество ядер, частота процессора и тд.
 - Выведите все значения переменных на консоль
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9), почитайте [рекомендации](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12) о том, как с ними работать
-- Покажите Д/З наставнику
+- **Покажите Д/З наставнику**
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
@@ -144,7 +144,7 @@ public class MyFirstApp {
     выведите какое-то сообщение
 } 
 ```
-- Покажите Д/З наставнику
+- **Покажите Д/З наставнику**
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
@@ -159,7 +159,7 @@ public class MyFirstApp {
 - Выведите на консоль с помощью цикла for все числа от [0, 20]
 - Выведите на консоль с помощью цикла while все числа от [6, -6] (шаг итерации равен 2)
 - Выведите на консоль с помощью цикла do-while сумму всех нечетных чисел от [10, 20]
-- Покажите Д/З наставнику
+- **Покажите Д/З наставнику**
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
