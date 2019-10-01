@@ -77,5 +77,5 @@
  - информация о курсах, процессе обучения, трудоустройстве: [topjava.ru](https://topjava.ru/)
  - наша группа в [vk](https://vk.com/topjavaru)
  - skype автора курса (Максим): *canbezam*
- - для общения по данному проекту подключайтесь в группу в мессенджере [Slack](https://join.slack.com/t/startjava/shared_invite/enQtMjk1ODAxNjgzMjY1LWNlNmY5MzFlMGNjMGYzMDI4MTk3YWM1Zjc3ZDhmZjAwNmE3NzUzYWNiY2ViMjg2NTk3NjBkMGI5NWZmYjhjMjk)
+ - для общения по данному проекту подключайтесь в группу в мессенджере [Slack](https://join.slack.com/t/startjava/shared_invite/enQtMjk1ODAxNjgzMjY1LTI5YzU0MTFkYmFkNjBmNjAyMTUyYzk0ZGZiMDQ0YjlhZjE5OGZhNzcyMGU4N2Q4ZWMxY2I0NzVlNzkyZDBiMDA)
  - Максим в Slack: [*@chimax*](https://startjava.slack.com/messages/@chimax)
