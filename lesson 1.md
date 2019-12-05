@@ -65,10 +65,12 @@ public class MyFirstApp {
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
-
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
+
+Для того, что бы русский текст корректно отображался в консоли, программы необходимо компилировать с помощью специального ключа:
+- `javac -encoding utf8 имя_класса.java`
 
 **Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
@@ -80,7 +82,7 @@ public class MyFirstApp {
 
 ## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 5. <a name="5">[Байт-код](https://drive.google.com/file/d/19Tl7dEpPszjQfulzQBEwyn9sQL0DK3ji/view?usp=sharing)</a>
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
-- `javap -c -s -verbose MyFirstApp`
+`javap -c -s -verbose MyFirstApp`
 
 **Материалы:**
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
