@@ -121,6 +121,7 @@ public class MyFirstApp {
 - Запишите следующие условия с помощью языка Java
 - Используйте переменные и условные операторы
 - Выведите сообщения на консоль
+- Попробуйте применить оператор ! [(логическое НЕ)](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
 
 ``` java
 ЕСЛИ(возраст > 20) {
