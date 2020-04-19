@@ -39,11 +39,6 @@
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
 ## 4. <a name="4">Ответы на вопросы</a>
-> Как, используя класс Scanner получить тип данных char?
-
-Например, так: `char mathOperation = reader.next().charAt(0);`
-
-[How can I enter “char” using Scanner in java?](https://stackoverflow.com/questions/23098790/how-can-i-enter-char-using-scanner-in-java)
 
 > Когда я компилирую, то почему-то в папке out не создается такая же структура папок, как и в папке src. При этом class-файлы появляются в корне папки out
 
