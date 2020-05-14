@@ -1,9 +1,9 @@
 # Занятие второе
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Символы Unicode](https://drive.google.com/file/d/1CSYppASCuuIGUm9SBVCDR0d4nodhLqFq/view?usp=sharing)
 
 ## Темы занятия
 1. [Что такое ООП](#1)
@@ -13,7 +13,7 @@
 1. [Ответы на вопросы](#5)
 1. [Домашнее задание](#6)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
 
 >ООП — это одна из парадигм (методологий, способов оформления кода) программирования, основанная на принципах, предполагающих написание программного кода в виде классов и их объектов, взаимодействующих друг с другом
 
@@ -27,7 +27,7 @@
 
 ![oop](https://user-images.githubusercontent.com/29703461/39483340-b3a50496-4d7a-11e8-8e02-42a8d63de02d.jpg)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
 
 >Класс — это ссылочный тип данных, являющийся прототипом (blueprint, шаблоном) объекта, описывающий его характеристики и реализующий его поведение
 
@@ -46,7 +46,7 @@
 - Создайте в классе методы, описывающие поведение (что он может делать) человека: идти, сидеть, бежать, говорить, учить Java
 - Покажите Д/З наставнику
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
 
 >Объект — это экземпляр какого-либо класса, обладающий характеристиками в виде полей (fields) и поведением (функционалом) в виде методов (methods)
 
@@ -68,7 +68,7 @@
   - вызовите методы объекта
 - Покажите Д/З наставнику
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
 
 **Материалы:**
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
