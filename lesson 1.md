@@ -1,7 +1,7 @@
-> ![video](https://user-images.githubusercontent.com/29703461/81979885-fb2dd100-962d-11ea-8767-3ea24e7f3889.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок
+> ![video](https://user-images.githubusercontent.com/29703461/81982681-84470700-9632-11ea-88c2-4f7f8cdbe11f.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок
 
 
-# ![video](https://user-images.githubusercontent.com/29703461/81979885-fb2dd100-962d-11ea-8767-3ea24e7f3889.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
+# ![video](https://user-images.githubusercontent.com/29703461/81982681-84470700-9632-11ea-88c2-4f7f8cdbe11f.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
 
 ## Темы занятия
 1. [Подготовка рабочего окружения](#1)
