@@ -1,7 +1,7 @@
-> ![video](https://user-images.githubusercontent.com/29703461/81982681-84470700-9632-11ea-88c2-4f7f8cdbe11f.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок
+> ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок
 
 
-# ![video](https://user-images.githubusercontent.com/29703461/81982681-84470700-9632-11ea-88c2-4f7f8cdbe11f.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
+# ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
 
 ## Темы занятия
 1. [Подготовка рабочего окружения](#1)
@@ -17,7 +17,7 @@
 1. [Домашнее задание](#11)
 1. [Советы для тех, кто выполняет домашнее задание](#12)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81979885-fb2dd100-962d-11ea-8767-3ea24e7f3889.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
@@ -43,7 +43,7 @@
 - [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
 - [Популярность Java-технологий в 2019 году](https://topjava.ru/blog/sostoyanie-java-v-2019-godu)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
 
 Перепишите данный код в Sublime Text:
 
@@ -64,7 +64,7 @@ public class MyFirstApp {
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
@@ -80,7 +80,7 @@ public class MyFirstApp {
 ## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 5. <a name="5">[Байт-код](https://drive.google.com/file/d/19Tl7dEpPszjQfulzQBEwyn9sQL0DK3ji/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 5. <a name="5">[Байт-код](https://drive.google.com/file/d/19Tl7dEpPszjQfulzQBEwyn9sQL0DK3ji/view?usp=sharing)</a>
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
 `javap -c -s -verbose MyFirstApp`
 
@@ -88,7 +88,7 @@ public class MyFirstApp {
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
 - [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 6. <a name="6">[Переменные: примитивные типы данных](https://drive.google.com/file/d/1mrsKC-wU7NpxQiNt47rgfySsDGTwB8Wb/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 6. <a name="6">[Переменные: примитивные типы данных](https://drive.google.com/file/d/1mrsKC-wU7NpxQiNt47rgfySsDGTwB8Wb/view?usp=sharing)</a>
 
 **Материалы:**
 - [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
@@ -108,7 +108,7 @@ public class MyFirstApp {
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9), почитайте [рекомендации](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12) о том, как с ними работать
 - **Покажите Д/З наставнику**
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
 **Материалы:**
@@ -152,7 +152,7 @@ public class MyFirstApp {
 ```
 - **Покажите Д/З наставнику**
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Материалы:**
@@ -167,7 +167,7 @@ public class MyFirstApp {
 - Подсчитайте с помощью цикла do-while сумму нечетных чисел от [10, 20], и выведите ее на консоль
 - **Покажите Д/З наставнику**
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
 
 **Материалы:**
@@ -187,7 +187,7 @@ public class MyFirstApp {
   - добавьте адрес созданного репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
   - проверьте, добавился он или нет — `git remote -v`
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 11. <a name="11">[Домашнее задание](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 11. <a name="11">[Домашнее задание](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
 > Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы для тех, кто выполняет домашнее задание`](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12-советы-для-тех-кто-выполняет-домашнее-задание), которые содержат ряд полезных подсказок и разъяснений
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
