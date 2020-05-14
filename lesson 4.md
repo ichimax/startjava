@@ -3,7 +3,7 @@
 Пора уже смотреть в сторону следующего курса — BaseJava. [Зарегистрируйтесь](https://topjava.ru/basejava) на проекте и начинайте потихоньку пробовать выполнить вступительное дз
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/39678117-3f25b246-518f-11e8-8be8-ca85ac4f4e29.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
 
 ## Темы четвертого занятия
 - [Среда разработки — IntelliJ IDEA](#1)
@@ -14,7 +14,7 @@
 - [Домашнее задание](#6)
 - [Бонусные видео](#7)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
 
 **Материалы:**
@@ -24,7 +24,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [for each](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [for each](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 
 **Материалы:**
@@ -39,7 +39,7 @@
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
-## ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
 **Материалы:**
  - [Задачки на русском языке](http://taskcode.ru/array)
