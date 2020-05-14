@@ -17,7 +17,7 @@
 1. [Домашнее задание](#11)
 1. [Советы для тех, кто выполняет домашнее задание](#12)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81978172-6c1fb980-962b-11ea-9a27-9970e4ae92df.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81979885-fb2dd100-962d-11ea-8767-3ea24e7f3889.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
