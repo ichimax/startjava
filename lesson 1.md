@@ -106,7 +106,7 @@ public class MyFirstApp {
 - В качестве значений используйте информацию о своем компьютере: количество ядер, частота процессора и тд.
 - Выведите все значения переменных на консоль
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9), почитайте [рекомендации](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12) о том, как с ними работать
-- **Покажите Д/З наставнику**
+- **Покажите Д/З наставнику** (присылайте ссылку с дз на гитхаб)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
