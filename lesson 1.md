@@ -76,6 +76,7 @@ public class MyFirstApp {
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
+- [Сответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/39407954-5ff88c7c-4bd7-11e8-96d6-1456d6673a45.png)
