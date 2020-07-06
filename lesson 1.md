@@ -58,7 +58,7 @@ public class MyFirstApp {
 
 **Материалы:**
 - [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
-- [SublimeText - Terminal Access - Plugin](https://www.youtube.com/watch?v=4hZvb8sr1cE) (youtube)
+- [SublimeText - Terminal Access - Plugin](https://youtu.be/4hZvb8sr1cE?t=60) (youtube)
 - [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
 - ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
