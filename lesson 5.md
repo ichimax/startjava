@@ -70,5 +70,6 @@
 - Заполните их командами `SQL`
 - Запуште их на гитхаб. Покажите наставнику
 - Найдите в справке к psql ключ, который позволит запустить данные файлы из консоли. Запустите их
-- Если при запуске sql-файла возникает ошибка `Permission denied`, выполните [эти](https://dba.stackexchange.com/questions/29767/permission-denied-in-file-trying-to-import) рекомендации
 - Пришлите наставнику скриншоты консоли с запущенным файлом `queries.sql`
+- Если при запуске sql-файла возникает ошибка `Permission denied`, выполните [эти](https://dba.stackexchange.com/questions/29767/permission-denied-in-file-trying-to-import) рекомендации
+- Если при работе с psql слетает кодировка, то перед запуском psql введите в консоли (win) chcp 1251
