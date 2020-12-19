@@ -21,6 +21,7 @@
 - Установите Java SE Development Kit 8:
   - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
+  - альтернативная сборка [JDK 8](https://libericajdk.ru/pages/java-8u275/) для всех платформ (не требует регистрации; при установке автоматически прописыват в `PATH` путь до папки с java)
 - Откройте консоль и введите в ней `java -version`, а затем `javac -version`
 - Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
   - [занесите](https://youtu.be/EEqScHr_bec) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
@@ -72,7 +73,7 @@ public class MyFirstApp {
 Для того, что бы русский текст корректно отображался в консоли, программы необходимо компилировать с помощью специального ключа:
 - `javac -encoding utf8 имя_класса.java`
 
-Если вы используете windows 10, то необходимо [настроить](https://drive.google.com/file/d/1LTDN9reLiQFdlgc8Nnx4itfMQ0hhxgkb/view?usp=sharing) ОС на поддержку Юникод. В этом случае ключ `-encoding utf8` уже не требуется.
+Если вы используете windows 10, то можно [настроить](https://drive.google.com/file/d/1LTDN9reLiQFdlgc8Nnx4itfMQ0hhxgkb/view?usp=sharing) ОС на поддержку Юникод. В этом случае ключ `-encoding utf8` уже не требуется.
 
 
 **Материалы:**
