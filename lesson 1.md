@@ -33,8 +33,7 @@
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
 - Установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы
-- **Чтобы табуляция при форматировании вашего кода на GitHub выглядела корректно, воспользуйтесь [этими](http://gearmobile.github.io/sublime-text-tabulation/) рекомендациями (стандарт — один tab равен 4 пробела). Смотрите раздел "Редактирование файла конфигурации Sublime Text"**
-- **Для отображения непечатаемых символов (пробелов, табуляции) выполните [эти](https://renotes.ru/post-254/sulbime-text-pokazyvat-nepechatnye-simvoly) настройки** — данная настройка позволит вам контролировать используемые в коде отступы
+- Выполните [настройки](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
 
 Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
 
