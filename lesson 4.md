@@ -66,7 +66,7 @@
 - [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
 - [Двоичный поиск](https://ru.wikipedia.org/wiki/Двоичный_поиск) (wiki)
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
-- [Бинарное дерево поиска](https://www.youtube.com/watch?time_continue=447&v=HBMlhZAOhoI) (youtube)
+- [Бинарное дерево поиска](https://youtu.be/HBMlhZAOhoI) (youtube)
 
 ## <a name="6">6. Домашнее задание</a>
 
