@@ -33,7 +33,7 @@
 
 **Материалы:**
 - [Класс](https://ru.wikipedia.org/wiki/Класс_(программирование)) (wiki)
-- [Классы в Java](https://vertex-academy.com/tutorials/ru/klassy-v-java)
+- [Классы в Java](https://javarush.ru/groups/posts/1949-znakomstvo-s-klassami-napisanie-sobstvennihkh-klassov-konstruktorih)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
 - [Тип данных String(строка) в Java](https://habr.com/post/260767)
