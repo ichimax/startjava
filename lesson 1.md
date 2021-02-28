@@ -95,7 +95,7 @@ public class MyFirstApp {
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 6. <a name="6">[Переменные: примитивные типы данных](https://drive.google.com/file/d/1mrsKC-wU7NpxQiNt47rgfySsDGTwB8Wb/view?usp=sharing)</a>
 
 **Материалы:**
-- [Переменные в Java](https://vertex-academy.com/tutorials/ru/sozdanie-peremennyx-i-tipy-peremenny/)
+- [Переменные в Java](https://youtu.be/Y__Ns7FS5lA?t=17)
 - [Примитивные типы данных](http://developer.alexanderklimov.ru/android/java/types.php)
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
@@ -117,7 +117,7 @@ public class MyFirstApp {
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
 **Материалы:**
-- [Ветвление в Java](https://vertex-academy.com/tutorials/ru/vetvlenie-v-java/)
+- [Ветвление в Java](https://javarush.ru/groups/posts/2726-vetvlenie-v-java)
 - [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
@@ -162,7 +162,7 @@ public class MyFirstApp {
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Материалы:**
-- [Циклы в Java](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
+- Циклы в Java [1](http://nikulux.ru/java-uroki/tsikly-v-yazyke-programmirovaniya-java/), [2](http://android-study.ru/cicli-v-java/)
 - [Оператор while](https://youtu.be/15PjODTSTaw) (youtube)
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
@@ -205,7 +205,7 @@ public class MyFirstApp {
   - для выбора вычисления той или иной математической операции используйте проверку математического знака с помощью `if else`
   - выведите на экран результат вычисления с помощью `System.out.println()`
   - Символ `^` используется в данном задании для обозначения операции возведения в степень, но в Java он выполняет совсем иную функцию. Самостоятельно реализуйте операцию возведения в степень
-  - Символ`%`, похожий на проценты, называется [оператором деления по модулю](https://vertex-academy.com/tutorials/ru/delenie-po-modulyu-v-java/). В калькуляторе не надо считать проценты! Считайте остаток от деления
+  - Символ`%`, похожий на проценты, называется [оператором деления по модулю](https://welcome4u.ru/languages/java/ostatok-ot-deleniya-v-java#i-8). В калькуляторе не надо считать проценты! Считайте остаток от деления
 - Напишите игру `Угадай число`:
   - компьютер "загадывает" целое число от (0 до 100], которое вам необходимо угадать
   - после каждой неудачной попытки выводите подсказку: `System.out.println("Введенное вами число больше (меньше) того, что загадал компьютер")`
