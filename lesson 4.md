@@ -29,21 +29,19 @@
 
 **Материалы:**
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
-- [Массивы в Java](https://vertex-academy.com/tutorials/ru/massivy-v-java)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
 - [Цикл for each, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
-- [Цикл for each в Java](https://vertex-academy.com/tutorials/ru/cikl-for-each)
+- [Цикл for each в Java](https://pr0java.blogspot.com/2015/04/for-foreach.html)
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
 **Материалы:**
- - [Задачки на русском языке](http://taskcode.ru/array)
- - [Задачи на массивы в Java](https://vertex-academy.com/tutorials/ru/zadachi-na-massivy-v-java)
+ - [Задачи на массивы в Java](http://taskcode.ru/array)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
  - Array [1](http://codingbat.com/java/Array-1), [2](http://codingbat.com/java/Array-2), [3](http://codingbat.com/java/Array-3)
 
@@ -53,7 +51,7 @@
 - [Сортировка пузырьком](https://ru.wikipedia.org/wiki/Сортировка_пузырьком) (wiki)
 - [Cортировка пузырьком (bubble sort)](https://www.youtube.com/watch?v=oqpICiM165I) (youtube)
 - [Алгоритм сортировка методом пузырька](https://www.youtube.com/watch?v=5JMInXAtnQg) (youtube)
-- [Сортировка пузырьком в Java](https://vertex-academy.com/tutorials/ru/sortirovka-puzyrkom-v-java/)
+- [Сортировка пузырьком в Java](https://nicholasgribanov.name/legendarnaya-sortirovka-puzyrkom/)
 - [Сортировки в гифках: 8 самых популярных алгоритмов](https://proglib.io/p/sort-gif)
 
 ![sort](https://user-images.githubusercontent.com/29703461/40580205-cc8a3554-6142-11e8-9776-e3e20817fd5b.gif)
