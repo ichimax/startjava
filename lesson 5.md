@@ -72,4 +72,4 @@
 - Найдите в справке к psql ключ, который позволит запустить данные файлы из консоли. Запустите их
 - Пришлите наставнику скриншоты консоли с запущенным файлом `queries.sql`
 - Если при запуске sql-файла возникает ошибка `Permission denied`, выполните [эти](https://dba.stackexchange.com/questions/29767/permission-denied-in-file-trying-to-import) рекомендации
-- Если при работе с psql слетает кодировка, то перед запуском psql введите в консоли (win) chcp 1251
+- Если при работе с psql некорректно отображается кодировка, выполните [эти](https://iu5bmstu.ru/index.php?title=PostgreSQL_-_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0_%D0%B2_psql_%D0%BF%D0%BE%D0%B4_Windows) настройки
