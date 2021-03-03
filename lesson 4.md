@@ -70,13 +70,13 @@
 
 - Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми домашними заданиями из прошлых уроков:
 
-![newproject](https://user-images.githubusercontent.com/29703461/38273513-d1f7ce52-3794-11e8-829c-305212c25be7.png)
+![newproject](https://user-images.githubusercontent.com/29703461/109776236-6c695f80-7c13-11eb-9d4c-0848737e31b4.png)
 
-![next](https://user-images.githubusercontent.com/29703461/38273546-e712a6fe-3794-11e8-9850-29287b46a8a0.png)
+![next](https://user-images.githubusercontent.com/29703461/109776402-928eff80-7c13-11eb-88eb-f2fe9d3276a5.png)
 
-![next1](https://user-images.githubusercontent.com/29703461/38273584-00e07dc2-3795-11e8-9006-3109f949cf33.png)
+![next1](https://user-images.githubusercontent.com/29703461/109777118-67f17680-7c14-11eb-98e3-83cbf372a6cb.png)
 
-![finish](https://user-images.githubusercontent.com/29703461/40539525-af9210c8-601d-11e8-8779-3da4e87e8d99.png)
+![finish](https://user-images.githubusercontent.com/29703461/109777723-139ac680-7c15-11eb-9b4a-8dfcf2e9daa4.png)
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
 - Модифицируйте программу `Калькулятор`, используя для хранения значений математического выражения массивы:
