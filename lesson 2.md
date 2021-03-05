@@ -74,10 +74,9 @@
 - [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://www.youtube.com/watch?v=nyFQvgrkoXY) (youtube)
 - [Описание инкапсуляции](https://github.com/ichimax/Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#Что-такое-инкапсуляция)
-- [Инкапсуляция в Java](https://vertex-academy.com/tutorials/ru/inkapsulyaciya-java/)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
+- [Инкапсуляция: геттеры и сеттеры](https://youtu.be/9Uo8SYk7lbk)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
-- [Геттеры и Сеттеры](https://vertex-academy.com/tutorials/ru/gettery-i-settery/)
 - [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
 
 ## 5. <a name="5"> Ответы на вопросы</a>
@@ -102,10 +101,10 @@
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните читать [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
 - Модифицируйте программу `Калькулятор`:
-  - реализуйте дополнительный класс `CalculatorTest`, перенеся в него метод main
+  - реализуйте дополнительный класс `CalculatorTest`, перенеся в него метод main 
   - класс `Calculator` будет отвечать за проверку знака и мат. вычисления
   - для выбора вычисления той или иной математической операции используйте проверку математического знака с помощью [`switch`](https://youtu.be/QJHcGWbzk3U)
-  - для ввода мат. выражения используйте клавиатуру (класс [`Scanner`](https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/))
+  - для ввода мат. выражения используйте клавиатуру (класс [`Scanner`](https://youtu.be/Y2iB_DwdyfM))
   -  формат ввода математического выражения:  
     `Введите первое число: 2`   
     `Введите знак математической операции: ^`  
