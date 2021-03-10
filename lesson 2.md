@@ -150,4 +150,4 @@
     - геттеры/сеттеры (по необходимости)    
  1. Так должна выглядеть структура ваших файлов и папок
  
- ![tree](https://user-images.githubusercontent.com/29703461/40511256-c839671e-5fa7-11e8-820d-6e5534c4ac7f.png)
+ ![tree](https://user-images.githubusercontent.com/29703461/110680308-7d086f80-81e9-11eb-83fe-aec7fa208e41.png)
