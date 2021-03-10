@@ -233,7 +233,7 @@ public class MyFirstApp {
 5. Ввод с клавиатуры и методы класса `Math` или `Random` пока не используйте
 6. Примерно так должна выглядеть структура ваших файлов и папок
 
-![tree](https://user-images.githubusercontent.com/29703461/110644497-33f2f400-81c6-11eb-9a9c-e80b7a8cad1a.png)
+![tree](https://user-images.githubusercontent.com/29703461/110649294-846c5080-81ca-11eb-86a9-7965a7fa9a06.png)
 
 ## Немного мотивации
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
