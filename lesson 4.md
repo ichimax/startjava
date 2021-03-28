@@ -98,7 +98,7 @@
 - Обязательно прорешайте и разберите задачки на массивы из раздела 3 (Задачки на массивы)
 - Примерно так должна выглядеть структура ваших файлов и папок
 
-  ![tree2](https://user-images.githubusercontent.com/29703461/112764506-8e3ae400-9011-11eb-8db9-a0d791942f6a.png)
+![tree2](https://user-images.githubusercontent.com/29703461/112764506-8e3ae400-9011-11eb-8db9-a0d791942f6a.png)
   
 ## <a name="7">7. Бонусные видео</a>
 - [Видео](https://drive.google.com/file/d/1W9AtOE3yvDCOOZxmHSw4lGpFiFVYJB8_/view?usp=sharing) с разбором того, как необходимо решить вступительное задание к курсу basejava
