@@ -13,7 +13,7 @@
 - [Домашнее задание](#5)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
-![package](https://user-images.githubusercontent.com/29703461/39955567-bd602a26-55d9-11e8-9577-f137376c4679.png)
+![package](https://user-images.githubusercontent.com/29703461/112764220-364fad80-9010-11eb-8ef1-44b5f4054b4d.png)
 
 **Материалы:**
 - [Пакеты в Java](https://ru.wikipedia.org/wiki/Package_(Java)) (wiki)
