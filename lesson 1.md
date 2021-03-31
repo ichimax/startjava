@@ -24,14 +24,14 @@
 - Откройте консоль и введите в ней `java -version`, а затем `javac -version`
 - Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
   - [занесите](https://youtu.be/EEqScHr_bec) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Напишите в консоли одну из следующих команд для вывода значения из переменной `PATH` и нажмите Enter: 
+- Напишите в консоли для вывода значения переменной `PATH` одну из следующих команд: 
   - `echo %PATH%` (для Windows)
   - `$PATH` (для Linux)
 - Убедитесь, что в отображаемом результате присутствует путь до указанных выше файлов
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
-- Скачайте и установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы. А с четвертого урока перейдем на IntelliJ IDEA
+- Скачайте и установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 - Выполните [настройку](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
 
 Использовать какую-либо из IDE до четвертого урока — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
@@ -56,7 +56,7 @@ public class MyFirstApp {
 и сохраните его в файле под названием `MyFirstApp.java`
 
 **Материалы:**
-- [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg) (видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор)
+- [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
 - [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
 - [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
 - ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
@@ -68,11 +68,10 @@ public class MyFirstApp {
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
 
-Для того, что бы русский текст корректно отображался в консоли, программы необходимо компилировать с помощью специального ключа:
+Для того, что бы русский текст корректно отображался в консоли, компилируйте свои программы с помощью ключа `-encoding utf8`:
 - `javac -encoding utf8 имя_класса.java`
 
 Если вы используете windows 10, то можно [настроить](https://drive.google.com/file/d/1LTDN9reLiQFdlgc8Nnx4itfMQ0hhxgkb/view?usp=sharing) ОС на поддержку Юникод. В этом случае ключ `-encoding utf8` уже не требуется.
-
 
 **Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
@@ -94,7 +93,7 @@ public class MyFirstApp {
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 6. <a name="6">[Переменные: примитивные типы данных](https://drive.google.com/file/d/1mrsKC-wU7NpxQiNt47rgfySsDGTwB8Wb/view?usp=sharing)</a>
 
 **Материалы:**
-- [Переменные в Java](https://youtu.be/Y__Ns7FS5lA?t=17)
+- [Переменные в Java](https://youtu.be/Y__Ns7FS5lA?t=17) (youtube)
 - [Примитивные типы данных](http://developer.alexanderklimov.ru/android/java/types.php)
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
@@ -110,7 +109,7 @@ public class MyFirstApp {
 - В качестве значений используйте информацию о своем компьютере: количество ядер, частота процессора и тд.
 - Выведите все значения переменных на консоль
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
-- **Покажите Д/З наставнику** (пришлите ему ссылку с решенным дз на ваш репозиторий на гитхабе)
+- **Покажите Д/З наставнику** (пришлите ему ссылку с решенным ДЗ на ваш репозиторий на github)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
@@ -122,10 +121,9 @@ public class MyFirstApp {
 
 **Домашнее задание:**
 - Создайте класс **ConditionalStatement** с методом **main**
-- Перепишите псевдокод, приведенный ниже, с помощью языка Java
-- Используйте переменные и условные операторы
+- Перепишите псевдокод, приведенный ниже, с помощью Java
+- Используйте переменные, условные операторы, оператор ! [(логическое НЕ)](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
 - Выводите сообщения на консоль
-- Попробуйте применить оператор ! [(логическое НЕ)](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
 - Не используйте String
 
 ``` java
@@ -179,9 +177,8 @@ public class MyFirstApp {
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
   - [Базовый курс по обучению Git](https://www.youtube.com/playlist?list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR) (youtube)
   - [Git. Быстрый старт](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P) (youtube)
+  - Интерактивные Git-обучалки: [1](https://githowto.com/ru), [2](http://learngitbranching.js.org)
   - [Официальная книга про Git](https://git-scm.com/book/ru/v2)
-  - [Git обучалка](https://githowto.com/ru)
-  - [Интерактивная Git обучалка (в настройках выберите русский язык)](http://learngitbranching.js.org)
   
 ### Настройка локального репозитория
 - Создайте в удобном для вас месте папку под названием `startjava`. В ней будет храниться ваш код
@@ -211,14 +208,16 @@ public class MyFirstApp {
   - [Программирование на Java для детей, родителей, бабушек и дедушек (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
   - [Яша учится программировать](https://drive.google.com/file/d/1ukTlzMrFX3Zj8X9TXp6U-mJUH1fOKUED/view?usp=sharing)
 - Реализуйте `Калькулятор`, который должен уметь выполнять математические операции (`+, -, *, /, ^, %`) над целыми положительными числами:
-  - для выбора вычисления той или иной математической операции используйте проверку математического знака с помощью `if else`
+  - что бы программа могла выполнить ту или иную математическу операцию (одну, а не все сразу), делайте проверку математического знака, используя `if else`
   - выведите на экран результат вычисления с помощью `System.out.println()`
-  - Символ `^` используется в данном задании для обозначения операции возведения в степень, но в Java он выполняет совсем иную функцию. Самостоятельно реализуйте операцию возведения в степень
+  - Символ `^` используется в данном задании для обозначения операции возведения в степень, но в Java он выполняет совсем иную функцию. Использовать его для возведения в степень не получится. Самостоятельно реализуйте данную операцию
   - Символ`%`, похожий на проценты, называется [оператором деления по модулю](https://welcome4u.ru/languages/java/ostatok-ot-deleniya-v-java#i-8). В калькуляторе не надо считать проценты! Считайте остаток от деления
 - Напишите игру `Угадай число`:
-  - компьютер "загадывает" целое число от (0 до 100], которое вам необходимо угадать
-  - после каждой неудачной попытки выводите подсказку: `System.out.println("Введенное вами число больше (меньше) того, что загадал компьютер")`
-  - если число угадано — `System.out.println("Вы угадали!")`
+  - компьютер "загадывает" целое число от (0 до 100], которое необходимо угадать
+  - после каждой неудачной попытки выводите подсказку:
+    - `"Данное число больше того, что загадал компьютер"` или
+    - `"Данное число меньше того, что загадал компьютер"`
+  - если число угадано — `"Поздравляю, число угадано!"`
   - меняйте значение переменной, хранящей числа игрока, автоматически по какому-то простому алгоритму (без применения ввода с клавиатуры или генерации рандомных чисел)
   - игра продолжается до тех пор, пока число не будет угадано
 - Выведите в цикле символы кодировки [Unicode](https://ru.wikipedia.org/wiki/Юникод) в диапазоне [9398, 10178]. Если выводятся кракозябры, то [33, 126]
