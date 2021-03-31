@@ -23,8 +23,8 @@
   - [Ветвление: if, if else](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-7-Ветвление-if-if-else)
   - [Циклы: for, while, do while](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-8-Циклы-for-while-do-while)
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
-  - [Настройка локального репозитория](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10-настройка-локального-репозитория)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-11-Домашнее-задание)
+  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-советы-по-выполнению-домашнего-задания)
   
 - **Занятие второе**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
