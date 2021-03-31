@@ -24,17 +24,17 @@
 - Откройте консоль и введите в ней `java -version`, а затем `javac -version`
 - Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
   - [занесите](https://youtu.be/EEqScHr_bec) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Выведите в консоли значение переменной `PATH`: 
-  - `echo %PATH%` (в win)
-  - `$PATH` (в Linux)
-- Убедитесь, что там присутствует путь до указанных выше файлов
+- Напишите в консоли одну из следующих команд для вывода значения из переменной `PATH` и нажмите Enter: 
+  - `echo %PATH%` (для Windows)
+  - `$PATH` (для Linux)
+- Убедитесь, что в отображаемом результате присутствует путь до указанных выше файлов
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://habr.com/post/223527/)
-- Установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы
-- Выполните [настройки](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
+- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
+- Скачайте и установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы. А с четвертого урока перейдем на IntelliJ IDEA
+- Выполните [настройку](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
 
-Использовать какую-либо из IDE — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
+Использовать какую-либо из IDE до четвертого урока — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
 
 **Материалы:**
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
@@ -56,8 +56,8 @@ public class MyFirstApp {
 и сохраните его в файле под названием `MyFirstApp.java`
 
 **Материалы:**
-- [Обзор и настройка Sublime Text](https://xakep.ru/2014/07/28/sublime-text-not-for-coding/)
-- [SublimeText - Terminal Access - Plugin](https://youtu.be/4hZvb8sr1cE?t=60) (youtube)
+- [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg) (видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор)
+- [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
 - [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
 - ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
