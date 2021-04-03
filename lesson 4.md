@@ -1,20 +1,20 @@
 # Занятие четвертое
 
-Пора уже смотреть в сторону следующего курса — BaseJava. [Зарегистрируйтесь](https://topjava.ru/basejava) на проекте и начинайте потихоньку пробовать выполнить вступительное дз
+Пора уже смотреть в сторону следующего курса — BaseJava. [Зарегистрируйтесь](https://topjava.ru/basejava) на проекте и начинайте потихоньку пробовать выполнить вступительное ДЗ
 
 ## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
 
 ## Темы четвертого занятия
-- [Среда разработки — IntelliJ IDEA](#1)
-- [Массивы. Цикл for each](#2)
+- [Среда разработки IntelliJ IDEA](#1)
+- [Массивы. Цикл foreach](#2)
 - [Задачки на массивы](#3)
 - [Сортировка массива методом пузырька](#4)
 - [Класс java.util.Arrays](#5)
 - [Домашнее задание](#6)
 - [Бонусные видео](#7)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки — IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
 
 **Материалы:**
@@ -24,7 +24,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/40548020-30a103fe-603c-11e8-9fa2-3d825c3d75e4.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [for each](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [foreach](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
 > Массив — это структура данных, состоящая из ячеек, расположенных друг за другом в памяти, которые могут хранить в себе элементы только одного, заранее заданного типа. Обращение к конкретной ячейке осуществляется с помощью индекса
 
 **Материалы:**
@@ -33,8 +33,8 @@
 - [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
-- [Цикл for each, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
-- [Цикл for each в Java](https://pr0java.blogspot.com/2015/04/for-foreach.html)
+- [Цикл foreach, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
+- [Цикл foreach в Java](https://pr0java.blogspot.com/2015/04/for-foreach.html)
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
