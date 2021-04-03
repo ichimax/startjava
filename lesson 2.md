@@ -38,7 +38,7 @@
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
 - [Тип данных String(строка) в Java](https://habr.com/post/260767)
-![class](https://user-images.githubusercontent.com/29703461/39529699-f6e7e736-4e2f-11e8-8c80-8686cfd56a2e.png)
+![class](https://user-images.githubusercontent.com/29703461/113477118-843d3900-9488-11eb-8409-728af529574d.png)
 
 **Домашнее задание:**
 - Создайте класс **Person** (без метода main)
