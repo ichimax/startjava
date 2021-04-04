@@ -33,6 +33,7 @@
   - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-3-Что-такое-объект)
   - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-4-Инкапсуляция-геттерысеттеры)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Домашнее-задание)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#7-советы-по-выполнению-домашнего-задания)
   
 - **Занятие третье**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
@@ -40,6 +41,7 @@
   - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-2-Компиляция-java-программ-Часть-ii)
   - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-3-gitignore)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#5-Домашнее-задание)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#6-советы-по-выполнению-домашнего-задания)
   
 - **Занятие четвертое**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#Разбор-домашнего-задания)
@@ -56,11 +58,12 @@
    - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-2-Реляционная-СУБД-postgresql-Терминал-psql)
    - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-3-Введение-в-sql)
    - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
+   - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%205.md#5-советы-по-выполнению-домашнего-задания)
 
 ## Рекомендуемые книги
  - [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
  - [Pro Git](https://git-scm.com/book/ru/v2)
- - [Объектно-ориентированное мышление. Мэтт Вайсфельд](https://www.ozon.ru/context/detail/id/26036833/)
+ - [Объектно-ориентированный подход. Мэтт Вайсфельд](https://www.ozon.ru/product/obektno-orientirovannyy-podhod-vaysfeld-mett-vaysfeld-mett-211432428)
  - [Java Programming for Kids (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
  - [Книга для детей: Яша учится программировать](https://drive.google.com/file/d/1ukTlzMrFX3Zj8X9TXp6U-mJUH1fOKUED/view?usp=sharing)
  
