@@ -26,14 +26,13 @@
 `psql -U postgres` — запуск psql в Windows 
 
 **Материалы:**
-- [PostgreSQL](https://ru.wikipedia.org/wiki/PostgreSQL) (wiki)
-- [Installation PostgreSQL || PgAdmin 4 for Windows](https://www.youtube.com/watch?v=e1MwsT5FJRQ)
-- [Установка и использование PostgreSQL в Ubuntu](https://www.8host.com/blog/ustanovka-i-ispolzovanie-postgresql-v-ubuntu-18-04/)
+- [Установка и настройка PostgreSQL в Windows](https://youtu.be/oEi5IUgxaU0) (youtube)
+- [Установка и настройка PostgreSQL в Ubuntu](https://youtu.be/Y6df2liHjlg) (youtube)
+- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/13/index)
+- [Документация к psql](https://postgrespro.ru/docs/postgresql/10/app-psql) 
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
-- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/10/index)
 - [Книги по PostgreSQL](https://postgrespro.ru/education/books)
-- [Интерактивный терминал PostgreSQL](https://postgrespro.ru/docs/postgresql/10/app-psql)
 - [Интерактивная обучалка по PostgreSQL](https://www.pgexercises.com/) [eng]
 
 ![postgresql-10](https://user-images.githubusercontent.com/29703461/40881654-c0325af6-66d4-11e8-9a40-b7de3fb24f7b.png)
