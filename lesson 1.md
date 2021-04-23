@@ -98,7 +98,7 @@ public class MyFirstApp {
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
-![var](https://user-images.githubusercontent.com/29703461/39386134-d0843ce6-4a7b-11e8-8a0f-94224b256386.png)
+![var](https://user-images.githubusercontent.com/29703461/115867241-7ead9000-a443-11eb-8365-4ba0f533f7ff.png)
 
 ## Все домашние задания показывайте ментору по одному, не копите их!
 - [Чек-лист](https://docs.google.com/document/d/1CcFKdXwgnL3h65izX1oY6PtUKQe9DV-I-YEQQ2RKu74/edit?usp=sharing) наиболее часто совершаемых ошибок при форматировании Java-кода. Ориентируйтесь на него при форматировании своих программ
