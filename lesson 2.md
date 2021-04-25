@@ -80,7 +80,7 @@
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 - [Инкапсуляция: геттеры и сеттеры](https://youtu.be/9Uo8SYk7lbk) (youtube)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
-- [Для чего нужны геттеры и сеттеры](https://javatalks.ru/topics/38059)
+- [Геттеры и сеттеры](https://javarush.ru/groups/posts/1928-getterih-i-setterih)
 
 ## 5. <a name="5"> Ответы на вопросы</a>
 > в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
