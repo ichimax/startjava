@@ -60,7 +60,7 @@ public class MyFirstApp {
 - [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
 - [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
 - [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
-- ["Hello World!" Application](https://docs.oracle.com/javase/tutorial/getStarted/application/index.html)
+- [Getting Started with Java](https://dev.java/learn/tutorial/your-first-java-app/getting-started-with-java.html)
 - [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
 - [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
 
