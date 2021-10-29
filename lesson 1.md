@@ -41,7 +41,7 @@
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
 - [Что такое JRE? Введение в среду выполнения Java](https://topjava.ru/blog/what-is-the-jre)
 - [Что такое JVM? Знакомство с виртуальной машиной Java](https://topjava.ru/blog/what-is-the-jvm)
-- Отчет о популярности Java-технологий в [2019](https://topjava.ru/blog/sostoyanie-java-v-2019-godu), в 2021 ([1](https://drive.google.com/file/d/1hoTlpu0Lxi0zaMZKuzDQnx287vxUlDdk/view?usp=sharing), [2](https://drive.google.com/file/d/1hLK5_qr1QoSLoPv785V3TXA1CFkkebV3/view?usp=sharing))
+- Отчет о популярности Java-технологий в [2019](https://topjava.ru/blog/sostoyanie-java-v-2019-godu), в 2021 ([1](https://drive.google.com/file/d/1hoTlpu0Lxi0zaMZKuzDQnx287vxUlDdk/view?usp=sharing), [2](https://drive.google.com/file/d/1hLK5_qr1QoSLoPv785V3TXA1CFkkebV3/view?usp=sharing), [3](https://www.jetbrains.com/lp/devecosystem-2021/java))
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
 
