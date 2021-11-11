@@ -79,6 +79,7 @@
 - [Описание инкапсуляции](https://github.com/ichimax/Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#Что-такое-инкапсуляция)
 - [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
 - [Инкапсуляция: геттеры и сеттеры](https://youtu.be/9Uo8SYk7lbk) (youtube)
+- [Геттеры и сеттеры в Java](https://topjava.ru/blog/gettery-i-settery-v-java)
 - [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
 - [Геттеры и сеттеры](https://javarush.ru/groups/posts/1928-getterih-i-setterih)
 
