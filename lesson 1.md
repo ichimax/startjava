@@ -30,7 +30,7 @@
 - Убедитесь, что в отображаемом результате присутствует путь до указанных выше файлов
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- [Настройте](https://youtu.be/4evR80g--9k) доступ к GitHub через ssh
+- Настройте доступ к GitHub через ssh ([1](https://youtu.be/4evR80g--9k), [2](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki))
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
 - Скачайте и установите [Sublime Text](https://www.sublimetext.com/3). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 - Выполните [настройку](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
