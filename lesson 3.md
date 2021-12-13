@@ -4,6 +4,7 @@
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (setters)](https://drive.google.com/file/d/1_ljcNYoajX_N48bYCRBAQOCR18telTUp/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (constructors)](https://drive.google.com/file/d/1j-7-cA_WmlCQC_-2MgAMuQTUpKKE4ylt/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1v1MaEFTnHSpYsy4pF0a1D6kiJqQaf2he/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1AFfvUiPiR87noEFrX8n7y9Tet57oHvEq/view?usp=sharing)
 
 ## Темы третьего занятия
 - [Механизм пакетов (package) в Java](#1)
