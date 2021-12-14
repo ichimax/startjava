@@ -40,6 +40,12 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
+Все задачи решать не нужно. Решите то количество, которое позволит вам разобраться в следующих вопросах о массиве:
+- как его создать
+- как обращаться к его ячейкам по индексу
+- как в него помещать значения, и брать их из него
+- как работать с ним в цикле
+
 **Материалы:**
  - [Задачи на массивы в Java](http://taskcode.ru/array)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
