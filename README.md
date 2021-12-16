@@ -24,7 +24,8 @@
   - [Циклы: for, while, do while](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-8-Циклы-for-while-do-while)
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
-  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11-советы-по-выполнению-домашнего-задания)
+  - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12)
   
 - **Занятие второе**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
@@ -33,7 +34,8 @@
   - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-3-Что-такое-объект)
   - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-4-Инкапсуляция-геттерысеттеры)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Домашнее-задание)
-  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#7-советы-по-выполнению-домашнего-задания)
+  - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%202.md#7)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8)
   
 - **Занятие третье**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
@@ -41,7 +43,8 @@
   - [Компиляция Java-программ. Часть II](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-2-Компиляция-java-программ-Часть-ii)
   - [.gitignore](https://github.com/ichimax/startjava/blob/master/lesson%203.md#-3-gitignore)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%203.md#5-Домашнее-задание)
-  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#6-советы-по-выполнению-домашнего-задания)
+  - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%203.md#6)
+  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#7)
   
 - **Занятие четвертое**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#Разбор-домашнего-задания)
