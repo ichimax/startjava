@@ -1,6 +1,8 @@
 # Занятие четвертое
 
-Пора уже смотреть в сторону следующего курса — BaseJava. [Зарегистрируйтесь](https://topjava.ru/basejava) на проекте и начинайте потихоньку пробовать выполнить вступительное ДЗ
+Пора уже смотреть в сторону следующего курса — BaseJava. [Зарегистрируйтесь](https://topjava.ru/basejava) на проекте и начинайте потихоньку пробовать выполнить вступительное ДЗ.
+
+Также вы можете выполнить [выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing). Делайте его по желанию. Это не обязательная опция.
 
 ## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
