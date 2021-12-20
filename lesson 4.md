@@ -32,7 +32,7 @@
 **Материалы:**
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
-- [Массивы в Java](http://www.skipy.ru/technics/arrays.html)
+- Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
 - [Цикл foreach, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
