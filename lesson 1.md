@@ -62,10 +62,7 @@ public class MyFirstApp {
 **Материалы:**
 - [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
 - [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
-- [Первая программа на Java – Hello World](http://pr0java.blogspot.com/2015/03/java-hello-world.html)
-- [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
-- [Java "Hello World" Program](https://www.journaldev.com/481/java-hello-world-program)
-- [Java main method](https://www.journaldev.com/12552/public-static-void-main-string-args-java-main-method)
+- [Java с нуля: первая программа](https://topjava.ru/blog/pervaya-programma-na-java)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
@@ -80,6 +77,7 @@ public class MyFirstApp {
 **Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
+- [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 - [Сответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
 
