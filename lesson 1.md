@@ -18,17 +18,8 @@
 1. [Советы по выполнению домашнего задания](#12)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
-- Установите Java SE Development Kit 8:
-  - для пользователей [Windows](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  - для пользователей [Ubuntu Linux](http://help.ubuntu.ru/wiki/java)
-  - альтернативная сборка [JDK 8](https://libericajdk.ru/pages/java-8u275/) для всех платформ (не требует регистрации; при установке автоматически прописыват в `PATH` путь до папки с java)
-- Откройте консоль и введите в ней `java -version`, а затем `javac -version`
-- Если при этом возникнет ошибка `"java/javac" не является внутренней или внешней командой, исполняемой программой или пакетным файлом`, то
-  - [занесите](https://youtu.be/EEqScHr_bec) в переменную окружения `PATH` полный путь до папки, где хранятся файлы `java` и `javac`. Перезапустите консоль
-- Напишите в консоли для вывода значения переменной `PATH` одну из следующих команд: 
-  - `echo %PATH%` (для Windows)
-  - `$PATH` (для Linux)
-- Убедитесь, что в отображаемом результате присутствует путь до указанных выше файлов
+
+- [Установка и настройка Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Настройте доступ к GitHub через ssh ([1](https://youtu.be/4evR80g--9k), [2](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki))
@@ -37,8 +28,6 @@
 - Выполните [настройку](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
 
 **[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно.**
-
-Использовать какую-либо из IDE до четвертого урока — запрещено! Консоль, Sublime Text и "голый" Git — ваши лучшие друзья!
 
 **Материалы:**
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
