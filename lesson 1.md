@@ -25,7 +25,6 @@
 - Настройте доступ к GitHub через ssh ([1](https://youtu.be/4evR80g--9k), [2](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki))
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
 - Скачайте и установите [Sublime Text 4](https://www.sublimetext.com/download). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
-- Выполните [настройку](https://docs.google.com/document/d/1Ebi46kxKng45PLBH2dXpCnXXCHRI18rwXuDrXskWaa0/edit?usp=sharing) Sublime Text
 
 **[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно.**
 
@@ -52,6 +51,7 @@ public class MyFirstApp {
 - [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
 - [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
 - [Java с нуля: первая программа](https://topjava.ru/blog/pervaya-programma-na-java)
+- [Настройка Sublime Text для Java](https://docs.google.com/document/d/1_IMc92RKJe8xYXkq9aRCRU8mxkKRih6Iu-HBdowKHf4/edit?usp=sharing)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
