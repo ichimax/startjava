@@ -51,7 +51,7 @@ public class MyFirstApp {
 - [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
 - [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
 - [Java с нуля: первая программа](https://topjava.ru/blog/pervaya-programma-na-java)
-- [Настройка Sublime Text для Java](https://docs.google.com/document/d/1_IMc92RKJe8xYXkq9aRCRU8mxkKRih6Iu-HBdowKHf4/edit?usp=sharing)
+- [Настройка Sublime Text для Java](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
