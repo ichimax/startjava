@@ -61,8 +61,6 @@ public class MyFirstApp {
 Для того, что бы русский текст корректно отображался в консоли, компилируйте свои программы с помощью ключа `-encoding utf8`:
 - `javac -encoding utf8 имя_класса.java`
 
-Если вы используете windows 10, то можно [настроить](https://drive.google.com/file/d/1LTDN9reLiQFdlgc8Nnx4itfMQ0hhxgkb/view?usp=sharing) ОС на поддержку Юникод. В этом случае ключ `-encoding utf8` уже не требуется.
-
 **Материалы:**
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
