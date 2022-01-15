@@ -62,6 +62,7 @@ public class MyFirstApp {
 - `javac -encoding utf8 имя_класса.java`
 
 **Материалы:**
+- [Компиляция и запуск Java-программ](https://docs.google.com/document/d/17_FrDGXlfA-LF8Mp9aRIs_K2V94ZTunBFBrTSect3zI/edit?usp=sharing)
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
@@ -77,7 +78,7 @@ public class MyFirstApp {
 
 **Материалы:**
 - [Java байт-код «Hello world»](https://habr.com/post/264919/)
-- [javap — Disassembles one or more class files](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javap.html)
+- [javap — Disassembles one or more class files](https://docs.oracle.com/en/java/javase/17/docs/specs/man/javap.html)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 6. <a name="6">[Переменные: примитивные типы данных](https://drive.google.com/file/d/1mrsKC-wU7NpxQiNt47rgfySsDGTwB8Wb/view?usp=sharing)</a>
 
