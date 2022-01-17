@@ -90,16 +90,10 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/115867241-7ead9000-a443-11eb-8365-4ba0f533f7ff.png)
 
-## Все домашние задания показывайте ментору по одному, не копите их!
-- [Чек-лист](https://docs.google.com/document/d/1CcFKdXwgnL3h65izX1oY6PtUKQe9DV-I-YEQQ2RKu74/edit?usp=sharing) наиболее часто совершаемых ошибок при форматировании Java-кода. Ориентируйтесь на него при форматировании своих программ
-
-**Домашнее задание:**
-- Создайте класс **Variable** с методом **main**
-- Объявите в методе переменные всех существующих в Java примитивных типов данных. Каждой переменной присвойте значение 
-- В качестве значений используйте информацию о своем компьютере: количество ядер, частота процессора и тд.
-- Выведите все значения переменных на консоль
+**[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
 - **Покажите Д/З наставнику** (пришлите ему ссылку с решенным ДЗ на ваш репозиторий на github)
+- [Чек-лист](https://docs.google.com/document/d/1CcFKdXwgnL3h65izX1oY6PtUKQe9DV-I-YEQQ2RKu74/edit?usp=sharing) наиболее часто совершаемых ошибок при форматировании Java-кода. Ориентируйтесь на него при форматировании своих программ
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
