@@ -62,7 +62,7 @@ public class MyFirstApp {
 - `javac -encoding utf8 имя_класса.java`
 
 **Материалы:**
-- [Компиляция и запуск Java-программ](https://docs.google.com/document/d/17_FrDGXlfA-LF8Mp9aRIs_K2V94ZTunBFBrTSect3zI/edit?usp=sharing)
+- [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java)
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 - [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
