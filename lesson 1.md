@@ -103,40 +103,7 @@ public class MyFirstApp {
 - [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
-**Домашнее задание:**
-- Создайте класс **ConditionalStatement** с методом **main**
-- Перепишите псевдокод, приведенный ниже, с помощью Java
-- Используйте переменные, условные операторы, оператор ! [(логическое НЕ)](http://developer.alexanderklimov.ru/android/java/logic_operators.php)
-- Выводите сообщения на консоль
-- Не используйте переменные типа String
-
-``` java
-ЕСЛИ(возраст > 20) {
-    сообщение
-}
-
-ЕСЛИ(мужскойПол) {
-    сообщение
-}
-
-ЕСЛИ(!мужскойПол) {
-    сообщение
-}
-
-ЕСЛИ(рост < 1.80) {
-    сообщение
-} ИНАЧЕ {
-    сообщение
-}
-
-ЕСЛИ(перваяБукваИмени == ‘M’) {
-    сообщение
-} ИНАЧЕ ЕСЛИ(перваяБукваИмени == ‘I’) {
-    сообщение
-} ИНАЧЕ {
-    сообщение
-} 
-```
+**[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1JEtZRcttXTMKFFjXYfuoa-K7MCnvIbf10O6cl4jCGH8/edit?usp=sharing)**
 - **Покажите Д/З наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
