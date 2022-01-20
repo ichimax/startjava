@@ -1,6 +1,5 @@
 > ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок: кликайте на нее для его просмотра
 
-
 # ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
 
 ## Темы занятия
@@ -19,7 +18,7 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 
-- [Установка и настройка Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
+- [Установите и настройте Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
 - Настройте доступ к GitHub через ssh ([1](https://youtu.be/4evR80g--9k), [2](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki))
@@ -36,37 +35,35 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Первая программа](https://drive.google.com/file/d/1anXQBZ80wvfzozUNlfhy1wtS-eS50cZi/view?usp=sharing)</a>
 
-Перепишите данный код в Sublime Text:
+- Изучите статью [Java с нуля: первая программа](https://topjava.ru/blog/pervaya-programma-na-java). В ней показано создание простой программы MyFirstApp с main-методом, а также дается подробный разбор каждой строки кода:
 
 ``` java
 public class MyFirstApp {	
     public static void main(String[] args) {
-        System.out.println("Hello, world");
+        System.out.println("Write once, run anywhere");
     }
 }
 ```
-и сохраните его в файле под названием `MyFirstApp.java`
+
+- [Настройте](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java) Sublime Text для Java
 
 **Материалы:**
-- [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg)  — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
-- [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube)
-- [Java с нуля: первая программа](https://topjava.ru/blog/pervaya-programma-na-java)
-- [Настройка Sublime Text для Java](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java)
+- [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg) — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
+- [Установка плагина Terminal для SublimeText](https://youtu.be/9cFW481D2lU) (youtube) — можно использовать либо этот плагин, либо `Terminus`
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Ручная компиляция и запуск программы](https://drive.google.com/file/d/1u0jyGJkFFLUwfj0c21uY2i2louNtIm_3/view?usp=sharing)</a>
 Для компиляции и запуска программы необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.java`, и ввести последовательно следующие команды:
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
 
-Для того, что бы русский текст корректно отображался в консоли, компилируйте свои программы с помощью ключа `-encoding utf8`:
-- `javac -encoding utf8 имя_класса.java`
+Для того, чтобы русский текст корректно отображался в консоли, компилируйте свои программы с помощью специального параметра `javac -encoding utf8 имя_класса.java`
+
+Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java)
 
 **Материалы:**
-- [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java)
+- [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
-- [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
-- [Работа с Java в командной строке](https://habr.com/post/125210/)
 - [Сответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
@@ -90,21 +87,22 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/115867241-7ead9000-a443-11eb-8365-4ba0f533f7ff.png)
 
-**[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
+- **[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
-- **Покажите Д/З наставнику** (пришлите ему ссылку с решенным ДЗ на ваш репозиторий на github)
+- **Покажите ДЗ наставнику** (пришлите ему ссылку с решенными ДЗ на ваш репозиторий)
 - [Чек-лист](https://docs.google.com/document/d/1CcFKdXwgnL3h65izX1oY6PtUKQe9DV-I-YEQQ2RKu74/edit?usp=sharing) наиболее часто совершаемых ошибок при форматировании Java-кода. Ориентируйтесь на него при форматировании своих программ
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
-![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
 **Материалы:**
 - [Ветвление в Java](https://javarush.ru/groups/posts/2726-vetvlenie-v-java)
 - [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
 - [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
 
-**[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1JEtZRcttXTMKFFjXYfuoa-K7MCnvIbf10O6cl4jCGH8/edit?usp=sharing)**
-- **Покажите Д/З наставнику**
+![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
+
+- **[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1JEtZRcttXTMKFFjXYfuoa-K7MCnvIbf10O6cl4jCGH8/edit?usp=sharing)**
+- **Покажите ДЗ наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
@@ -119,7 +117,7 @@ public class MyFirstApp {
 - Выведите на консоль с помощью цикла for все числа от [0, 20]
 - Выведите на консоль с помощью цикла while все числа от [6, -6] (с шагом итерации 2)
 - Подсчитайте с помощью цикла do-while сумму нечетных чисел от [10, 20]. Выведите ее на консоль
-- **Покажите Д/З наставнику**
+- **Покажите ДЗ наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
