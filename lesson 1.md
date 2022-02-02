@@ -64,7 +64,7 @@ public class MyFirstApp {
 - [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
 - [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
-- [Сответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
+- [Соответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/108978900-25bbb880-769b-11eb-91e9-528b66eda9c2.jpg)
