@@ -58,13 +58,13 @@ public class MyFirstApp {
 
 Для того, чтобы русский текст корректно отображался в консоли, компилируйте свои программы с помощью специального параметра `javac -encoding utf8 имя_класса.java`
 
-Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java)
+Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java).
+
+А из статьи ["Основы командной строки для Java-программиста"](https://docs.google.com/document/d/1YxToJSKXz-NGc5UrZ4rmO7ysAoJtmTMJcLVA-s4-eLk/edit?usp=sharing) вы узнаете о самых нужных и часто используемых командах консоли для работы с файловой системой 
 
 **Материалы:**
 - [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
-- [Работа с командной строкой Windows](https://www.youtube.com/watch?v=8_tkUJhuogA) (youtube)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
-- [Соответствие консольных команд Windows и Linux](https://white55.ru/cmd-sh.html)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/108978900-25bbb880-769b-11eb-91e9-528b66eda9c2.jpg)
