@@ -60,7 +60,7 @@ public class MyFirstApp {
 
 Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java).
 
-А из статьи ["Основы командной строки для Java-программиста"](https://docs.google.com/document/d/1YxToJSKXz-NGc5UrZ4rmO7ysAoJtmTMJcLVA-s4-eLk/edit?usp=sharing) вы узнаете о самых нужных и часто используемых командах консоли для работы с файловой системой 
+А из статьи ["Основы командной строки для Java-программиста"](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista) вы узнаете о самых нужных и часто используемых командах консоли для работы с файловой системой 
 
 **Материалы:**
 - [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
