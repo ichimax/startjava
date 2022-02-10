@@ -21,7 +21,7 @@
 - [Установите и настройте Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
 - Установите систему контроля версий [Git](http://git-scm.com/downloads)
 - Создайте аккаунт на [GitHub](https://github.com/)
-- Настройте доступ к GitHub через ssh ([1](https://youtu.be/4evR80g--9k), [2](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki))
+- Настройте доступ к GitHub через [ssh](https://youtu.be/4evR80g--9k) или [https](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki)
 - Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
 - Скачайте и установите [Sublime Text 4](https://www.sublimetext.com/download). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 
