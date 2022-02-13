@@ -19,10 +19,7 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 
 - [Установите и настройте Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
-- Установите систему контроля версий [Git](http://git-scm.com/downloads)
-- Создайте аккаунт на [GitHub](https://github.com/)
-- Настройте доступ к GitHub через [ssh](https://youtu.be/4evR80g--9k) или [https](https://unetway.com/blog/sozdanie-tokena-personalnogo-dostupa-dla-komandnoj-stroki)
-- Для удобной навигации по файлам на GitHub установите расширение для браузера — [Octotree](https://www.octotree.io/download)
+- [Установите и настройте Git/GitHub](https://docs.google.com/document/d/1DlLWzZX0lB-htKacHWqV_5XK2jeiyCoFhjRdB186Mgg/edit)
 - Скачайте и установите [Sublime Text 4](https://www.sublimetext.com/download). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 
 **[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно.**
