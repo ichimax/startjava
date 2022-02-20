@@ -117,7 +117,7 @@ public class MyFirstApp {
 - **Покажите ДЗ наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
-![image](https://cloud.githubusercontent.com/assets/18701152/15219746/9295a2fe-186d-11e6-876b-c61cc9be71e4.png)
+![image](https://user-images.githubusercontent.com/29703461/154850409-7a618576-1105-48a1-9e32-88a34e87693b.png)
 
 **Материалы:**
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
