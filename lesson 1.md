@@ -110,10 +110,7 @@ public class MyFirstApp {
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
 **Домашнее задание:**
-- Создайте класс **Cycle** с методом **main**
-- Выведите на консоль с помощью цикла for все числа от [0, 20]
-- Выведите на консоль с помощью цикла while все числа от [6, -6] (с шагом итерации 2)
-- Подсчитайте с помощью цикла do-while сумму нечетных чисел от [10, 20]. Выведите ее на консоль
+- **[Домашние задания по теме "Циклы: for, while, do while"](https://docs.google.com/document/d/1lHSSOzARTx6tfD-4MV-t41S5bnvdNw5hczkQPT05png/edit?usp=sharing)**
 - **Покажите ДЗ наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
