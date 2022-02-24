@@ -98,7 +98,7 @@ public class MyFirstApp {
 
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
-- **[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1JEtZRcttXTMKFFjXYfuoa-K7MCnvIbf10O6cl4jCGH8/edit?usp=sharing)**
+- **[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1LZLCupFXrCmTuaT4KCUW9nKjrzaFDCCH7i5PDpWSLjI/edit?usp=sharing)**
 - **Покажите ДЗ наставнику**
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
