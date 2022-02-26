@@ -82,7 +82,7 @@ public class MyFirstApp {
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
 
-![var](https://user-images.githubusercontent.com/29703461/115867241-7ead9000-a443-11eb-8365-4ba0f533f7ff.png)
+![var](https://user-images.githubusercontent.com/29703461/155842985-5fae137b-3967-4fe6-893c-0d2a018815a5.png)
 
 - **[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
 - [Изучите статью](https://topjava.ru/blog/pravila-formatirovaniya-koda-v-java) про форматирование кода в Java. Ориентируйтесь на разбираемые в ней правила при написании своих программ
