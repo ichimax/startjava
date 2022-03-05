@@ -19,7 +19,6 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 
 - [Установите и настройте Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
-- [Установите и настройте Git/GitHub](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
 - Скачайте и установите [Sublime Text 4](https://www.sublimetext.com/download). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 
 **[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно.**
@@ -115,6 +114,8 @@ public class MyFirstApp {
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://user-images.githubusercontent.com/29703461/154850409-7a618576-1105-48a1-9e32-88a34e87693b.png)
+
+- [Установите и настройте Git/GitHub](https://topjava.ru/blog/vvedeniye-v-git-github-ustanovka-i-nastroyka)
 
 **Материалы:**
   - [Система управления версиями](https://ru.wikipedia.org/wiki/Система_управления_версиями) (wiki)
