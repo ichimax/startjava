@@ -125,7 +125,7 @@ public class MyFirstApp {
   - [Официальная книга про Git](https://git-scm.com/book/ru/v2)
   
 ### Настройка локального репозитория
-Более подробно об этом рассказывается в статье [Введение в Git/GitHub: базовые команды](https://docs.google.com/document/d/1H393OYZ700Vm7e8ZBKu0IoQ72PbApaQl7J2YzenmWaQ/edit?usp=sharing).
+Более подробно об этом рассказывается в статье [Введение в Git/GitHub: базовые команды](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy).
 
 - Создайте в удобном для вас месте папку под названием `StartJava`. В ней будет храниться ваш код
 - Создайте на GitHub репозиторий с названием `startjava`
