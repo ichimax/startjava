@@ -76,15 +76,9 @@
 
 ## <a name="6">6. Домашнее задание</a>
 
-- Создайте в IntelliJ IDEA новый проект, выбрав папку `startjava` со всеми домашними заданиями из прошлых уроков:
+- Откройте в IntelliJ IDEA папку `StartJava` со всеми домашними заданиями из прошлых уроков:
 
-![newproject](https://user-images.githubusercontent.com/29703461/109776236-6c695f80-7c13-11eb-9d4c-0848737e31b4.png)
-
-![next](https://user-images.githubusercontent.com/29703461/109776402-928eff80-7c13-11eb-88eb-f2fe9d3276a5.png)
-
-![next1](https://user-images.githubusercontent.com/29703461/109777118-67f17680-7c14-11eb-98e3-83cbf372a6cb.png)
-
-![finish](https://user-images.githubusercontent.com/29703461/109777723-139ac680-7c15-11eb-9b4a-8dfcf2e9daa4.png)
+![newproject](https://user-images.githubusercontent.com/29703461/165948841-f2ac0131-dd32-4a00-bdff-bf49ce91d476.png)
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
 - [Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)
