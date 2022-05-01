@@ -157,4 +157,4 @@
  1. Не забывайте указывать для полей и методов модификаторы доступа
  1. Так должна выглядеть структура ваших файлов и папок
  
- ![tree](https://user-images.githubusercontent.com/29703461/166162749-e0b6c152-8e8b-4b78-8a94-f3662d126b8f.png)
+ ![tree](https://user-images.githubusercontent.com/29703461/166162798-5a9042e6-9c75-4396-b5b3-52d2d2b0e42b.png)
