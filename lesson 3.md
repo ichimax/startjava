@@ -16,7 +16,7 @@
 1. [Советы по выполнению домашнего задания](#7)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
-![package](https://user-images.githubusercontent.com/29703461/112764220-364fad80-9010-11eb-8ef1-44b5f4054b4d.png)
+![package](https://user-images.githubusercontent.com/29703461/166163450-3366ac0b-274d-416e-b4af-e31f805e8cd9.png)
 
 **Материалы:**
 - [Пакеты в Java](https://ru.wikipedia.org/wiki/Package_(Java)) (wiki)
@@ -82,4 +82,4 @@
 - `-sourcepath имя_директории` — данный ключ позволяет упростить компиляцию программы, состоящей из нескольких файлов
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
 
-  ![tree2](https://user-images.githubusercontent.com/29703461/112763927-21264f00-900f-11eb-91b0-63e6bc0c558e.png)
+  ![tree2](https://user-images.githubusercontent.com/29703461/166163390-4cc031ba-f946-47a8-b83e-861d1409f812.png)
