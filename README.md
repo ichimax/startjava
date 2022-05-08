@@ -26,7 +26,7 @@
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
   - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
   - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11)
-  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12)
+  - [Общие рекомендации по выполнению ДЗ](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12)
   
 - **Занятие второе**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#Разбор-домашнего-задания)
