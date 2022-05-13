@@ -42,17 +42,19 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
-Все задачи решать не нужно. Решите то количество, которое позволит вам разобраться в следующих вопросах о массиве:
-- как его создать
-- как обращаться к его ячейкам по индексу
-- как в него помещать значения, и брать их из него
-- как работать с ним в цикле
+- **[Домашние задания по теме "Массивы. Цикл foreach"](https://docs.google.com/document/d/1pDPnaFHxf5QDrO7_lCjncmyGuAfjV6bhmhhn-eh7fMg/edit?usp=sharing)**
 
 **Материалы:**
  - [Задачи на массивы в Java](http://taskcode.ru/array)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
  - Array [1](http://codingbat.com/java/Array-1), [2](http://codingbat.com/java/Array-2), [3](http://codingbat.com/java/Array-3)
 
+Ссылки на задачи в этом разделе даются для самостоятельного изучения. Ментором они не проверяются. При этом все задачи решать не нужно. Решите то количество, которое позволит вам разобраться в следующих вопросах о массиве:
+- как его создать
+- как обращаться к его ячейкам по индексу
+- как в него помещать значения, и брать их из него
+- как работать с ним в цикле (заполнять, выводить на консоль, делать проверки)
+ 
 ## <a name="4">4. Сортировка массива методом пузырька</a>
 
 **Материалы:**
