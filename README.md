@@ -24,7 +24,7 @@
   - [Ветвление: if, if else](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-7-Ветвление-if-if-else)
   - [Циклы: for, while, do while](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-8-Циклы-for-while-do-while)
   - [Система управления версиями Git](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-9-Система-управления-версиями-git)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%201.md#-10-домашнее-задание)
+  - [Итоговые домашние задания](https://github.com/ichimax/startjava/blob/master/lesson%201.md#10)
   - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11)
   - [Общие рекомендации по выполнению ДЗ](https://github.com/ichimax/startjava/blob/master/lesson%201.md#12)
   
@@ -34,9 +34,8 @@
   - [Что такое класс](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-2-Что-такое-класс)
   - [Что такое объект](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-3-Что-такое-объект)
   - [Инкапсуляция: геттеры/сеттеры](https://github.com/ichimax/startjava/blob/master/lesson%202.md#-4-Инкапсуляция-геттерысеттеры)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6-Домашнее-задание)
+  - [Итоговые домашние задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#6)
   - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%202.md#7)
-  - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%202.md#8)
   
 - **Занятие третье**
   - [Разбор домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%203.md#Разбор-домашнего-задания)
@@ -54,7 +53,7 @@
   - [Задачки на массивы](https://github.com/ichimax/startjava/blob/master/lesson%204.md#-3-Задачки-на-массивы)
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4-Сортировка-массива-методом-пузырька)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5-Класс-javautilarrays)
-  - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6-Домашнее-задание)
+  - [Итоговые домашние задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6)
   - [Выпускной проект](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7)
   - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%204.md#8)
   - [Бонусные видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#9)
