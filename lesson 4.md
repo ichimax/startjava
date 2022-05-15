@@ -11,7 +11,7 @@
 1. [Задачки на массивы](#3)
 1. [Сортировка массива методом пузырька](#4)
 1. [Класс java.util.Arrays](#5)
-1. [Домашнее задание](#6)
+1. [Итоговые домашние задания](#6)
 1. [Выпускной проект](#7)
 3. [Опросники](#8)
 4. [Бонусные видео](#9)
@@ -76,14 +76,14 @@
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
 - [Бинарное дерево поиска](https://youtu.be/HBMlhZAOhoI) (youtube)
 
-## <a name="6">6. Домашнее задание</a>
+## <a name="6">6. Итоговые домашние задания</a>
 
 - Откройте в IntelliJ IDEA папку `StartJava` со всеми домашними заданиями из прошлых уроков:
 
 ![newproject](https://user-images.githubusercontent.com/29703461/165948841-f2ac0131-dd32-4a00-bdff-bf49ce91d476.png)
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
-- [Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)
+- **[Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
  
 ![tree2](https://user-images.githubusercontent.com/29703461/165343165-d7a44a25-db47-4403-8cb3-ec638a7ad234.png)
