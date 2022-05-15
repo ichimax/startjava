@@ -12,7 +12,7 @@
 1. [Ветвление: if, if else](#7)
 1. [Циклы: for, while, do while](#8)
 1. [Система управления версиями Git](#9)
-1. [Домашнее задание](#10)
+1. [Итоговые домашние задания](#10)
 1. [Опросники](#11)
 1. [Общие рекомендации по выполнению ДЗ](#12)
 
@@ -145,13 +145,16 @@ public class MyFirstApp {
    - `git add "Lesson 1"`
    - `git reset "Lesson 1/имя файла, который необходимо проигнорировать"`
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Домашнее задание](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Итоговые домашние задания](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
 > Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы по выполнению домашнего задания`](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11), которые содержат ряд полезных подсказок и разъяснений
 - Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
 - [Программирование на Java для детей, родителей, бабушек и дедушек (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
-- [Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)
+- **[Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)**
+- Так должна выглядеть структура ваших папок и файлов
+
+![tree](https://user-images.githubusercontent.com/29703461/166162351-44d7f0fc-60ee-45b1-85f5-c1310216e783.png)
 
 ## 11. <a name="11">Опросники</a>
 - [Итоговый тест](https://forms.gle/YFc2pf6qZw6jdfXM7) позволит вам проверить, насколько хорошо вы осовили пройденные в уроке темы
@@ -163,9 +166,6 @@ public class MyFirstApp {
 1. Учитесь грамотно формулировать свой вопрос: "у меня не получается" может иметь тысячи причин. Пишите больше подробностей о том, что вы сделали, что конкретно не получилось, какие появляются ошибки. Присылайте в чат скрины с этими ошибками
 1. При выполнении ДЗ используйте только те темы, которые изучались в текущем уроке
 1. Ввод с клавиатуры, методы класса `Math` или `Random` пока не используйте (но, если вы знаете про них и хотите использовать — дерзайте)
-1. Так должна выглядеть структура ваших папок и файлов
-
-![tree](https://user-images.githubusercontent.com/29703461/166162351-44d7f0fc-60ee-45b1-85f5-c1310216e783.png)
 
 ## Немного мотивации
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
