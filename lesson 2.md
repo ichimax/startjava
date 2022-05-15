@@ -98,7 +98,7 @@
   - считайте эти значения из полей с помощью геттеров и отобразите в консоли
 - **Покажите Д/З наставнику**
 
-## 6. <a name="6">Итоговое домашнее задание</a>
+## 6. <a name="6">Итоговые домашние задания</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
 - Начните читать [Объектно-ориентированный подход. Мэтт Вайсфельд](https://www.ozon.ru/product/obektno-orientirovannyy-podhod-vaysfeld-mett-vaysfeld-mett-211432428)
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1VJxMqjhRilLIqguoGvb-4T9v1jGxWQwa_KgMWEG-fmE/edit?usp=sharing)**
