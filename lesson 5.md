@@ -75,4 +75,4 @@
 - Если при работе с psql некорректно отображается кодировка, выполните [эти](https://iu5bmstu.ru/index.php?title=PostgreSQL_-_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0_%D0%B2_psql_%D0%BF%D0%BE%D0%B4_Windows) настройки
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
 
-![tree2](https://user-images.githubusercontent.com/29703461/112764796-deff0c80-9012-11eb-980f-eb4869e12268.png)
+![tree2](https://user-images.githubusercontent.com/29703461/169653431-2077ee1a-1d57-4c60-95cf-47e5701febd4.png)
