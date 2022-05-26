@@ -83,6 +83,7 @@ public class MyFirstApp {
 - [Примитивные типы данных](http://developer.alexanderklimov.ru/android/java/types.php)
 - [Variables](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/variables.html)
 - [Primitive Data Types](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html)
+- [Про размеры типов данных](https://youtu.be/3BmznLJAgaA?t=782)
 
 ![var](https://user-images.githubusercontent.com/29703461/155842985-5fae137b-3967-4fe6-893c-0d2a018815a5.png)
 
