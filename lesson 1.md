@@ -17,6 +17,7 @@
 1. [Общие рекомендации по выполнению ДЗ](#12)
 
 # [Видеообзор курса StartJava](https://youtu.be/vM1ygW7pKTE)
+На данный момент обучение проводится в Slack в индивидуальном режиме
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 
