@@ -1,5 +1,7 @@
 > ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) — эта иконка означает, что рядом с ней находится ссылка, содержащая видеоурок: кликайте на нее для его просмотра
 
+# [Отзывы выпускников о курсе](https://vk.com/topic-18505771_38447031?post=297)
+
 # ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a>[Занятие первое](https://drive.google.com/file/d/1l2g_mGPw3XEJ9OyURaXosRVqmeDz4kId/view?usp=sharing)</a>
 
 ## Темы занятия
