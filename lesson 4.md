@@ -27,10 +27,11 @@
 ![idea](https://user-images.githubusercontent.com/29703461/165950777-7fbb404c-4cca-41c4-8c51-6a7700b5c838.png)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [foreach](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
-> Массив — это структура данных (контейнер, хранилище), состоящая из ячеек, расположенных друг за другом (последовательно) в памяти, которые могут хранить в себе значения только одного, заранее заданного типа. Каждая ячейка обладает адресом (порядковым номером, индексом), позволяющим получать к ней доступ
+> Массив — это структура данных фиксированного размера, являющаяся объектом и состоящая из ячеек, расположенных последовательно в памяти, которые могут хранить в себе значения только одного, заранее заданного типа. При этом каждая ячейка обладает адресом (порядковым номером, индексом), позволяющим получать к ней доступ.
 
 **Материалы:**
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
+- [Руководство по массивам в Java](https://docs.google.com/document/d/1JMOIA6j8Ddllru7c352FR5GDcrv7SPAgCmsp0SJvoTQ/edit?usp=sharing)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
 - Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
