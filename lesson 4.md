@@ -87,7 +87,7 @@
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
  
-![tree2](https://user-images.githubusercontent.com/29703461/165343165-d7a44a25-db47-4403-8cb3-ec638a7ad234.png)
+![tree4](https://user-images.githubusercontent.com/29703461/175240875-28611853-bf86-4c02-9f36-5ece65fcd6e3.png)
 
 ## 7. <a name="7">Выпускной проект</a>
 - Вы можете выполнить [выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing), который проверит наставник. Это не обязательная опция, делайте его по желанию
