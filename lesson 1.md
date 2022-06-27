@@ -47,7 +47,7 @@ public class MyFirstApp {
 ```
 
 - [Настройте](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java) Sublime Text для Java
-- [Настройте](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java#spell_check) проверку правописания для Sublime Text
+- [Настройте](https://topjava.ru/blog/nastroyka-sublime-text-dlya-java#7) проверку правописания для Sublime Text
 
 **Материалы:**
 - [Обзор и настройка Sublime Text](https://youtu.be/xWhTf_o86Lg) — видео дано для ознакомления с возможностями редактора. Это не значит, что вам нужно делать все то, что делает его автор (youtube)
