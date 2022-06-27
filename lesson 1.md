@@ -70,6 +70,7 @@ public class MyFirstApp {
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
 ![levels](https://user-images.githubusercontent.com/29703461/108978900-25bbb880-769b-11eb-91e9-528b66eda9c2.jpg)
+![Frame 303](https://user-images.githubusercontent.com/29703461/175957997-8c142981-65d5-4423-8b50-6ec43bc3dca1.png)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 5. <a name="5">[Байт-код](https://drive.google.com/file/d/19Tl7dEpPszjQfulzQBEwyn9sQL0DK3ji/view?usp=sharing)</a>
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
