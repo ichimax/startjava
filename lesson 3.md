@@ -13,7 +13,6 @@
 1. [Ответы на вопросы](#4)
 1. [Домашнее задание](#5)
 1. [Опросники](#6)
-1. [Советы по выполнению домашнего задания](#7)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
 ![package](https://user-images.githubusercontent.com/29703461/166163450-3366ac0b-274d-416e-b4af-e31f805e8cd9.png)
@@ -30,14 +29,14 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Компиляция Java-программ. Часть II](https://drive.google.com/file/d/13re6jwLbagQaIkmBPr3LNUc3hIEGUbiZ/view?usp=sharing)</a>
 **Материалы:**
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
-- [javac — Java programming language compiler](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/javac.html)
-- [java — Launches a Java application](https://docs.oracle.com/javase/8/docs/technotes/tools/windows/java.html)
+- [javac — документация по Java-компилятору](https://docs.oracle.com/en/java/javase/17/docs/specs/man/javac.html)
+- [java — документация по java-лаунчеру](https://docs.oracle.com/en/java/javase/17/docs/specs/man/java.html)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[.gitignore](https://drive.google.com/file/d/1cJVmgrIfLo4iNDhfNkrdkkSZUKszzApN/view?usp=sharing)</a>
 **Материалы:**
 - [Игнорирование файлов в git](https://youtu.be/fzmCx6FLLu0)
 - [Git — игнорирование файлов](https://www.youtube.com/watch?v=EjRQ8qccLCQ) (youtube)
-- [Официальная документация — gitignore](https://git-scm.com/docs/gitignore)
+- [Документация по gitignore](https://git-scm.com/docs/gitignore)
 - [Как создать файл .gitignore в Windows](https://ru.stackoverflow.com/questions/438367/Как-создать-файл-gitignore-в-windows/438370)
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
@@ -56,30 +55,11 @@
 [Удаление файлов из индекса git'а](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Удаление-файлов)
 
 ## 5. <a name="5">Домашнее задание</a>
-
-> Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы по выполнению домашнего задания`](#6), которые содержат ряд полезных подсказок и разъяснений
-- Наведите порядок в папках и файлах в соответствии со структурой, представленной на картинке ниже
-- Создайте в корне проекта (на одном уровне с папкой `src` и `out`) файл с именем `.gitignore`
-- Добавьте в `.gitignore` папку с class-файлами
-- Во всех классах пропишите названия пакетов
-- После всех изменений вам необходимо:
-  - добавить папку `src` в индекс git'а с помощью `add`
-  - удалить из индекса git'а папки, которые там были ранее — `git rm -r --cached "Lesson 1" "Lesson 2"`, т.к. структура файлов изменилась, и ее нужно перезаписать
-  - выполнить коммит
-  - сделать принудительный (force) пуш `git push -f`, который заменит текущую структуру файлов и папок на GitHub на новую
-- Скомпилируйте и запустите все свои программы
-- Покажите наставнику:
-    - скрин консоли с компиляцией и запуском `Игры`
-    - скрин с выводом дерева каталогов и файлов, начиная от папки `startjava` (для этого используйте в консоли команду `tree /F`)
+- **[Домашнее задание](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)**
+- Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
+ 
+![tree2](https://user-images.githubusercontent.com/29703461/166163390-4cc031ba-f946-47a8-b83e-861d1409f812.png)
 
 ## 6. <a name="6">Опросники</a>
 - [Итоговый тест](https://forms.gle/TqeeTy7QvUyCpsaj9) позволит вам проверить, насколько хорошо вы освоили пройденные темы
-- В этом небольшом [опроснике](https://forms.gle/wrnyKTeMoDJggTNW7) вы сможете поделиться своими впечатлениями (анонимно) по поводу третьего урока: что (не)понравилось, как его можно улучшить и тд. Ваши ответы помогут нам доработать урок, сделав его еще лучше!
-
-## 7. <a name="7">Советы по выполнению домашнего задания
-    
-- Не забудьте добавить в git (с помощью `add`) файл `.gitignore`
-- `-sourcepath имя_директории` — данный ключ позволяет упростить компиляцию программы, состоящей из нескольких файлов
-- Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
-
-  ![tree2](https://user-images.githubusercontent.com/29703461/166163390-4cc031ba-f946-47a8-b83e-861d1409f812.png)
+- В этом небольшом [опроснике](https://forms.gle/wrnyKTeMoDJggTNW7) вы сможете поделиться своими впечатлениями (анонимно) по поводу третьего урока: что (не)понравилось, как его можно улучшить и тд. Ваши ответы помогут нам доработать урок, сделав его еще лучше! 
