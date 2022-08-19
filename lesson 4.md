@@ -31,7 +31,7 @@
 
 **Материалы:**
 - [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
-- [Руководство по массивам в Java](https://docs.google.com/document/d/1JMOIA6j8Ddllru7c352FR5GDcrv7SPAgCmsp0SJvoTQ/edit?usp=sharing)
+- [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
 - Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
