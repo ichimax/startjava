@@ -30,10 +30,10 @@
 > Массив — это структура данных фиксированного размера, являющаяся объектом и состоящая из ячеек, расположенных последовательно в памяти, которые могут хранить в себе значения только одного, заранее заданного типа. При этом каждая ячейка обладает адресом (порядковым номером, индексом), позволяющим получать к ней доступ.
 
 **Материалы:**
-- [Массив](https://ru.wikipedia.org/wiki/Массив_(программирование)) (wiki)
 - [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
 - [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
 - Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
+- [Varargs](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-varargs)
 - [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
 - [Цикл foreach, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
