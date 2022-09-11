@@ -110,6 +110,7 @@
  - [Программа для сохранения вашего зрения](https://justgetflux.com/)
  - [Топовый курс для изучения английского с нуля](https://youtube.com/playlist?list=PLD6SPjEPomauFCdDQwuHubP7F2yIVJnwN)
  - [Google Переводчик - плагин для браузера](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=ru)
+ - [Клевая музыка для кодинга](https://www.youtube.com/channel/UCwVQIkAtyZzQSA-OY1rsGig)
  
 ## Благодарности
  - Спасибо всем, кто дает обратную связь по урокам — она помогает нам делать этот курс еще лучше
