@@ -74,5 +74,6 @@
 - Если при запуске SQL-файла возникает ошибка `Permission denied`, выполните [эти](https://dba.stackexchange.com/questions/29767/permission-denied-in-file-trying-to-import) рекомендации
 - Если при работе с psql некорректно отображается кодировка, выполните [эти](https://iu5bmstu.ru/index.php?title=PostgreSQL_-_%D0%9A%D0%B8%D1%80%D0%B8%D0%BB%D0%BB%D0%B8%D1%86%D0%B0_%D0%B2_psql_%D0%BF%D0%BE%D0%B4_Windows) настройки
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
+- Файлы с расшинением sql — обычные текстовые файлы, которые вам нужно создать в текстовом редакторе
 
 ![tree2](https://user-images.githubusercontent.com/29703461/169653431-2077ee1a-1d57-4c60-95cf-47e5701febd4.png)
