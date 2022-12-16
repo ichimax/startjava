@@ -10,8 +10,6 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Введение в реляционные базы данных](https://drive.google.com/file/d/16JpQcAwKyhFQkh0D6et2RMVXx2fUFBkc/view?usp=sharing)</a>
 
 **Материалы:**
-- [База данных](https://ru.wikipedia.org/wiki/База_данных) (wiki)
-- [Реляционная база данных](https://ru.wikipedia.org/wiki/Реляционная_база_данных) (wiki)
 - [Что такое базы данных, СУБД и язык SQL](https://youtu.be/GbogxIMRy-o) (youtube)
 - [Основные понятия базы данных](https://youtu.be/pHjGiwhitwQ) (youtube)
 - [База данных SQL](https://youtu.be/kUFDvZVETKM) (youtube)
@@ -28,8 +26,8 @@
 **Материалы:**
 - [Установка и настройка PostgreSQL в Windows](https://youtu.be/oEi5IUgxaU0) (youtube)
 - [Установка и настройка PostgreSQL в Ubuntu](https://youtu.be/Y6df2liHjlg) (youtube)
-- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/13/index)
-- [Документация к psql](https://postgrespro.ru/docs/postgresql/10/app-psql) 
+- [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/15/index)
+- [Документация к psql](https://postgrespro.ru/docs/postgresql/15/app-psql) 
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
 - [Книги по PostgreSQL](https://postgrespro.ru/education/books)
@@ -43,6 +41,7 @@
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
 - [Обучалка SQL](http://www.sql-ex.ru/)
 - [Книга для начинающих - Изучаем SQL](https://www.ozon.ru/context/detail/id/7246798/)
+- [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
 - [Руководство по стилю SQL](https://www.sqlstyle.guide/ru/)
 
 ## <a name="4">4. Домашнее задание</a>
