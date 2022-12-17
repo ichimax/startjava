@@ -20,7 +20,6 @@
 > Скачайте и установите [IntelliJ IDEA Community](http://www.jetbrains.com/idea/download/index.html)
 
 **Материалы:**
-- [IntelliJ IDEA](https://ru.wikipedia.org/wiki/IntelliJ_IDEA) (wiki)
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
 - [Горячие клавиши Intellij IDEA](https://devcolibri.com/горячие-клавиши-intellij-idea)
 
@@ -53,7 +52,7 @@
 Ссылки на задачи из раздела *Материалы* даны для самостоятельного изучения. Ментором они не проверяются. При этом все задачи решать не нужно. Решите то количество, которое позволит вам разобраться в следующих вопросах о массиве:
 - как его создать
 - как обращаться к его ячейкам по индексу
-- как в него помещать значения, и брать их из него
+- как в него помещать значения и брать их из него
 - как работать с ним в цикле (заполнять, выводить на консоль, делать проверки)
  
 ## <a name="4">4. Сортировка массива методом пузырька</a>
@@ -70,10 +69,9 @@
 ## <a name="5">5. Класс java.util.Arrays</a>
 
 **Материалы:**
+- [Классы Arrays и System](https://docs.google.com/document/d/1SEi6a_NRIMU5rvIIbgqCmJVb6VQAOymPRR_caj5Z-lg/edit?usp=sharing)
 - [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
-- [Class Arrays API](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html)
-- [Java Arrays – java.util.Arrays](https://www.journaldev.com/16770/java-arrays-java-util-arrays)
-- [Двоичный поиск](https://ru.wikipedia.org/wiki/Двоичный_поиск) (wiki)
+- [Class Arrays API](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/util/Arrays.html)
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
 - [Бинарное дерево поиска](https://youtu.be/HBMlhZAOhoI) (youtube)
 
