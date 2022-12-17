@@ -93,7 +93,7 @@ public class MyFirstApp {
 - **[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
 - [Изучите статью](https://topjava.ru/blog/pravila-formatirovaniya-koda-v-java) про форматирование кода в Java. Ориентируйтесь на разбираемые в ней правила при написании своих программ
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
-- **Покажите ДЗ наставнику** (пришлите ему ссылку с решенными ДЗ на ваш репозиторий)
+- **Покажите ДЗ наставнику** (пришлите ему ссылку на ваш репозиторий с решенным ДЗ)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 
@@ -136,25 +136,24 @@ public class MyFirstApp {
 - Создайте в удобном для вас месте папку под названием `StartJava`. В ней будет храниться ваш код
 - Создайте на GitHub репозиторий с названием `startjava`
 - Напишите в консоли (при этом консоль должна быть открыта в папке `startjava`): 
-  - [`git init`](https://git-scm.com/book/ru/v1/Основы-Git-Создание-Git-репозитория#Создание-репозитория-в-существующем-каталоге) — создание локального репозитория
-  - [`git status`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Определение-состояния-файлов) — вывод состояния файлов
-  - добавьте адрес созданного на GitHub репозитория в git — [`git remote add origin url_на_ваш_startjava-репозиторий.git`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями)
+  - `git init` — создание локального репозитория
+  - `git status` — вывод состояния файлов
+  - добавьте адрес созданного на GitHub репозитория в git — `git remote add origin url_на_ваш_startjava-репозиторий.git`
   - проверьте, добавился он или нет — `git remote -v`
 
 ### Рекомендации по Git
 1. Последовательность стандартных шагов при работе с Git:
-   - [`git add файл_с_кодом.java`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Отслеживание-новых-файлов) — добавляем файлы/изменения в git (файлы с расширением class не добавляйте)
-   - [`git commit -m "краткое описание изменений, которые вы внесли в программу"`](https://git-scm.com/book/ru/v1/Основы-Git-Запись-изменений-в-репозиторий#Фиксация-изменений) — фиксируем (коммитим) изменения
-   - [`git push -u origin master`](https://git-scm.com/book/ru/v1/Основы-Git-Работа-с-удалёнными-репозиториями#Push) — [устанавливаем связь](https://qna.habr.com/q/118865) между локальной и удаленной веткой master
-1. На GitHub можно отправлять не только файлы с расширением `*.java`, но и папки, например, `Lesson 1` (при этом они не должны быть пустыми)
+   - `git add файл_с_кодом.java` — добавляем файлы/изменения в git (файлы с расширением `class` не добавляйте)
+   - `git commit -m "краткое описание изменений, которые вы внесли в программу"` — фиксируем (коммитим) изменения
+   - `git push -u origin master` — [устанавливаем связь](https://qna.habr.com/q/118865) между локальной и удаленной веткой master
+1. На GitHub можно отправлять не только файлы с расширением `java`, но и папки, например, `Lesson 1` (при этом они не должны быть пустыми)
 1. Если вы столкнулись с проблемами при использовании Git, то статья ["Ошибки использования Git"](https://topjava.ru/blog/vvedeniye-v-git-oshibki-ispolzovaniya-ch-9) поможет их решить
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Итоговые домашние задания](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
-> Перед отправкой домашнего задания на проверку обращайте внимание на [`Советы по выполнению домашнего задания`](https://github.com/ichimax/startjava/blob/master/lesson%201.md#11), которые содержат ряд полезных подсказок и разъяснений
-- Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
+- Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/) (вышло [3-е издание](https://blogs.oracle.com/javamagazine/post/head-first-java-third-edition) книги)
 - Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
-- [Программирование на Java для детей, родителей, бабушек и дедушек (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
+- [Программирование на Java для детей, родителей, бабушек и дедушек](http://myflex.org/books/java4kids/java4kids.htm)
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов
 
