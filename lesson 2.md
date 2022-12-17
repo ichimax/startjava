@@ -36,7 +36,7 @@
 - [Классы в Java](https://javarush.ru/groups/posts/1949-znakomstvo-s-klassami-napisanie-sobstvennihkh-klassov-konstruktorih)
 - [Classes](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
 - [What Is a Class?](https://docs.oracle.com/javase/tutorial/java/concepts/class.html)
-- [Тип данных String(строка) в Java](https://habr.com/post/260767)
+- [Тип данных String в Java](https://habr.com/post/260767)
 
 ![class](https://user-images.githubusercontent.com/29703461/113477118-843d3900-9488-11eb-8409-728af529574d.png)
 
@@ -74,26 +74,24 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
 
 **Материалы:**
-- [Инкапсуляция](https://ru.wikipedia.org/wiki/Инкапсуляция_(программирование)) (wiki)
 - [Что такое инкапсуляция](https://youtu.be/nyFQvgrkoXY) (youtube)
 - [Описание инкапсуляции](https://github.com/ichimax/Java-Interview-Questions/blob/master/Questions/1.%20OOP.md#Что-такое-инкапсуляция)
-- [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field)
+- [Инкапсуляция поля](https://refactoring.guru/ru/encapsulate-field) (через VPN)
 - [Инкапсуляция: геттеры и сеттеры](https://youtu.be/9Uo8SYk7lbk) (youtube)
 - [Геттеры и сеттеры в Java](https://topjava.ru/blog/gettery-i-settery-v-java)
-- [Геттер](https://ru.wikipedia.org/wiki/Геттер_(программирование)), [Сеттер](https://ru.wikipedia.org/wiki/Setter) (wiki)
 - [Геттеры и сеттеры](https://javarush.ru/groups/posts/1928-getterih-i-setterih)
 
 ## 5. <a name="5"> Ответы на вопросы</a>
-> в чем разница между `Классом` и `Объектом`? Или это одно и тоже?
+> в чем разница между `классом` и `объектом`? Или это одно и тоже?
 
-Класс и Объект — это разные понятия. Класс — это «чертеж» на основе которого создаются Объекты. Благодаря этому «чертежу» JVM знает, какой объект ей надо создать
+Класс и объект — это разные понятия. Класс — это «чертеж», на основе которого создаются объекты. Благодаря этому «чертежу» JVM знает, какой объект ей надо создать
 
 **Домашнее задание:**
 - Модифицируйте класс **Wolf**
    - у всех полей класса напишите модификатор доступа `private`
    - а у его методов — `public`
    - для доступа к полям создайте геттеры и сеттеры
-   - в сеттере поля `age` реализуйте проверку: если возраст волка > 8 лет, то выведите сообщение "Некорректный возраст". В противном случае сохраните значение в поле
+   - в сеттере поля `age` реализуйте проверку: если возраст волка > 8 лет, то выведите сообщение "Некорректный возраст". В противном случае — сохраните значение в поле
 - Модифицируйте класс **WolfTest**  
   - с помощью сеттеров присвойте полям экземпляра класса **Wolf** какие-то значения
   - считайте эти значения из полей с помощью геттеров и отобразите в консоли
@@ -101,7 +99,7 @@
 
 ## 6. <a name="6">Итоговые домашние задания</a>
 - Прочитайте вторую, третью (со стр 84) и четвертую главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/)
-- Начните читать [Объектно-ориентированный подход. Мэтт Вайсфельд](https://www.ozon.ru/product/obektno-orientirovannyy-podhod-vaysfeld-mett-vaysfeld-mett-211432428)
+- Начните читать [Объектно-ориентированный подход. Мэтт Вайсфельд](https://ozon.ru/t/j67EpXr)
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1VJxMqjhRilLIqguoGvb-4T9v1jGxWQwa_KgMWEG-fmE/edit?usp=sharing)**
 - Так должна выглядеть структура ваших файлов и папок
  
