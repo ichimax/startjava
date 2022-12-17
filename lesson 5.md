@@ -40,7 +40,7 @@
 **Материалы:**
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
 - [Обучалка SQL](http://www.sql-ex.ru/)
-- [Книга для начинающих - Изучаем SQL](https://www.ozon.ru/context/detail/id/7246798/)
+- [SQL для простых смертных](https://ozon.ru/t/8pK5ZEl)
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
 - [Руководство по стилю SQL](https://www.sqlstyle.guide/ru/)
 
