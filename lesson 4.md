@@ -69,7 +69,7 @@
 ## <a name="5">5. Класс java.util.Arrays</a>
 
 **Материалы:**
-- [Классы Arrays и System](https://docs.google.com/document/d/1SEi6a_NRIMU5rvIIbgqCmJVb6VQAOymPRR_caj5Z-lg/edit?usp=sharing)
+- [Классы Arrays и System](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch3)
 - [Класс Arrays](http://developer.alexanderklimov.ru/android/java/array.php#arrays)
 - [Class Arrays API](https://docs.oracle.com/en/java/javase/19/docs/api/java.base/java/util/Arrays.html)
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
