@@ -26,7 +26,7 @@
 - [Установите и настройте Java](https://topjava.ru/blog/ustanovka-i-nastroyka-java)
 - Скачайте и установите [Sublime Text 4](https://www.sublimetext.com/download). Именно в нем мы будем писать наши программы (с четвертого урока перейдем на IntelliJ IDEA)
 
-**[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно.**
+**[Отключите](https://chromefaq.ru/nastrojki/kak-perevodit-stranitsy-v-google-chrome-s-anglijskogo-na-russkij#i-6) в браузере автоперевод страниц. Из-за него уроки могут отображаться некорректно**
 
 **Материалы:**
 - [Что такое JDK? Введение в средства разработки Java](https://topjava.ru/blog/what-is-the-jdk)
@@ -58,9 +58,12 @@ public class MyFirstApp {
 - `javac MyFirstApp.java` — компиляция java-файла
 - `java MyFirstApp` — запуск программы
 
+Для однофайловых программ, начиная с Java 11, процесс компиляции и запуска можно совместить в одной команде:
+- `java MyFirstApp.java`
+
 Для того, чтобы русский текст корректно отображался в консоли, компилируйте свои программы с помощью специального параметра `javac -encoding utf8 имя_класса.java`
 
-Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java).
+Более подробно об этом рассказывается в статье [Компиляция и запуск Java-программ](https://topjava.ru/blog/kompilyatsiya-i-zapusk-programm-na-java)
 
 А из статьи ["Основы командной строки для Java-программиста"](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista) вы узнаете о самых нужных и часто используемых командах консоли для работы с файловой системой 
 
