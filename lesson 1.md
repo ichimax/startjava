@@ -68,7 +68,7 @@ public class MyFirstApp {
 А из статьи ["Основы командной строки для Java-программиста"](https://topjava.ru/blog/osnovy-komandnoy-stroki-dlya-java-programmista) вы узнаете о самых нужных и часто используемых командах консоли для работы с файловой системой 
 
 **Материалы:**
-- [Getting Started with Java](https://dev.java/learn/getting-started-with-java/)
+- [Getting Started with Java](https://dev.java/learn/getting-started/)
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
