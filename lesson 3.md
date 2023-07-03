@@ -36,12 +36,12 @@
 - [Как создать файл .gitignore в Windows](https://ru.stackoverflow.com/questions/438367/Как-создать-файл-gitignore-в-windows/438370)
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
-## 5. <a name="5">Домашнее задание</a>
+## 4. <a name="5">Домашнее задание</a>
 - **[Домашнее задание](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
  
 ![tree2](https://user-images.githubusercontent.com/29703461/166163390-4cc031ba-f946-47a8-b83e-861d1409f812.png)
 
-## 6. <a name="6">Опросники</a>
+## 5. <a name="6">Опросники</a>
 - [Итоговый тест](https://forms.gle/TqeeTy7QvUyCpsaj9) позволит вам проверить, насколько хорошо вы освоили пройденные темы
 - В этом небольшом [опроснике](https://forms.gle/wrnyKTeMoDJggTNW7) вы сможете поделиться своими впечатлениями (анонимно) по поводу третьего урока: что (не)понравилось, как его можно улучшить и тд. Ваши ответы помогут нам доработать урок, сделав его еще лучше! 
