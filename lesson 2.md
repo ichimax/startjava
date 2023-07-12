@@ -4,6 +4,9 @@
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 
+**Эталонный код ДЗ:**
+- [VariablesTheme](https://drive.google.com/file/d/1AQYnQs0G2hFx3tM8BN8v75H46I4GPNUD/view?usp=drive_link)
+
 ## Темы занятия
 1. [Что такое ООП](#1)
 1. [Что такое класс](#2)
