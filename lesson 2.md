@@ -6,6 +6,7 @@
 
 **Эталонный код ДЗ:**
 - [VariablesTheme](https://drive.google.com/file/d/1AQYnQs0G2hFx3tM8BN8v75H46I4GPNUD/view?usp=drive_link)
+- [IfElseStatementTheme](https://drive.google.com/file/d/18I_TlL8f7qW45M2t_90re8JtQBn3mHDQ/view?usp=sharing)
 
 ## Темы занятия
 1. [Что такое ООП](#1)
