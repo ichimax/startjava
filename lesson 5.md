@@ -1,5 +1,8 @@
 # Занятие пятое
 
+**Эталонный код ДЗ 4-го урока:**
+- [ArraysTheme](https://drive.google.com/file/d/1eGOIp7FJ2e-hCxyzLofI0XvDfIj-f7xP/view?usp=sharing)
+
 ## Темы пятого занятия
 - [Введение в реляционные базы данных](#1)
 - [Реляционная СУБД PostgreSQL. Терминал psql](#2)
