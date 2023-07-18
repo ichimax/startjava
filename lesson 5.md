@@ -3,6 +3,7 @@
 **Эталонный код ДЗ 4-го урока:**
 - [ArraysTheme](https://drive.google.com/file/d/1eGOIp7FJ2e-hCxyzLofI0XvDfIj-f7xP/view?usp=sharing)
 - [CalculatorTest](https://drive.google.com/file/d/1KUHnC5k5e3Jv0cQeXUyLHbNPGgxB6qwT/view?usp=sharing), [Calculator](https://drive.google.com/file/d/1AoLJlPgtJFsh3-NjylTCjxfVWacroPof/view?usp=sharing)
+- [CalculatorTest*](https://drive.google.com/file/d/1uUHVlfNdkfAl9LdG9Bd_ff0XtLNIGL2L/view?usp=sharing), [Calculator*](https://drive.google.com/file/d/1tbRorYRoYLovekaHerV6yh8dGR8FFTY7/view?usp=sharing)
 
 ## Темы пятого занятия
 - [Введение в реляционные базы данных](#1)
