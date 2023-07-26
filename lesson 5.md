@@ -6,6 +6,7 @@
 - [CalculatorTest*](https://drive.google.com/file/d/1uUHVlfNdkfAl9LdG9Bd_ff0XtLNIGL2L/view?usp=sharing), [Calculator*](https://drive.google.com/file/d/1tbRorYRoYLovekaHerV6yh8dGR8FFTY7/view?usp=sharing)
 - [GuessNumberTest](https://drive.google.com/file/d/19i1GZWPFCGQqXYMBg5dlWBefHRw_dtdT/view?usp=sharing), [Player](https://drive.google.com/file/d/13FrnxhgBWjSdpUCTeZ3aZ6H8SNoITtWD/view?usp=sharing), [GuessNumber](https://drive.google.com/file/d/1-3rNgJTKj-5S5wlfi7FJW2fPE2sYw8Yh/view?usp=sharing)
 - [GuessNumberTest*](https://drive.google.com/file/d/15cMQHqp8_Ljy6Cz6TyC6Vn5XVGhjeU-6/view?usp=sharing), [Player*](https://drive.google.com/file/d/1iO5-CCU2uE3x1RbjgukpyPvPn0s8y2Vz/view?usp=sharing), [GuessNumber*](https://drive.google.com/file/d/1pEEyzwzMlIT_BTenB6ESCtUN3-wkzZ9H/view?usp=sharing)
+- Выпускной: [BookshelfTest](https://drive.google.com/file/d/1z12bzUUJVVR-64CgsWUcXEGkIrQ8zA3u/view?usp=sharing), [Book](https://drive.google.com/file/d/1qIIZgCG0GL0QTxBPGmv4cIjuikofLpX3/view?usp=sharing), [Bookshelf](https://drive.google.com/file/d/1k2JdlQjcSMozEvCKNrXMfbkweL1ZLJ7b/view?usp=sharing)
 
 ## Темы пятого занятия
 - [Введение в реляционные базы данных](#1)
