@@ -6,6 +6,11 @@
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1v1MaEFTnHSpYsy4pF0a1D6kiJqQaf2he/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1AFfvUiPiR87noEFrX8n7y9Tet57oHvEq/view?usp=sharing)
 
+**Эталонный код ДЗ 4-го урока:**
+  - [Person](https://drive.google.com/file/d/1kmYS5yoE1oFkl6llfdXSeN6vBgPFlomn/view?usp=sharing)
+  - [Wolf](https://drive.google.com/file/d/13zAxbQCWZr1HEkmPoUUqe04I9YVHZyfj/view?usp=sharing), [WolfTest](https://drive.google.com/file/d/1owoelQMWWmKoXKsqZW7u5T5NnzFMBXnZ/view?usp=sharing)
+  - [Wolf*](https://drive.google.com/file/d/1OA8zRmdA2T7YNISmTORoLM_ceAjNZN3Z/view?usp=sharing), [WolfTest*](https://drive.google.com/file/d/1RLaq3GXke5T2OaP7YB61CzvegfDAAKxw/view?usp=sharing)
+
 ## Темы третьего занятия
 1. [Механизм пакетов (package) в Java](#1)
 1. [Компиляция Java-программ. Часть II](#2)
