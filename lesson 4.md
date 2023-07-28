@@ -5,6 +5,9 @@
 ## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
 
+**Эталонная компиляция и запуск:**
+- [options](https://drive.google.com/file/d/13ly63_-8cK83s1Ps7Eq8UdY6uprQ0PDU/view?usp=sharing), [optionsj](https://drive.google.com/file/d/1EhhYPhLoLxyGuWiy2xjsCHA7LkrM2L20/view?usp=sharing)
+
 ## Темы четвертого занятия
 1. [Среда разработки IntelliJ IDEA](#1)
 1. [Массивы. Цикл foreach](#2)
