@@ -93,11 +93,9 @@
    - [Реляционная СУБД PostgreSQL. Терминал psql](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-2-Реляционная-СУБД-postgresql-Терминал-psql)
    - [Введение в SQL](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-3-Введение-в-sql)
    - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
-   - [Советы по выполнению домашнего задания](https://github.com/ichimax/startjava/blob/master/lesson%205.md#5-советы-по-выполнению-домашнего-задания)
 
 ## Рекомендуемые книги
- - [Изучаем Java, 2-е издание](https://www.ozon.ru/context/detail/id/7821666/)
- - [Изучаем Java, 3-е издание](https://blogs.oracle.com/javamagazine/post/head-first-java-third-edition)
+ - [Изучаем Java, 2-е издание](https://www.ozon.ru/context/detail/id/7821666/) (вышло [3-е издание](https://blogs.oracle.com/javamagazine/post/head-first-java-third-edition))
  - [Pro Git](https://git-scm.com/book/ru/v2)
  - [Объектно-ориентированный подход. Мэтт Вайсфельд](https://ozon.ru/t/j67EpXr)
  - [Java Programming for Kids (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
