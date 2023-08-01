@@ -9,11 +9,11 @@
 - Выпускной: [BookshelfTest](https://drive.google.com/file/d/1z12bzUUJVVR-64CgsWUcXEGkIrQ8zA3u/view?usp=sharing), [Book](https://drive.google.com/file/d/1qIIZgCG0GL0QTxBPGmv4cIjuikofLpX3/view?usp=sharing), [Bookshelf](https://drive.google.com/file/d/1k2JdlQjcSMozEvCKNrXMfbkweL1ZLJ7b/view?usp=sharing)
 
 ## Темы пятого занятия
-- [Введение в реляционные базы данных](#1)
-- [Реляционная СУБД PostgreSQL. Терминал psql](#2)
-- [Введение в SQL](#3)
-- [Домашнее задание](#4)
-- [Советы по выполнению домашнего задания](#5)
+1. [Введение в реляционные базы данных](#1)
+1. [Реляционная СУБД PostgreSQL. Терминал psql](#2)
+1. [Введение в SQL](#3)
+1. [Домашнее задание](#4)
+1. [Советы по выполнению домашнего задания](#5)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Введение в реляционные базы данных](https://drive.google.com/file/d/16JpQcAwKyhFQkh0D6et2RMVXx2fUFBkc/view?usp=sharing)</a>
 
@@ -25,21 +25,20 @@
 ![database2](https://user-images.githubusercontent.com/29703461/40881632-64b2d3a4-66d4-11e8-842e-366d29c783f2.png)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Реляционная СУБД PostgreSQL. Терминал psql](https://drive.google.com/file/d/1GQulzZEjzfvbOVcK7rXagprbpkMm0rg5/view?usp=sharing)</a>
-> Скачайте и установите [СУБД PostgreSQL](https://www.postgresql.org/download)
+Скачайте и установите [СУБД PostgreSQL](https://www.postgresql.org/download)
 
-`sudo -u postgres psql` — запуск psql в Linux
+`sudo -u postgres psql` — запуск `psql` в Linux
 
-`psql -U postgres` — запуск psql в Windows 
+`psql -U postgres` — запуск `psql` в Windows 
 
 **Материалы:**
-- [Установка и настройка PostgreSQL в Windows](https://youtu.be/oEi5IUgxaU0) (youtube)
-- [Установка и настройка PostgreSQL в Ubuntu](https://youtu.be/Y6df2liHjlg) (youtube)
+- [Установка и настройка PostgreSQL в Windows](https://youtu.be/aLDMDR8FKuk) (youtube)
+- [Установка и настройка PostgreSQL в Ubuntu](https://youtu.be/n4sNHdnXj6Q) (youtube)
 - [Документация к PostgreSQL](https://postgrespro.ru/docs/postgresql/15/index)
 - [Документация к psql](https://postgrespro.ru/docs/postgresql/15/app-psql) 
 - [DB-Engines Ranking](https://db-engines.com/en/ranking)
 - [PostgreSQL GUI Tools](https://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools)
 - [Книги по PostgreSQL](https://postgrespro.ru/education/books)
-- [Интерактивная обучалка по PostgreSQL](https://www.pgexercises.com/) [eng]
 
 ![postgresql-10](https://user-images.githubusercontent.com/29703461/40881654-c0325af6-66d4-11e8-9a40-b7de3fb24f7b.png)
 
@@ -48,8 +47,9 @@
 **Материалы:**
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
 - [Обучалка SQL](http://www.sql-ex.ru/)
-- [SQL для простых смертных](https://ozon.ru/t/8pK5ZEl)
+- [SQL для простых смертных](https://ozon.ru/t/9oR10jk)
 - [Интерактивный тренажер по SQL](https://stepik.org/course/63054/promo)
+- [Интерактивная обучалка по PostgreSQL](https://www.pgexercises.com/)
 - [Руководство по стилю SQL](https://www.sqlstyle.guide/ru/)
 
 ## <a name="4">4. Домашнее задание</a>
