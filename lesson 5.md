@@ -29,6 +29,9 @@
 - `psql -U postgres` — запуск `psql` в Windows
 - `sudo -u postgres psql` — запуск `psql` в Linux
 
+> - Для запуска `psql` из консоли необходимо [занести](https://bestprogrammer.ru/baza-dannyh/podklyuchitsya-k-komandnoj-stroke-bazy-dannyh-postgresql-windows) в переменную `PATH` путь до папки `bin`
+> - При подключении к базе данных потребуется ввести пороль, ввод которого [не будет отображаться](https://stackru.com/questions/847564/psql-nevozmozhno-vvesti-parol)
+
 **Материалы:**
 - [Установка и настройка PostgreSQL в Windows](https://youtu.be/aLDMDR8FKuk) (youtube)
 - [Установка и настройка PostgreSQL в Ubuntu](https://youtu.be/n4sNHdnXj6Q) (youtube)
