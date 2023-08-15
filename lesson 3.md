@@ -22,7 +22,7 @@
 ![package](https://user-images.githubusercontent.com/29703461/166163450-3366ac0b-274d-416e-b4af-e31f805e8cd9.png)
 
 **Материалы:**
-- [Пакеты в Java](https://docs.google.com/document/d/1KwSy4So6UPvbER-QXQpHwqM9AE-g7MfYZPNB0Cu7xSU/edit?usp=sharing)
+- [Руководство по пакетам в Java](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java)
 -	[Пакеты](https://www.youtube.com/watch?v=a6KGNASOtK8) (youtube)
 - [Packages](https://dev.java/learn/packages/)
 
