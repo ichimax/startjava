@@ -179,3 +179,5 @@ public class MyFirstApp {
 - [Речь Стива Джобса Перед выпускниками Стенфорда](https://www.youtube.com/watch?v=WVz9E7o1mmk)
 - [Мотивационный совет от Стива Джобса](https://www.youtube.com/watch?v=Z2qSUZ1o47U)
 - [12 минут сильнейшей мотивации. Перелом сознания](https://www.youtube.com/watch?v=69MkvKrraC0)
+- [Почему мне так сложно учиться программировать?](https://youtu.be/TtT8UNK0sGg)
+- [Простой прием стать программистом быстрее](https://youtu.be/iw3E-Gdncwc)
