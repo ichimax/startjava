@@ -74,7 +74,7 @@ public class MyFirstApp {
 - [Введение в командную строку Windows](https://www.youtube.com/user/Iidsp/videos) (youtube)
 
 ## 4. <a name="4">Этапы компиляции и запуска</a>
-![Frame 303](https://user-images.githubusercontent.com/29703461/175957997-8c142981-65d5-4423-8b50-6ec43bc3dca1.png)
+![Frame 303](https://github.com/ichimax/startjava/assets/29703461/613d6100-8fc1-4054-9811-cf143b61d32c)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 5. <a name="5">[Байт-код](https://drive.google.com/file/d/19Tl7dEpPszjQfulzQBEwyn9sQL0DK3ji/view?usp=sharing)</a>
 Для отображения байт-кода класса необходимо в консоли перейти в папку, в которой находится файл `MyFirstApp.class`, и написать:
