@@ -21,7 +21,7 @@
 
 # [Видеообзор курса StartJava](https://youtu.be/vM1ygW7pKTE)
 - На данный момент обучение проводится в Slack в индивидуальном режиме
-- Книги, [указанные](#10) в конце урока, читайте параллельно изучаемым темам
+- Обязательно читайте книги из [списка](https://topjava.ru/blog/spisok-knig-dlya-nachinayushchego-java-programmista) параллельно изучаемым темам
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Подготовка рабочего окружения](https://drive.google.com/file/d/1gWrBFrly3BdXKq868Xr0QkGtpM9FCmI4/view?usp=sharing)</a>
 
@@ -156,9 +156,6 @@ public class MyFirstApp {
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Итоговые домашние задания](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
-- Прочитайте первую и третью (до стр 84) главы книги [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/) (вышло [3-е издание](https://blogs.oracle.com/javamagazine/post/head-first-java-third-edition) книги)
-- Прочитайте первые две главы книги [Pro Git](https://git-scm.com/book/ru/v2)
-- [Программирование на Java для детей, родителей, бабушек и дедушек](http://myflex.org/books/java4kids/java4kids.htm)
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов
 
