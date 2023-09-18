@@ -96,7 +96,6 @@ public class MyFirstApp {
 ![var](https://user-images.githubusercontent.com/29703461/155842985-5fae137b-3967-4fe6-893c-0d2a018815a5.png)
 
 - **[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
-- [Изучите статью](https://topjava.ru/blog/pravila-formatirovaniya-koda-v-java) про форматирование кода в Java. Ориентируйтесь на разбираемые в ней правила при написании своих программ
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
 - **Покажите ДЗ наставнику** (пришлите ему ссылку на ваш репозиторий с решенным ДЗ)
 
