@@ -95,7 +95,9 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/155842985-5fae137b-3967-4fe6-893c-0d2a018815a5.png)
 
-- **[Домашние задания по теме "Переменные: примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)**
+- **Домашние задания по теме "Переменные"**
+  - ["Именование переменных"](https://docs.google.com/document/d/1Dv-eo8acvOVFJtUVbaWd1Mfb77Q1IiTlhepgy56qMbc/edit?usp=sharing)
+  - ["Примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)
 - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
 - **Покажите ДЗ наставнику** (пришлите ему ссылку на ваш репозиторий с решенным ДЗ)
 
