@@ -1,7 +1,5 @@
 # Занятие четвертое
 
-Пора уже смотреть в сторону следующего курса — BaseJava. Начинайте потихоньку пробовать выполнить вступительное ДЗ, которое можно получить в личном кабинете на [javaops.ru](https://javaops.ru/)
-
 ## Разбор домашнего задания
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
 
