@@ -1,5 +1,7 @@
 # Занятие пятое
 
+Пора уже смотреть в сторону следующего курса — `BaseJava`. Начинайте потихоньку пробовать выполнить вступительное ДЗ, которое можно получить в личном кабинете на [javaops.ru](https://javaops.ru/): влкадка `Новые` → `Открытое занятие`
+
 **Эталонный код ДЗ 4-го урока:**
 - [ArraysTheme](https://drive.google.com/file/d/1eGOIp7FJ2e-hCxyzLofI0XvDfIj-f7xP/view?usp=sharing)
 - [CalculatorTest](https://drive.google.com/file/d/1KUHnC5k5e3Jv0cQeXUyLHbNPGgxB6qwT/view?usp=sharing), [Calculator](https://drive.google.com/file/d/1AoLJlPgtJFsh3-NjylTCjxfVWacroPof/view?usp=sharing)
