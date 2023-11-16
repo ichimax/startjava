@@ -117,7 +117,7 @@ public class MyFirstApp {
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
 
 **Материалы:**
-- Циклы в Java [1](http://nikulux.ru/java-uroki/tsikly-v-yazyke-programmirovaniya-java/), [2](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
+- Циклы в Java [1](https://timeweb.cloud/tutorials/java/cikly-v-java-osnovy-raboty), [2](https://vertex-academy.com/tutorials/ru/cikly-v-java/)
 - [Оператор while](https://youtu.be/15PjODTSTaw) (youtube)
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
