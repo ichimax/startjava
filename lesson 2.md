@@ -106,7 +106,7 @@
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1VJxMqjhRilLIqguoGvb-4T9v1jGxWQwa_KgMWEG-fmE/edit?usp=sharing)**
 - Так должна выглядеть структура ваших файлов и папок
  
- ![tree](https://user-images.githubusercontent.com/29703461/166162798-5a9042e6-9c75-4396-b5b3-52d2d2b0e42b.png)
+ ![tree](https://github.com/ichimax/startjava/assets/29703461/6bffb4be-8ec9-4177-b375-a09579a92a80)
  
  ## 7. <a name="7">Опросники</a>
 - [Итоговый тест](https://forms.gle/F8k6FHKu85dbkGth6) позволит вам проверить, насколько хорошо вы освоили пройденные темы
