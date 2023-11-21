@@ -19,7 +19,7 @@
 1. [Опросники](#6)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
-![package](https://user-images.githubusercontent.com/29703461/166163450-3366ac0b-274d-416e-b4af-e31f805e8cd9.png)
+![package](https://github.com/ichimax/startjava/assets/29703461/bb23ca5c-947e-47d7-b2d2-f5d8838fdf37)
 
 **Материалы:**
 - [Руководство по пакетам в Java](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java)
