@@ -87,7 +87,7 @@
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
  
-![tree4](https://user-images.githubusercontent.com/29703461/175806556-c6404eb9-8b82-4a9e-b0b4-bb1a9133eed2.png)
+![tree4](https://github.com/ichimax/startjava/assets/29703461/bb382be6-4abc-492f-8adb-b462dcf444b5)
 
 ## 7. <a name="7">Выпускной проект</a>
 - Вы можете выполнить [выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing), который проверит наставник. Это не обязательная опция, делайте его по желанию
