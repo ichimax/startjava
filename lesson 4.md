@@ -85,9 +85,11 @@
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)**
-- Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
+<details>
+<summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
  
 ![tree4](https://github.com/ichimax/startjava/assets/29703461/08566887-d292-44c2-a9dd-f5d405f4b9ec)
+</details>
 
 ## 7. <a name="7">Выпускной проект</a>
 - Вы можете выполнить [выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing), который проверит наставник. Это не обязательная опция, делайте его по желанию
