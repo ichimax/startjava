@@ -59,4 +59,4 @@
 - [**Домашнее задание**](https://docs.google.com/document/d/1f7JXmsZ0ZF7ECw814GzgG7BcpEDZvhbO8vBbWbiab3w/edit?usp=sharing)
 - Так должна выглядеть структура ваших папок и файлов
 
-![tree5](https://github.com/ichimax/startjava/assets/29703461/96aba73b-8e6b-40ec-8205-8a01c35d8f57)
+![tree5](https://github.com/ichimax/startjava/assets/29703461/c3ea938e-0d34-4f00-a98b-6bcdee211482)
