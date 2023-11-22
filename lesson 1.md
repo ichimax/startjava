@@ -158,9 +158,12 @@ public class MyFirstApp {
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Итоговые домашние задания](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)**
-- Так должна выглядеть структура ваших папок и файлов
 
+<details>
+<summary>Так должна выглядеть структура ваших папок и файлов</summary>
+    
 ![tree](https://github.com/ichimax/startjava/assets/29703461/47ca8fc6-3f00-4c24-a07d-0e2416f12eb6)
+</details>
 
 ## 11. <a name="11">Опросники</a>
 - [Итоговый тест](https://forms.gle/YFc2pf6qZw6jdfXM7) позволит вам проверить, насколько хорошо вы освоили пройденные в уроке темы
