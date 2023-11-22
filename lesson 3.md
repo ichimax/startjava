@@ -46,7 +46,7 @@
 - **[Домашнее задание на форматирование кода](https://docs.google.com/document/d/19IpFE5YFkGXVdnINh1xkdQC4bWj4dfEdJwrGguFQNtQ/edit?usp=sharing)**
 - Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
  
-![tree2](https://user-images.githubusercontent.com/29703461/166163390-4cc031ba-f946-47a8-b83e-861d1409f812.png)
+![tree2](https://github.com/ichimax/startjava/assets/29703461/123ff7f5-62be-4ff5-8659-8fc70fd23dfc)
 
 ## 5. <a name="6">Опросники</a>
 - [Итоговый тест](https://forms.gle/TqeeTy7QvUyCpsaj9) позволит вам проверить, насколько хорошо вы освоили пройденные темы
