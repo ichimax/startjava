@@ -57,6 +57,9 @@
 
 ## <a name="4">4. Домашнее задание</a>
 - [**Домашнее задание**](https://docs.google.com/document/d/1f7JXmsZ0ZF7ECw814GzgG7BcpEDZvhbO8vBbWbiab3w/edit?usp=sharing)
-- Так должна выглядеть структура ваших папок и файлов
+
+<details>
+<summary>Так должна выглядеть структура ваших папок и файлов</summary>
 
 ![tree5](https://github.com/ichimax/startjava/assets/29703461/08d0ef60-0c64-440e-ab80-8eb3e19aa3dc)
+</details>
