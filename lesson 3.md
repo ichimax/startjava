@@ -44,9 +44,11 @@
 ## 4. <a name="5">Домашнее задание</a>
 - **[Домашние задания по теме "Пакеты"](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)**
 - **[Домашнее задание на форматирование кода](https://docs.google.com/document/d/19IpFE5YFkGXVdnINh1xkdQC4bWj4dfEdJwrGguFQNtQ/edit?usp=sharing)**
-- Так должна выглядеть структура ваших папок и файлов (на GitHub папку `out` не загружайте)
- 
+<details> 
+<summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
+
 ![tree2](https://github.com/ichimax/startjava/assets/29703461/123ff7f5-62be-4ff5-8659-8fc70fd23dfc)
+</details>
 
 ## 5. <a name="6">Опросники</a>
 - [Итоговый тест](https://forms.gle/TqeeTy7QvUyCpsaj9) позволит вам проверить, насколько хорошо вы освоили пройденные темы
