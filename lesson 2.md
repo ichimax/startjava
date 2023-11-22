@@ -104,9 +104,12 @@
 
 ## 6. <a name="6">Итоговые домашние задания</a>
 - **[Итоговые домашние задания](https://docs.google.com/document/d/1VJxMqjhRilLIqguoGvb-4T9v1jGxWQwa_KgMWEG-fmE/edit?usp=sharing)**
-- Так должна выглядеть структура ваших файлов и папок
+
+<details>
+<summary>Так должна выглядеть структура ваших файлов и папок</summary>
  
- ![tree](https://github.com/ichimax/startjava/assets/29703461/4d7bf236-eedd-465f-a687-5193f6fc76fe)
+![tree](https://github.com/ichimax/startjava/assets/29703461/4d7bf236-eedd-465f-a687-5193f6fc76fe)
+</details>
  
  ## 7. <a name="7">Опросники</a>
 - [Итоговый тест](https://forms.gle/F8k6FHKu85dbkGth6) позволит вам проверить, насколько хорошо вы освоили пройденные темы
