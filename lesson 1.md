@@ -177,6 +177,7 @@ public class MyFirstApp {
 1. Ввод с клавиатуры, методы класса `Math` или `Random` пока не используйте (но, если вы знаете про них и хотите использовать — дерзайте)
 
 ## Немного мотивации
+- [Как приучить себя к дисциплине и осуществлять свои планы](https://youtu.be/wbItXmjm7tY?si=RceAgonMsijaz3KD)
 - [Shia LaBeouf Motivation for Coding](https://youtu.be/J1usv2Hn-pU)
 - [Мотивация для программистов](https://www.youtube.com/watch?v=NOVaNe3jx6c)
 - [Речь Стива Джобса Перед выпускниками Стенфорда](https://www.youtube.com/watch?v=WVz9E7o1mmk)
