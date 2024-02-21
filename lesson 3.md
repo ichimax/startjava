@@ -28,7 +28,7 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Компиляция Java-программ. Часть II](https://drive.google.com/file/d/13re6jwLbagQaIkmBPr3LNUc3hIEGUbiZ/view?usp=sharing)</a>
 **Материалы:**
-- [Компиляция и запуск](https://docs.google.com/document/d/1KwSy4So6UPvbER-QXQpHwqM9AE-g7MfYZPNB0Cu7xSU/edit#bookmark=id.ylhzwiclist)
+- [Компиляция и запуск](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java#6)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 - [javac — документация по Java-компилятору](https://docs.oracle.com/en/java/javase/19/docs/specs/man/javac.html)
 - [java — документация по java-лаунчеру](https://docs.oracle.com/en/java/javase/19/docs/specs/man/java.html)
