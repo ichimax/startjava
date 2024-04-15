@@ -24,6 +24,7 @@
 **Материалы:**
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
 - [Горячие клавиши Intellij IDEA](https://devcolibri.com/горячие-клавиши-intellij-idea)
+- [Отладка Java кода в IDEA. Основные возможности отладчика](https://youtu.be/Z1BQsf0A4xY?si=E8RtUNE1Pm3xP_w9)
 
 ![idea](https://user-images.githubusercontent.com/29703461/165950777-7fbb404c-4cca-41c4-8c51-6a7700b5c838.png)
 
