@@ -56,7 +56,8 @@
 - [Руководство по стилю SQL](https://www.sqlstyle.guide/ru/)
 
 ## <a name="4">4. Домашнее задание</a>
-- [**Домашнее задание**](https://docs.google.com/document/d/1f7JXmsZ0ZF7ECw814GzgG7BcpEDZvhbO8vBbWbiab3w/edit?usp=sharing)
+- [Домашнее задание на тему “Базы данных”](https://docs.google.com/document/d/1f7JXmsZ0ZF7ECw814GzgG7BcpEDZvhbO8vBbWbiab3w/edit?usp=sharing)
+- [Задание на подсчет строк кода в проекте](https://docs.google.com/document/d/1rojIPnERaCn0_0VVM_YvBHEiwrB7NwzGyHHJDnq5v0Y/edit?usp=sharing)
 
 <details>
 <summary>Так должна выглядеть структура ваших папок и файлов</summary>
