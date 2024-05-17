@@ -10,6 +10,7 @@
   - [Person](https://drive.google.com/file/d/1kmYS5yoE1oFkl6llfdXSeN6vBgPFlomn/view?usp=sharing)
   - [Wolf](https://drive.google.com/file/d/13zAxbQCWZr1HEkmPoUUqe04I9YVHZyfj/view?usp=sharing), [WolfTest](https://drive.google.com/file/d/1owoelQMWWmKoXKsqZW7u5T5NnzFMBXnZ/view?usp=sharing)
   - [Wolf*](https://drive.google.com/file/d/1OA8zRmdA2T7YNISmTORoLM_ceAjNZN3Z/view?usp=sharing), [WolfTest*](https://drive.google.com/file/d/1RLaq3GXke5T2OaP7YB61CzvegfDAAKxw/view?usp=sharing)
+  - [Calculator](https://drive.google.com/file/d/1Iue1GyeHt0xZepiG4DQGxWNblNHauzh8/view?usp=sharing), [CalculatorTest](https://drive.google.com/file/d/1JuthTyz3hYqNYDeEL311TS4xrVfF_CM8/view?usp=sharing)
 
 ## Темы третьего занятия
 1. [Механизм пакетов (package) в Java](#1)
