@@ -47,7 +47,7 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
-- **[Домашние задания по теме "Массивы. Цикл foreach"](https://docs.google.com/document/d/1pDPnaFHxf5QDrO7_lCjncmyGuAfjV6bhmhhn-eh7fMg/edit?usp=sharing)**
+- **[Домашние задания по теме "Массивы"](https://docs.google.com/document/d/1XRobwahUDrbpMzyyqgzRsfHX31UgNWEGepwV1wSuZ-M/edit?usp=sharing)**
 
 **Материалы:**
  - [Задачи на массивы в Java](http://taskcode.ru/array)
