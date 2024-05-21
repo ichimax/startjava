@@ -91,7 +91,7 @@
 <details>
 <summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
  
-![tree4](https://github.com/ichimax/startjava/assets/29703461/08566887-d292-44c2-a9dd-f5d405f4b9ec)
+![tree4](https://github.com/ichimax/startjava/assets/29703461/81b2ed05-7772-4c8a-b539-59a9c03efcae)
 </details>
 
 ## 7. <a name="7">Выпускной проект</a>
