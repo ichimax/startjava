@@ -28,7 +28,7 @@
 
 **Общие сведения:**
 - электронный сертификат по окончанию на русском и английском языках
-- среднее время обучения 5 - 7 недель
+- среднее время обучения 7 недель
 - курс можно проходить в удобные для себя время и темп
 - старт обучения сразу после оплаты
 - по завершению - скидка на курс BaseJava
@@ -95,10 +95,7 @@
    - [Домашнее задание](https://github.com/ichimax/startjava/blob/master/lesson%205.md#4-Домашнее-задание)
 
 ## Рекомендуемые книги
- - [Изучаем Java, 2-е издание](https://www.ozon.ru/context/detail/id/7821666/) (вышло [3-е издание](https://blogs.oracle.com/javamagazine/post/head-first-java-third-edition))
- - [Pro Git](https://git-scm.com/book/ru/v2)
- - [Объектно-ориентированный подход. Мэтт Вайсфельд](https://ozon.ru/t/j67EpXr)
- - [Java Programming for Kids (есть русский перевод)](http://myflex.org/books/java4kids/java4kids.htm)
+ - [Список книг для начинающего Java-программиста](https://topjava.ru/blog/spisok-knig-dlya-nachinayushchego-java-programmista)
  
 ## Полезные плейлисты
  - [Яков Файн: "Введение в программирование на языке Java"](https://www.youtube.com/playlist?list=PLkKunJj_bZefB1_hhS68092rbF4HFtKjW)
