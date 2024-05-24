@@ -4,9 +4,7 @@
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
 - ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
 
-**Эталонный код ДЗ из 1-го урока:**
-- [Базовые задачи](https://drive.google.com/drive/folders/13UjP7tlS1iyaFUAz3p4RjUQupSLe_qmO?usp=drive_link)
-- [Итоговые задачи](https://drive.google.com/drive/folders/12GZ6jdqUbvynroi3pyo9SFDj3VnCOVZX?usp=drive_link)
+[Эталонный код ДЗ из 1-го урока](https://drive.google.com/drive/folders/1ngeNs9Gk-ZNxENbG3RxteBS6And_OodT?usp=drive_link)
 
 ## Темы занятия
 1. [Что такое ООП](#1)
