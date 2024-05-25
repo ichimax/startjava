@@ -96,11 +96,11 @@ public class MyFirstApp {
 
 ![var](https://user-images.githubusercontent.com/29703461/155842985-5fae137b-3967-4fe6-893c-0d2a018815a5.png)
 
-- **Домашние задания по теме "Переменные"**
+- **Домашнее задание:**
+  - Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9)
+  - Пришлите наставнику ссылку на удаленный репозиторий с решенными ДЗ
   - ["Именование переменных"](https://docs.google.com/document/d/1Dv-eo8acvOVFJtUVbaWd1Mfb77Q1IiTlhepgy56qMbc/edit?usp=sharing)
   - ["Примитивные типы данных"](https://docs.google.com/document/d/1kJqeCC-fKWUjBjrmHJ1mjDu45SGRL39Q5vW4DmLJflA/edit?usp=sharing)
-- Разберитесь с [Git/GitHub](https://github.com/ichimax/startjava/blob/master/lesson%201.md#9): почитайте рекомендации о том, как с ними работать, настройте свой локальный репозиторий
-- **Покажите ДЗ наставнику** (пришлите ему ссылку на ваш репозиторий с решенным ДЗ)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 7. <a name="7">[Ветвление: if, if else](https://drive.google.com/file/d/1r-UVn4Z9OhV-SUvJdMrC6EG_v9qowAJS/view?usp=sharing)</a>
 
