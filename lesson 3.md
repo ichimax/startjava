@@ -12,8 +12,8 @@
 1. [Механизм пакетов (package) в Java](#1)
 1. [Компиляция Java-программ. Часть II](#2)
 1. [.gitignore](#3)
-1. [Домашнее задание](#5)
-1. [Опросники](#6)
+1. [Домашнее задание](#4)
+1. [Опросники](#5)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
 ![package](https://github.com/ichimax/startjava/assets/29703461/bb23ca5c-947e-47d7-b2d2-f5d8838fdf37)
@@ -38,7 +38,7 @@
 - [Как создать файл .gitignore в Windows](https://ru.stackoverflow.com/questions/438367/Как-создать-файл-gitignore-в-windows/438370)
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
-## 4. <a name="5">Домашнее задание</a>
+## 4. <a name="4">Домашнее задание</a>
 - **[Домашние задания по теме "Пакеты"](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)**
 - **[Домашнее задание на форматирование кода](https://docs.google.com/document/d/19IpFE5YFkGXVdnINh1xkdQC4bWj4dfEdJwrGguFQNtQ/edit?usp=sharing)**
 <details> 
@@ -47,6 +47,6 @@
 ![tree2](https://github.com/ichimax/startjava/assets/29703461/123ff7f5-62be-4ff5-8659-8fc70fd23dfc)
 </details>
 
-## 5. <a name="6">Опросники</a>
+## 5. <a name="5">Опросники</a>
 - [Итоговый тест](https://forms.gle/TqeeTy7QvUyCpsaj9) позволит вам проверить, насколько хорошо вы освоили пройденные темы
 - В этом небольшом [опроснике](https://forms.gle/wrnyKTeMoDJggTNW7) вы сможете поделиться своими впечатлениями (анонимно) по поводу третьего урока: что (не)понравилось, как его можно улучшить и тд. Ваши ответы помогут нам доработать урок, сделав его еще лучше! 
