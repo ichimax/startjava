@@ -45,7 +45,7 @@
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
 
-- **[Домашние задания по теме "Массивы"](https://docs.google.com/document/d/1XRobwahUDrbpMzyyqgzRsfHX31UgNWEGepwV1wSuZ-M/edit?usp=sharing)**
+- [Домашние задания по теме "Массивы"](https://docs.google.com/document/d/1XRobwahUDrbpMzyyqgzRsfHX31UgNWEGepwV1wSuZ-M/edit?usp=sharing)
 
 **Материалы:**
  - [Задачи на массивы в Java](http://taskcode.ru/array)
@@ -85,7 +85,7 @@
 ![newproject](https://github.com/ichimax/startjava/assets/29703461/550d60ce-6a91-4427-ba87-751ba98ce4ce)
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
-- **[Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)**
+- [Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)
 <details>
 <summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
  
