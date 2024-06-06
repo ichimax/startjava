@@ -39,8 +39,8 @@
 - [Что должно и не должно быть в .gitignore](https://ru.stackoverflow.com/questions/474556/Что-должно-и-не-должно-быть-в-gitignore-для-любого-языка-и-ide)
 
 ## 4. <a name="4">Домашнее задание</a>
-- **[Домашние задания по теме "Пакеты"](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)**
-- **[Домашнее задание на форматирование кода](https://docs.google.com/document/d/19IpFE5YFkGXVdnINh1xkdQC4bWj4dfEdJwrGguFQNtQ/edit?usp=sharing)**
+- [Домашние задания по теме "Пакеты"](https://docs.google.com/document/d/1UGPow_Tqdq3GjOvBBkEsiWUu5R1NMcE83tW-Cnosu8E/edit?usp=sharing)
+- [Домашнее задание на форматирование кода](https://docs.google.com/document/d/19IpFE5YFkGXVdnINh1xkdQC4bWj4dfEdJwrGguFQNtQ/edit?usp=sharing)
 <details> 
 <summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
 
