@@ -111,8 +111,8 @@ public class MyFirstApp {
 
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
-- **[Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1LZLCupFXrCmTuaT4KCUW9nKjrzaFDCCH7i5PDpWSLjI/edit?usp=sharing)**
-- **Покажите ДЗ наставнику**
+- [Домашние задания по теме "Ветвление: if-else"](https://docs.google.com/document/d/1LZLCupFXrCmTuaT4KCUW9nKjrzaFDCCH7i5PDpWSLjI/edit?usp=sharing)
+- Покажите ДЗ наставнику
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 8. <a name="8">Циклы: [for](https://drive.google.com/file/d/1MxaPlSwY6-Nv2zOrQGYy5lOSDjYTfnfU/view?usp=sharing), [while, do while](https://drive.google.com/file/d/1YQHY9C1QbueWYFMRBpHFTqg1wt9N_333/view?usp=sharing)</a>
 ![loop](https://user-images.githubusercontent.com/29703461/39228479-100883f2-4867-11e8-9d63-5d18e455aaa2.jpeg)
@@ -123,8 +123,8 @@ public class MyFirstApp {
 - [Оператор for](https://youtu.be/UYbdAmgcNVc) (youtube)
 
 **Домашнее задание:**
-- **[Домашние задания по теме "Циклы: for, while, do while"](https://docs.google.com/document/d/1lHSSOzARTx6tfD-4MV-t41S5bnvdNw5hczkQPT05png/edit?usp=sharing)**
-- **Покажите ДЗ наставнику**
+- [Домашние задания по теме "Циклы: for, while, do while"](https://docs.google.com/document/d/1lHSSOzARTx6tfD-4MV-t41S5bnvdNw5hczkQPT05png/edit?usp=sharing)
+- Покажите ДЗ наставнику
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 9. <a name="9">[Система управления версиями Git](https://drive.google.com/file/d/1IMw7DA_lodW2GueWpU1nMUmYx0pnlPGA/view?usp=sharing)</a>
 ![image](https://user-images.githubusercontent.com/29703461/154850409-7a618576-1105-48a1-9e32-88a34e87693b.png)
@@ -158,7 +158,7 @@ public class MyFirstApp {
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 10. <a name="10">[Итоговые домашние задания](https://drive.google.com/file/d/1Svgm_03td3Aj_MeVt-MBqSCv-PEhXD0A/view?usp=sharing)</a>
 
-- **[Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)**
+- [Итоговые домашние задания](https://docs.google.com/document/d/1m6y5qBMfwKjm0DIo3JYqQ9_QNyhroDvsRAirEyDEP7s/edit?usp=sharing)
 
 <details>
 <summary>Так должна выглядеть структура ваших папок и файлов</summary>
