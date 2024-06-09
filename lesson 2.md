@@ -100,6 +100,7 @@
 
 ## 6. <a name="6">Итоговые домашние задания</a>
 - [Итоговые домашние задания](https://docs.google.com/document/d/1VJxMqjhRilLIqguoGvb-4T9v1jGxWQwa_KgMWEG-fmE/edit?usp=sharing)
+- ["Именование методов"](https://docs.google.com/document/d/1RHDoNWog1FCNRiseb1CJSvL4-dshT2r-v3okjK49Jtw/edit?usp=sharing)
 
 <details>
 <summary>Так должна выглядеть структура ваших файлов и папок</summary>
