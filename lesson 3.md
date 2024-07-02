@@ -44,7 +44,7 @@
 <details> 
 <summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
 
-![tree2](https://github.com/ichimax/startjava/assets/29703461/123ff7f5-62be-4ff5-8659-8fc70fd23dfc)
+![tree2](https://github.com/ichimax/startjava/assets/29703461/9b1b6aed-3bed-43e4-be3c-7f7955f68b31)
 </details>
 
 ## 5. <a name="5">Опросники</a>
