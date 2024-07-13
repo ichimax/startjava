@@ -19,7 +19,7 @@
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
 
-> [Установите и настройте](https://docs.google.com/document/d/1tbyq-g80LTc13LgoxseN_SP9sRnaiuICbUaxmZn1Je0/edit?usp=sharing) линтер (Checkstyle) для IDEA
+> [Установите и настройте](https://topjava.ru/blog/nastroyka-checkstyle-v-intellij-idea) линтер (Checkstyle) для IDEA
 
 **Материалы:**
 - [IntelliJ IDEA для новичков: советы и секреты](https://www.youtube.com/watch?v=mcvnjaLqVWQ) (youtube)
