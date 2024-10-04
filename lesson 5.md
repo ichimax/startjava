@@ -25,7 +25,7 @@
 - `psql -U postgres` — запуск `psql` в Windows
 - `sudo -u postgres psql` — запуск `psql` в Linux
 
-> - Для запуска `psql` из консоли необходимо [занести](https://bestprogrammer.ru/baza-dannyh/podklyuchitsya-k-komandnoj-stroke-bazy-dannyh-postgresql-windows) в переменную `PATH` путь до папки `bin`
+> - Для запуска `psql` из консоли необходимо [занести](https://bestprogrammer.ru/baza-dannyh/podklyuchitsya-k-komandnoj-stroke-bazi-dannix-postgresql-windows) в переменную `PATH` путь до папки `bin`
 > - При подключении к базе данных потребуется ввести пороль, ввод которого [не будет отображаться](https://stackru.com/questions/847564/psql-nevozmozhno-vvesti-parol)
 
 **Материалы:**
@@ -56,5 +56,5 @@
 <details>
 <summary>Так должна выглядеть структура ваших папок и файлов</summary>
 
-![tree5](https://github.com/ichimax/startjava/assets/29703461/08d0ef60-0c64-440e-ab80-8eb3e19aa3dc)
+![tree5](https://github.com/user-attachments/assets/2d0350d4-95dc-4c83-ba61-1ad5a00c7d30)
 </details>
