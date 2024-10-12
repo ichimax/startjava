@@ -48,7 +48,6 @@
 - [Домашние задания по теме "Массивы"](https://docs.google.com/document/d/1XRobwahUDrbpMzyyqgzRsfHX31UgNWEGepwV1wSuZ-M/edit?usp=sharing)
 
 **Материалы:**
- - [Задачи на массивы в Java](http://taskcode.ru/array)
  - [Java Array: Exercises, Practice, Solution](https://www.w3resource.com/java-exercises/array/index.php)
  - Array [1](http://codingbat.com/java/Array-1), [2](http://codingbat.com/java/Array-2), [3](http://codingbat.com/java/Array-3)
 
