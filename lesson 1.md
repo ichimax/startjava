@@ -107,8 +107,9 @@ public class MyFirstApp {
 
 **Материалы:**
 - [Ветвление в Java](https://javarush.ru/groups/posts/2726-vetvlenie-v-java)
-- [Оператор if else](https://youtu.be/ryR033ld_N0) (youtube)
-- [The if-then and if-then-else Statements](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/if.html)
+- [Оператор if-else](https://youtu.be/ryR033ld_N0) (youtube)
+- [Тернарный оператор](https://topjava.ru/blog/ternarnyy-operator-v-java)
+- [The if-then and if-then-else Statements](https://dev.java/learn/language-basics/controlling-flow/)
 
 ![turpal](https://user-images.githubusercontent.com/29703461/39215173-9afa64b4-481f-11e8-9731-fa60a8439f71.jpg)
 
