@@ -34,10 +34,9 @@
 
 **Материалы:**
 - [Руководство по массивам в Java](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-ch1)
-- [Массивы](http://developer.alexanderklimov.ru/android/java/array.php)
-- Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
 - [Varargs](https://topjava.ru/blog/rukovodstvo-po-massivam-v-java-varargs)
-- [Arrays](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+- Массивы в Java ([1](http://www.skipy.ru/technics/arrays.html), [2](https://vertex-academy.com/tutorials/ru/massivy-v-java/))
+- [Arrays](https://dev.java/learn/language-basics/arrays/)
 - [Массивы в Java](https://www.youtube.com/watch?v=li86TEAEhYM) (youtube)
 - [Цикл foreach, Массивы строк](https://www.youtube.com/watch?v=8AD55r64yNw) (youtube)
 - [Цикл foreach в Java](https://pr0java.blogspot.com/2015/04/for-foreach.html)
