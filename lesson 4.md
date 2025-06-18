@@ -11,10 +11,9 @@
 1. [Задачки на массивы](#3)
 1. [Сортировка массива методом пузырька](#4)
 1. [Класс java.util.Arrays](#5)
-1. [Итоговые домашние задания](#6)
-1. [Выпускной проект](#7)
-3. [Опросники](#8)
-4. [Бонусные видео](#9)
+1. [Итоговые домашние задания и выпускной проект](#6)
+1. [Опросники](#7)
+1. [Бонусные видео](#8)
 
 ## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
 > Скачайте и установите [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
@@ -77,7 +76,7 @@
 - [Бинарный поиск](https://youtu.be/SW_UCzFO7X0?t=16m44s) (youtube)
 - [Бинарное дерево поиска](https://youtu.be/HBMlhZAOhoI) (youtube)
 
-## <a name="6">6. Итоговые домашние задания</a>
+## <a name="6">6. Итоговые домашние задания и выпускной проект</a>
 
 - Откройте в IntelliJ IDEA папку `StartJava` со всеми домашними заданиями из прошлых уроков:
 
@@ -85,20 +84,17 @@
 
 - Прочитайте про массивы в книге [Изучаем Java](https://www.ozon.ru/context/detail/id/7821666/): стр 89, 113
 - [Итоговые домашние задания](https://docs.google.com/document/d/1kyGSmbDsisgg94xpfcRjUKKY8DQErE0_tiZSP8-buIU/edit?usp=sharing)
-<details>
+- [Выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing)
 <summary>Так должна выглядеть структура ваших папок и файлов (на GitHub папку out не загружайте)</summary>
- 
+<details>
 ![tree4](https://github.com/ichimax/startjava/assets/29703461/4a0e5906-1c6b-499a-8dfd-1511199b8ccb)
 </details>
 
-## 7. <a name="7">Выпускной проект</a>
-- [Выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing)
-
-## 8. <a name="8">Опросники</a>
+## 7. <a name="7">Опросники</a>
 - [Итоговый тест](https://forms.gle/gqgWh3wh1WbWKBWx7) позволит вам проверить, насколько хорошо вы освоили пройденные темы
 - В этом небольшом [опроснике](https://forms.gle/ykP2B4KsbLzMxEh6A) вы сможете поделиться своими впечатлениями (анонимно) по поводу четвертого урока: что (не)понравилось, как его можно улучшить и тд. Ваши ответы помогут нам доработать урок, сделав его еще лучше!
   
-## 9. <a name="9">Бонусные видео</a>
+## 8. <a name="8">Бонусные видео</a>
 - [Видео](https://drive.google.com/file/d/1W9AtOE3yvDCOOZxmHSw4lGpFiFVYJB8_/view?usp=sharing) с разбором того, как необходимо решить вступительное задание к курсу basejava
 - Также предлагаем вам посмотреть наш вебинар на тему ["Как стать Java-программистом"](https://vk.com/wall-18505771_829)
 
