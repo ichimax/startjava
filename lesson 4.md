@@ -92,7 +92,7 @@
 </details>
 
 ## 7. <a name="7">Выпускной проект</a>
-- Вы можете выполнить [выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing), который проверит наставник. Это не обязательная опция, делайте его по желанию
+- [Выпускной проект](https://docs.google.com/document/d/1IAiDJmSAD86P-xTp3kOs-tFFuDQViXRewI-vpk1nT3g/edit?usp=sharing)
 
 ## 8. <a name="8">Опросники</a>
 - [Итоговый тест](https://forms.gle/gqgWh3wh1WbWKBWx7) позволит вам проверить, насколько хорошо вы освоили пройденные темы
