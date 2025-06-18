@@ -83,10 +83,9 @@
   - [Задачки на массивы](https://github.com/ichimax/startjava/blob/master/lesson%204.md#3)
   - [Сортировка массива методом пузырька](https://github.com/ichimax/startjava/blob/master/lesson%204.md#4)
   - [Класс java.util.Arrays](https://github.com/ichimax/startjava/blob/master/lesson%204.md#5)
-  - [Итоговые домашние задания](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6)
-  - [Выпускной проект](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7)
-  - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%204.md#8)
-  - [Бонусные видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#9)
+  - [Итоговые домашние задания и выпускной проект](https://github.com/ichimax/startjava/blob/master/lesson%204.md#6)
+  - [Опросники](https://github.com/ichimax/startjava/blob/master/lesson%204.md#7)
+  - [Бонусные видео](https://github.com/ichimax/startjava/blob/master/lesson%204.md#8)
   
 - **Занятие пятое (бонусное)**
    - [Введение в реляционные базы данных](https://github.com/ichimax/startjava/blob/master/lesson%205.md#-1-Введение-в-реляционные-базы-данных)
