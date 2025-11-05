@@ -1,8 +1,8 @@
 # Занятие второе
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1VXg-RlS-DprXOjbH8s5FieOUga_PCzBZ/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1XFSXQuUchrwD7aNsUQKjxvRtKNy1_wkx/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1btsBe-Lujn7BDk3e0fygdiyRyjdNaPpi/view?usp=drive_link)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/10WnV9OQLS5tJPJxgam7pa0bZNcyBJg-J/view?usp=drive_link)
 
 [Эталонный код ДЗ из 1-го урока](https://drive.google.com/drive/folders/1ngeNs9Gk-ZNxENbG3RxteBS6And_OodT?usp=drive_link)
 
@@ -15,7 +15,7 @@
 1. [Итоговые домашние задания](#6)
 1. [Опросники](#7)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1Jsfz5Ygb5Ct1in7MTcNV3wSsx_30D5h3/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Что такое ООП](https://drive.google.com/file/d/1gqQO7AR8mkR5D8esNk7wHYcwOKzScqRw/view?usp=drive_link)</a>
 
 >ООП — это одна из парадигм (методологий, способов оформления кода) программирования, основанная на принципах, предполагающих написание программного кода в виде классов и их объектов, взаимодействующих друг с другом
 
@@ -28,7 +28,7 @@
 
 ![oop](https://user-images.githubusercontent.com/29703461/39483340-b3a50496-4d7a-11e8-8e02-42a8d63de02d.jpg)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1AjEL8wuTK6BbiMWB2hhi_Cx6_m7NMrD1/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Что такое класс](https://drive.google.com/file/d/1kPc7zqRnjYD0Hkg03xr_tQBIzsjBJYfU/view?usp=drive_link)</a>
 
 >Класс — это ссылочный тип данных, являющийся прототипом (blueprint, шаблоном) объекта, описывающий его характеристики и реализующий его поведение
 
@@ -50,7 +50,7 @@
 - **Для форматирования кода этого и последующих ДЗ используйте правила из [статьи](https://topjava.ru/blog/pravila-formatirovaniya-koda-v-java2)**
 - **Покажите ДЗ наставнику**
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1hJCGeVRy-4mTTkViK219JzfLKbwLze66/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[Что такое объект](https://drive.google.com/file/d/1O3cKiLmk82nC1d51rJHiNONBCM8htG7c/view?usp=drive_link)</a>
 
 >Объект — это экземпляр какого-либо класса, обладающий характеристиками в виде полей (fields) и поведением (функционалом) в виде методов (methods)
 
@@ -72,7 +72,7 @@
   - вызовите методы объекта
 - **Покажите ДЗ наставнику**
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1GWI8rJS6Xwbhz512R4ohdN3b0UKYnnm1/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 4. <a name="4">[Инкапсуляция: геттеры/сеттеры](https://drive.google.com/file/d/1TR9Nx25WGS0EPcyC_ZEM08T5cphtQbiK/view?usp=drive_link)</a>
 
 **Материалы:**
 - [Что такое инкапсуляция](https://youtu.be/nyFQvgrkoXY) (youtube)
