@@ -10,7 +10,7 @@
 1. [Введение в SQL](#3)
 1. [Домашнее задание](#4)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Введение в реляционные базы данных](https://drive.google.com/file/d/16JpQcAwKyhFQkh0D6et2RMVXx2fUFBkc/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Введение в реляционные базы данных](https://drive.google.com/file/d/188VnW846r2wA6H4xOV_GjROLLKGvruBa/view?usp=drive_link)</a>
 
 **Материалы:**
 - [Что такое базы данных, СУБД и язык SQL](https://youtu.be/GbogxIMRy-o) (youtube)
@@ -19,7 +19,7 @@
 
 ![database2](https://user-images.githubusercontent.com/29703461/40881632-64b2d3a4-66d4-11e8-842e-366d29c783f2.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Реляционная СУБД PostgreSQL. Терминал psql](https://drive.google.com/file/d/1GQulzZEjzfvbOVcK7rXagprbpkMm0rg5/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Реляционная СУБД PostgreSQL. Терминал psql](https://drive.google.com/file/d/1PlRT-1K7ovItPoFGkL1i1EOpw1LySgD0/view?usp=drive_link)</a>
 Скачайте и установите [СУБД PostgreSQL](https://www.postgresql.org/download)
 
 - `psql -U postgres` — запуск `psql` в Windows
@@ -39,7 +39,7 @@
 
 ![postgresql-10](https://user-images.githubusercontent.com/29703461/40881654-c0325af6-66d4-11e8-9a40-b7de3fb24f7b.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Введение в SQL](https://drive.google.com/file/d/1NTxcqFXVFgEHcQGNhX8GkchXgdvFs-g3/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Введение в SQL](https://drive.google.com/file/d/1-K4Y9biaM0WG-LJvKocIzPt2lvPYr670/view?usp=drive_link)</a>
 
 **Материалы:**
 - [SQL ключи во всех подробностях](https://habr.com/company/oleg-bunin/blog/348172/)
