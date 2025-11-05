@@ -1,7 +1,7 @@
 # Занятие четвертое
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1IYfWYTgZnuJM80OkyWC7Ydpa8cgmfZOt/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Наводим порядок в проекте](https://drive.google.com/file/d/1dxf_sem2ygQlty49dCnpilN5TRd3Io8d/view?usp=drive_link)
 
 [Эталонный код ДЗ из 3-го урока](https://drive.google.com/drive/folders/10Z1kBwLRjwTuJYiwPdnTOeQOqrMcjlrZ?usp=drive_link)
 
@@ -15,7 +15,7 @@
 1. [Опросники](#7)
 1. [Бонусные видео](#8)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки IntelliJ IDEA](https://drive.google.com/file/d/1EztSgbHW7rOMqFdIQU2gfV9DVn9zQ7q0/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="1">1. [Среда разработки IntelliJ IDEA](https://drive.google.com/file/d/1gzGRTB8HpmWtkWzJOh3LxMEBSJe-K5nh/view?usp=drive_link)</a>
 > Скачайте и установите [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/download/)
 
 > [Установите и настройте](https://topjava.ru/blog/nastroyka-checkstyle-v-intellij-idea) линтер (Checkstyle) для IDEA
@@ -27,7 +27,7 @@
 
 ![idea](https://user-images.githubusercontent.com/29703461/165950777-7fbb404c-4cca-41c4-8c51-6a7700b5c838.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/11hTa-7sbV2R7YKNmfE4qZ_4DBtIwUKwJ/view?usp=sharing). Цикл [foreach](https://drive.google.com/open?id=1ZvCrFOKiIV01ZO1yGtDsuFRNg3YksfqU)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="2">2. [Массивы](https://drive.google.com/file/d/18oVtQHs-sny1vf1mKK36U0uzIN31dmnE/view?usp=drive_link). Цикл [foreach](https://drive.google.com/file/d/1Z1yrxikjTl3VdnwI5T8GLZ-lmsIumYMn/view?usp=drive_link)</a>
 > Массив — это структура данных фиксированного размера, являющаяся объектом и состоящая из ячеек, расположенных последовательно в памяти, которые могут хранить в себе значения только одного, заранее заданного типа. При этом каждая ячейка обладает адресом (порядковым номером, индексом), позволяющим получать к ней доступ.
 
 **Материалы:**
@@ -41,7 +41,7 @@
 
 ![arr](https://user-images.githubusercontent.com/29703461/40573705-dd7d8a52-60cd-11e8-8213-7f79b0c56f24.png)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1Bp7evzvvumsISUp0DHXBekH0iDOflkvB/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) <a name="3">3. [Задачки на массивы](https://drive.google.com/file/d/1e8hvJh8ScSVMir3BUJsWvkvgF0mKsv7w/view?usp=drive_link)</a>
 
 - [Домашние задания по теме "Массивы"](https://docs.google.com/document/d/1XRobwahUDrbpMzyyqgzRsfHX31UgNWEGepwV1wSuZ-M/edit?usp=sharing)
 
