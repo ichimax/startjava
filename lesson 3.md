@@ -1,10 +1,10 @@
 # Занятие третье
 
 ## Разбор домашнего задания
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (setters)](https://drive.google.com/file/d/1_ljcNYoajX_N48bYCRBAQOCR18telTUp/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (constructors)](https://drive.google.com/file/d/1j-7-cA_WmlCQC_-2MgAMuQTUpKKE4ylt/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1v1MaEFTnHSpYsy4pF0a1D6kiJqQaf2he/view?usp=sharing)
-- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1AFfvUiPiR87noEFrX8n7y9Tet57oHvEq/view?usp=sharing)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (setters)](https://drive.google.com/file/d/1yVGLEizlbNMIcKnA-k0zcR-3MDz10gyQ/view?usp=drive_link)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Jaeger (constructors)](https://drive.google.com/file/d/1MfceYSPdJVzwnhYbjG0Z_Q2gyZYgfOpS/view?usp=drive_link)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Калькулятор](https://drive.google.com/file/d/1iaPZtwXQtmZ-VL5PpMTuce3zyDb0RblV/view?usp=drive_link)
+- ![video](https://user-images.githubusercontent.com/29703461/81983788-359a6c80-9634-11ea-9b47-09a56fd3d999.png) [Угадай число](https://drive.google.com/file/d/1xHdQkitRqgH_JEYfAHVv-LyyJX9CIrYY/view?usp=drive_link)
 
 [Эталонный код ДЗ из 2-го урока](https://drive.google.com/drive/folders/1u7joNyqFODZghze_Qbri8Bs_1EqIT8pa?usp=drive_link)
 
@@ -15,7 +15,7 @@
 1. [Домашнее задание](#4)
 1. [Опросники](#5)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1dzZwKVirUys88V5_CVM0RfQ4iQcQ0cIq/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 1. <a name="1">[Механизм пакетов (package) в Java](https://drive.google.com/file/d/1iT9iHcm_mHQiKpvC3rfrApzUHCJNptkj/view?usp=drive_link)</a>
 ![package](https://github.com/ichimax/startjava/assets/29703461/bb23ca5c-947e-47d7-b2d2-f5d8838fdf37)
 
 **Материалы:**
@@ -23,14 +23,14 @@
 -	[Пакеты](https://www.youtube.com/watch?v=a6KGNASOtK8) (youtube)
 - [Packages](https://dev.java/learn/packages/)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Компиляция Java-программ. Часть II](https://drive.google.com/file/d/13re6jwLbagQaIkmBPr3LNUc3hIEGUbiZ/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 2. <a name="2">[Компиляция Java-программ. Часть II](https://drive.google.com/file/d/1b71LpPgbmhABQ1vxF_-n77b8m8yC0E-1/view?usp=drive_link)</a>
 **Материалы:**
 - [Компиляция и запуск](https://topjava.ru/blog/rukovodstvo-po-paketam-v-java#6)
 - [Работа с Java в командной строке](https://habr.com/post/125210/)
 - [javac — документация по Java-компилятору](https://docs.oracle.com/en/java/javase/22/docs/specs/man/javac.html)
 - [java — документация по java-лаунчеру](https://docs.oracle.com/en/java/javase/22/docs/specs/man/java.html)
 
-## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[.gitignore](https://drive.google.com/file/d/1cJVmgrIfLo4iNDhfNkrdkkSZUKszzApN/view?usp=sharing)</a>
+## ![video](https://user-images.githubusercontent.com/29703461/81982928-d556fb00-9632-11ea-9794-ea198832d674.png) 3. <a name="3">[.gitignore](https://drive.google.com/file/d/130PL0z22V_dB6AZTzzHo9bqIReaa51j7/view?usp=drive_link)</a>
 **Материалы:**
 - [Игнорирование файлов и папок](https://topjava.ru/blog/vvedeniye-v-git-github-bazovyye-komandy#11)
 - [Игнорирование файлов в Git](https://youtu.be/fzmCx6FLLu0) (youtube)
